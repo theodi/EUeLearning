@@ -1,6 +1,6 @@
 [
     {
-        "_id":"c-01",
+        "_id":"c-02",
         "_parentId":"b-01",
         "_type":"component",
         "_component":"graphic",
@@ -16,129 +16,99 @@
             "large": "",
             "medium": "",
             "small": "",
-            "*source":"",
-            "*credit":"",
-            "*license":""
+            "*source": "",
+            "*credit": "",
+            "*licence": ""
         }
     },
     {
-        "_id":"c-02",
+        "_id":"c-01",
         "_parentId":"b-01",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"What is open data?",
-        "displayTitle":"What is open data?",
-        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>. Governments, businesses and individuals can use open data to bring about social, economic and environmental benefits.</p><h5>In this module we’ll explore the following:</h5><ul class='ticks'><li>What is open data?</li><li>What is data?</li><li>What makes data open?</li><li>Why do we need open data?</li></ul>",
-        "instruction":"",
+        "title":"Choosing the right format for open data",
+        "displayTitle":"Choosing the right format for open data",
+        "body":"<p>The format of an open dataset is the way in which the data is structured and made available for humans and machines.</p><p>Choosing the right format enables simpler management and reuse of the data. To maximise reuse of the data, it may be necessary for a publisher to use a number of formats and structures available across different platforms that suit the user’s needs.</p><h5>In this module we'll explore the following:</h5><ul class='ticks'><li>Why formats matter to open data</li><li>Choosing the correct structure</li><li>Access open data formats</li><li>Keeping it simple with CSV</li></ul>",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
     },
     {
-    "_id":"c-11",
-    "_parentId":"b-10",
-    "_type":"component",
-    "_component":"iFrame-vimeo",
-    "_classes":"",
-    "_layout":"full",
-        "title":"Discovering open data – in 2 minutes",
-        "displayTitle": "Discovering open data – in 2 minutes",
-        "body": "ODI Trainer Dr David Tarrant explains what data is, what makes it open and why we need open data.",
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"iFrame-vimeo",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Open data formats",
+        "displayTitle": "Open data formats",
+        "body": "ODI Trainer David Tarrant explains why formats matter in open data, how to choose the right structure and formats and why CSV is a good starting point for most tabular open data.",
         "instruction": "",
         "_setCompletionOn":"ended",
-        "_source": "https://player.vimeo.com/video/129196637",
+        "_source": "https://player.vimeo.com/video/129197202",
         "_width": {
-            "_small" : 300,
-            "_medium" : 500,
-            "_large" : 905
+                "_small" : 300,
+                "_medium" : 500,
+                "_large" : 905
         },
         "_height": {
-            "_small" : 250,
-            "_medium" : 350,
-            "_large" : 508
+                "_small" : 250,
+                "_medium" : 350,
+                "_large" : 508
         }
     },
     {
-        "_id":"c-21",
-        "_parentId":"b-20",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "_graphic": {
-            "alt": "What is open data?",
-            "title": "What is open data?",
-            "large": "course/en/images/odi-1-text-image_large.jpg",
-            "medium": "course/en/images/odi-1-text-image_large.jpg",
-            "small": "course/en/images/odi-1-text-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
-            "*license":"Shutterstock Standard License"
-        }
-    },
-    {
-        "_id":"c-22",
-        "_parentId":"b-20",
-        "_type":"component",
-        "_component":"text",
-        "_classes":"",
-        "_layout":"left",
-        "title":"What is open data?",
-        "displayTitle":"What is open data?",
-        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.</p><p>Open data becomes useable through being available in a common, machine-readable format.</p><p>Open data must be licensed. This licence must permit the data to be freely used and allow users to transform, combine and share it with others, even commercially.</p>"
-    },
-     {
-        "_id": "c-25",
-        "_parentId": "b-25",
+        "_id": "c-20",
+        "_parentId": "b-20",
         "_classes": "",
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "From raw material to new information and knowledge",
-        "displayTitle": "From raw material to new information and knowledge",
-        "body": "Without data, we can’t build information.  And without information, there is no new knowledge.",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "title": "Usability, management and access",
+        "displayTitle": "Usability, management and access",
+        "body": "<p>Open data must be available for anyone to access use and share. In this section we consider what formats maximise usability of the data, ease of access for everyone and makes management simple for publishers.</p>",
+        "instruction": "<em>Click the forward arrow to see more</em>",
         "_items": [
             {
-                "title": "Data",
-                "body": "<p>Data is the lowest level of raw material from which information and knowledge can be derived.</p><p>Think of data as those locations, images, descriptions, reviews and prices that form the basis of information that can help you plan a holiday, for example.</p>",
+                "title": "Usability",
+                "body": "<p>The most usable format for data is likely to be one in which the dataset was first created. In many cases, this format may be a proprietary software programme like Microsoft Excel. While such programmes often have the ability to export data in other formats, their popularity can make publishing in a different format a barrier to reuse by others.</p><p>Additionally, software programmes like Excel also come with richer content, like styling on tables and graphs of data. These can all help to give context to a human who is trying to understand the data.</p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-2-narrative_large.jpg",
-                    "alt": "Data in knowledge triangle",
-                    "title": "Data in knowledge triangle",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-                    "*credit":"Anna Frajtova",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/en/images/odi-001.jpg",
+                    "alt": "Usability",
+                    "title": "Usability",
+                    "*source": "http://www.shutterstock.com/pic.mhtml?id=234298726&src=id",
+                    "*credit": "Sentavio",
+                    "*licence": "Shutterstock standard license"
                 },
-                "strapline": "Data"
+                "strapline": "Usability"
             },
             {
-                "title": "Information",
-                "body": "<p>Data becomes information when it is given a context.</p><p>Following on from the previous example, locations, images, descriptions and prices can all be related to a tourist attraction.</p><p>It is the collection and presentation of the data that forms information.</p>",
+                "title": "Management",
+                "body": "<p>For some publishers, open data is now the main source for their data, even for staff in the publishing organisation. Using open data as a way for staff to access information inside an organisation has many benefits:</p><ul><li>Increases knowledge of team on open data.</li><li>Increases sustainability and trust of data by making it a key component of the organisation’s operations.</li><li>Creates clear opportiunities for innovation.</li></ul>",
                 "_graphic": {
-                    "src": "course/en/images/odi-3-narrative_large.jpg",
-                    "alt": "Information in knowledge triangle",
-                    "title": "Information in knowledge triangle",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-                    "*credit":"Sachezi",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/en/images/odi-002.jpg",
+                    "alt": "Management",
+                    "title": "Management",
+                    "*source": "http://www.shutterstock.com/pic.mhtml?id=254601265&src=id",
+                    "*credit": "Meilun",
+                    "*licence": "Shutterstock standard license"
                 },
-                "strapline": "Information"
+                "strapline": "Management"
             },
             {
-                "title": "Knowledge",
-                "body": "<p>Knowledge is what is derived from information, and personalised for your needs.</p><p>Building knowledge is a process of turning information into choices.</p><p>Building on the previous example, knowing that no one in your family likes theme parks will help you decide which places to avoid on holiday, and which would suit your family better.</p>",
+                "title": "Access",
+                "body": "<p>For open data to be as accessible as possible, it must be:</p><ul><li>A format that the user can understand.</li><li>A format that machines can read.</li><li>A format that supports easy reuse of the data.</li><li>A format that doesn’t require expensive tools to access.</li></ul><p>The format appropriate for each dataset may be different. A document (like a PDF) may make the data the easiest for a human to understand but would not be the most readable for a machine. For this reason, accessibility is often achieved by making the same data available in a range of different formats.</p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-4-narrative_large.jpg",
-                    "alt": "Knowledge in knowledge triangle",
-                    "title": "Knowledge in knowledge triangle",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
-                    "*credit":"Oleksiy Mark",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/en/images/odi-003.jpg",
+                    "alt": "Access",
+                    "title": "Access",
+                    "*source": "http://www.shutterstock.com/pic.mhtml?id=238197199&src=id",
+                    "*credit": "Brian Senic",
+                    "*licence": "Shutterstock standard license"
                 },
-                "strapline": "Knowledge"
+                "strapline": "Access"
             }
         ],
         "_pageLevelProgress": {
@@ -146,113 +116,152 @@
         }
     },
     {
-        "_id":"c-30",
-        "_parentId":"b-28",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "_graphic": {
-            "alt": "What makes data open?",
-            "title": "What makes data open?",
-            "large": "course/en/images/odi-5-accordion_large.jpg",
-            "medium": "course/en/images/odi-5-accordion_large.jpg",
-            "small": "course/en/images/odi-5-accordion_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
-            "*license":"Shutterstock Standard License"
-        }
-    },
-    {
-      "_id":"c-35",
-      "_parentId":"b-28",
+      "_id":"c-30",
+      "_parentId":"b-30",
       "_type":"component",
-      "_component":"accordion",
+      "_component":"narrative",
       "_classes":"",
-      "_layout":"left",
-      "title": "What makes data open?",
-      "displayTitle": "What makes data open?",
-      "body": "<p>Data is open if anyone can access, use and share it.<br />There are some simple things to consider when defining openness: </p>",
-      "instruction": "",
+      "_layout":"full",
+      "title": "Common data structures",
+      "displayTitle": "Common data structures",
+      "body": "<p>Not all data can be appropriately expressed as a spreadsheet. Different file formats may have to be considered. There are three key structures to be aware of: tabular, hierarchical and network.</p>",
+      "instruction": "<em>Click the forward arrow to see more</em>",
       "_items": [
         {
-          "alt": "Limitations",
-          "title": "Limitations",
-          "body": "<p>For data to be open, there should be no limitations that prevent any particular use</p><p>Any user should be free to use, modify, combine and share the data, even commercially</p>"
+          "alt": "Tabular",
+          "title": "Tabular",
+          "body": "<p>The most common structure is tabular. Data is organised into rows and columns listing sequential values, such as expenditure.</p><p>If the data is based on separate entries that are not linked to each other then a tabular file structure in a format such as CSV is ideal. An example of appropriate tabular data is the Italian data portal’s museum attendance figures.<br /><a href='http://www.datiopen.it/opendata/Visitatori_musei_pubblici_e_similari_titolo_d_accesso' target='_blank'>Take me to Italian Data Portal</a></p>",
+          "_graphic": {
+                    "src": "course/en/images/odi-004.jpg",
+                    "alt": "Tabular",
+                    "title": "Tabular",
+                    "*source": "http://www.shutterstock.com/pic.mhtml?id=262874696&src=id",
+                    "*credit": "benjaminec",
+                    "*licence": "Shutterstock standard license"
+                },
+           "strapline": "Tabular"
         },
         {
-          "alt": "Cost",
-          "title": "Cost",
-          "body": "<p>Even though open data must be free to use, this does not mean that it must be free to access.</p><p>There is often a cost in creating, maintaining and publishing useable data.</p><p>Ideally, any fee for open data should be no more than the reasonable reproduction cost of the unit of data that is requested.</p><p>This reproduction cost tends to be negligible for many datasets.</p><p>Live data and big data can incur ongoing costs related to reliable service provision.</p>"
+          "alt": "Hierarchical",
+          "title": "Hierarchical",
+          "body": "<p>Hierarchical data shows the relationships between data points, such as a family tree or municipalities in each country. If the dataset depends on the relationship between data points and follows a structure in which data points are linked in vertical ‘trees’, a hierarchical data structure in a format such as JSON is ideal. An example of appropriate hierarchical data is the business data from gov.uk.<br /><a href='https://www.gov.uk/browse/business.json' target='_blank'>Take me to the gov.uk business data</a></p>",
+          "_graphic": {
+                    "src": "course/en/images/odi-005.jpg",
+                    "alt": "Hierarchical",
+                    "title": "Hierarchical",
+                    "*source": "http://www.shutterstock.com/pic.mhtml?id=103051607&src=id",
+                    "*credit": "tovovan",
+                    "*licence": "Shutterstock standard license"
+                },
+           "strapline": "Hierarchical"
         },
         {
-          "alt": "Reuse",
-          "title": "Reuse",
-          "body": "<p>Once the user has the data, they are free to use, reuse and redistribute it – even commercially.</p><p>Open data is measured by what it can be used for, not by how it is made available.</p><p>Aspects like format, structure and machine readability all make data more usable, and should all be carefully considered.</p><p>However, these do not make the data more open.</p>"
+          "alt": "Network",
+          "title": "Network",
+          "body": "<p>Network structured data allows relationships to exist between any combination of elements in any direction.</p><p>A good example of a network data structure are social networks. Think of your network of friends and their friends on Facebook, consider first, second and third degree contacts on LinkedIn.<p><p>The web is another example of a network data structure, where web pages link to any number of other pages in any direction.</p>",
+          "_graphic": {
+                    "src": "course/en/images/odi-006.jpg",
+                    "alt": "Network",
+                    "title": "Network",
+                    "*source": "http://www.shutterstock.com/pic.mhtml?id=136115477&src=id",
+                    "*credit": "Ovchinnkov Vladimir",
+                    "*licence": "Shutterstock standard license"
+                },
+           "strapline": "Network"
         }
       ],
       "_pageLevelProgress": {
         "_isEnabled": true
       }
     },
-     {
-        "_id": "c-40",
-        "_parentId": "b-30",
-        "_classes": "",
+    {
+        "_id":"c-41",
+        "_parentId":"b-40",
         "_type":"component",
-        "_layout": "full",
-        "_component": "narrative",
-        "title": "Why do we need open data?",
-        "displayTitle": "Why do we need open data?",
-        "body": "Open data has the power to bring diverse benefits to governments, businesses and civil society.",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
-        "_items": [
-            {
-                "title": "Transform government",
-                "body": "<p>Open data helps make governments more transparent. It can provide the evidence that public money is being well spent and policies are being implemented.</p><p>For example, according to leading open government activist David Eaves, open data allowed citizens in Canada to save the government $3.2 billion in fraudulent charitable donations in 2010.<br /><a href='http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/' target='_blank'>Take me to David Eaves article</a></p><p>In another example, according to Follow the Money, in Nigeria, the same process is used to ensure that public funds are spent implementing the policies promised to the people.<br /><a href='http://followthemoneyng.org/' target='_blank'>Take me to Follow the Money</a></p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-6-narrative_large.jpg",
-                    "alt": "Transform government",
-                    "title": "Transform government",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=265940657&src=lb-35924366",
-                    "*credit":"hxdyl",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Transform government"
-            },
-            {
-                "title": "Build new business opportunities",
-                "body": "<p>Open data is opening up new opportunities for businesses to connect to customers.</p><p>Transport for London has released open data that developers have used to build over 800 transport apps.<br /><a href='http://www.tfl.gov.uk/' target='_blank'>Take me to Transport for London</a></p><p>Thomson Reuters is using open data to connect better with existing customers in order to provide better services.<br /><a href='http://site.thomsonreuters.com/site/data-identifiers/' target='_blank'>Take me to Thomson Reuters</a></p><p>TThe ODI Startup programme now has over 70 employees with income over £4m.<br /><a href='http://theodi.org/odis-second-year-annual-report' target='_blank'>Take me to The ODI annual report</a></p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-7-narrative_large.jpg",
-                    "alt": "Build new business opportunities",
-                    "title": "Build new business opportunities",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-                    "*credit":"Sergey Nivens",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Build new business opportunities"
-            },
-            {
-                "title": "Protect our planet",
-                "body": "<p>The web has become a core part of our infrastructure and open data will build on this.</p><p>Open data on weather can provide an early warning system for environmental disasters, for example.<br /><a href='http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc' target='_blank'>Take me to the United Nations news centre</a></p><p>Open data is also helping consumers to understand their personal impact on the environment and take steps to improve it.<br /><a href='https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf' target='_blank'>Take me to Better Choices Better Deals report.</a></p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-8-narrative_large.jpg",
-                    "alt": "Protect our planet",
-                    "title": "Protect our planet",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=261740228&src=lb-35924366",
-                    "*credit":"hbpictures",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Protect our planet"
-            }
-        ],
-        "_pageLevelProgress": {
-        "_isEnabled": true
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "Accessing right data format",
+            "title": "Accessing right data format",
+            "large": "course/en/images/odi-007.jpg",
+            "medium": "course/en/images/odi-007.jpg",
+            "small": "course/en/images/odi-007.jpg",
+            "*source": "http://www.shutterstock.com/pic-199692071",
+            "*credit": "Ing. Andrej Kaprinay",
+            "*licence": "Shutterstock standard license"
         }
-    }, {
-        "_id":"c-42",
-        "_parentId":"b-33",
+   },
+   {
+      "_id":"c-40",
+      "_parentId":"b-40",
+      "_type":"component",
+      "_component":"accordion",
+      "_classes":"",
+      "_layout":"left",
+      "title": "Finding open data in the right formats",
+      "displayTitle": "Finding open data in the right formats",
+      "body": "<p>As a user of open data, it is important to understand how publishers are delivering different formats to you for reuse.</p><p>Not all data is suitable for download either because it is too large, too regularly updated or too complex to expose as static files. Some data may need to be split into smaller parts. Other data may need to be published as live feeds to make sure it stays in date.</p>",
+      "instruction": "<em>Click the headings to explore further.</em>",
+      "_items": [
+        {
+          "alt": "Downloadable open data",
+          "title": "Downloadable open data",
+          "body": "<p>Tabular data is the most suited for download. This is why most government open data portals are predominantly tabular data. However managing millions of rows of data may require other considerations:</p><ul><li>Should the data be split into smaller datasets?</li><li>How often should the data  be updated?</li><li>How will changes in the way you publish affect the previous releases?</li></ul>"
+        },
+        {
+          "alt": "Live data and data feeds",
+          "title": "Live data and data feeds",
+          "body": "<p>Some data is not suitable to be made available as a downloadable file.</p><p>Much of this data is updated so regularly that the file downloads would be too large for most users. This type of open data structure may be made available by a machine interface, also know as an API.</p><p>There are many services that make machine interfaces available over the web. These  services can be directly integrated into other web applications. For an example of an open data API, look at the Belgian railway company.<br /><a href='https://hello.irail.be/api/1-0/' target='_blank'>Take me to iRail API</a></p>"
+        }
+      ],
+      "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-50",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "CSV",
+            "title": "CSV",
+            "large": "course/en/images/odi-008.jpg",
+            "medium": "course/en/images/odi-008.jpg",
+            "small": "course/en/images/odi-008.jpg",
+            "*source": "http://www.shutterstock.com/pic.mhtml?id=205002868&src=id",
+            "*credit": "Blan-k",
+            "*licence": "Shutterstock standard license"
+        }
+    },
+    {
+        "_id":"c-51",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"Choosing the right format for open data",
+        "displayTitle":"Choosing the right format for open data",
+        "body":"<p>When it comes to open data formats, start with CSV.</p><p>A comma separated values (CSV) file is simply lines of data with each data point separated from the next by a comma. CSV is perfect for tabular data and can be easily loaded into and saved from applications like Excel, making it accessible to users.</p><p>Although CSV doesn’t maintain formatting and graphs like Excel formats, it is an open, machine readable format. CSV represents the simplest format that still support broad reuse of open data. In other words, CSV is the ‘lowest common denominator’ for open data and should be welcomed wherever possible.</p>",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-55",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
@@ -270,150 +279,58 @@
         }
     },
     {
-        "_id":"c-43",
-        "_parentId":"b-33",
+        "_id":"c-56",
+        "_parentId":"b-55",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Are you ready for open data?",
-        "displayTitle":"Are you ready for open data?",
-        "body":"<p>There are four helpful things to remember when thinking about opening your data for users, can you remember them?</p>",
+        "title":"Are your formats in order?",
+        "displayTitle":"Are your formats in order?",
+        "body":"<p>Test your knowledge on open data formats with our questions. Can you recall the important points?</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
     },
     {
-        "_id":"c-45",
-        "_parentId":"b-35",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"illustration",
-        "_layout":"right",
-        "_graphic": {
-            "alt": "What is open data",
-            "title": "",
-            "large": "course/en/images/odi-9-mcq-image_large.jpg",
-            "medium": "course/en/images/odi-9-mcq-image_large.jpg",
-            "small": "course/en/images/odi-9-mcq-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
-            "*license":"Shutterstock Standard License"
-        }
-    },
-    {
-        "_id":"c-50",
-        "_parentId":"b-35",
-        "_type":"component",
-        "_component":"mcq",
-        "_classes":"",
-        "_layout":"left",
-        "_attempts":1,
-        "_questionWeight":1,
-        "_isRandom":true,
-        "_selectable":1,
-        "title": "What is open data?",
-        "displayTitle": "What is open data?",
-        "body": "<p>Open data is...</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
-        "_items": [
-            {
-                "text": "information that we sell to businesses.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "data that anyone can access, use and share.",
-                "_shouldBeSelected": true
-            },
-            {
-                "text": "data that is visible on the web.",
-                "_shouldBeSelected": false
-            }
-        ],
-        "_feedback":{
-            "correct":"<h5>That’s right!</h5><p><strong>Open data</strong> is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.<br />Open data must also be licenced to allow free usage and be available for commercial use.</p>",
-            "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p><strong>Open data</strong> is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.<br />Open data must also be licenced to allow free usage and must also be available for commercial use.</p></p>",
-                "final": "<h5>Are you sure about that?</h5><p><p><strong>Open data</strong> is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.<br />Open data must also be licenced to allow free usage and must also be available for commercial use.</p></p>"
-            },
-            "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-          }
-        },
-        "_buttons":{
-            "submit":"",
-            "reset":"",
-            "showCorrectAnswer":"",
-            "hideCorrectAnswer":""
-        },
-        "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-        "_id":"c-55",
-        "_parentId":"b-40",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"illustration",
-        "_layout":"left",
-        "_graphic": {
-            "alt": "Data, information, knowledge tiangle",
-            "title": "",
-            "large": "course/en/images/odi-10-mcq_large.jpg",
-            "medium": "course/en/images/odi-10-mcq_large.jpg",
-            "small": "course/en/images/odi-10-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-            "*credit":"Anna Frajtova",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-            "*credit":"Sachezi",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
-            "*license":"Shutterstock Standard License"
-        }
-    },
-    {
         "_id":"c-60",
-        "_parentId":"b-40",
+        "_parentId":"b-60",
         "_type":"component",
         "_component":"mcq",
         "_classes":"",
-        "_layout":"right",
+        "_layout":"left",
         "_attempts":1,
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "What is data?",
-        "displayTitle": "What is data?",
-        "body": "<p>Data is...</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "title": "Picking the right format.",
+        "displayTitle": "Why is picking the right format for open data important?",
+        "body": "<p>Why is picking the right format for open data important?</p>",
+        "instruction": "<em>Select an option, then click 'Submit'.</em>",
         "_items": [
             {
-                "text": "numbers, words, maps and photos.",
+                "text": "Ensure that privacy is protected.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "information posted on the web.",
+                "text": "Drive down costs.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "the raw material of information and knowledge.",
+                "text": "Ease, usability, management and access.",
                 "_shouldBeSelected": true
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>",
+            "correct":"<h5>That’s right!</h5><p>Picking the correct formats will assist usability, make management easier and lower the barriers of access. Choices here will not affect privacy and may even increase cost.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>"
+                "notFinal": "<h5>Are you sure about that?</h5><p>Picking the correct formats will assist usability, make management easier and lower the barriers of access. Choices here will not affect privacy and may even increase cost.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>Picking the correct formats will assist usability, make management easier and lower the barriers of access. Choices here will not affect privacy and may even increase cost.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "<h5>Are you sure about that?</h5><p>Picking the correct formats will assist usability, make management easier and lower the barriers of access. Choices here will not affect privacy and may even increase cost.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>Picking the correct formats will assist usability, make management easier and lower the barriers of access. Choices here will not affect privacy and may even increase cost.</p>"
           }
         },
         "_buttons":{
@@ -427,94 +344,26 @@
       }
     },
     {
-        "_id":"c-65",
-        "_parentId":"b-45",
+        "_id":"c-61",
+        "_parentId":"b-60",
         "_type":"component",
         "_component":"graphic",
-        "_classes":"illustration",
+        "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "What makes data open?",
+            "alt": "Usability",
             "title": "",
-            "large": "course/en/images/odi-11-mcq_large.jpg",
-            "medium": "course/en/images/odi-11-mcq_large.jpg",
-            "small": "course/en/images/odi-11-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
-            "*license":"Shutterstock Standard License"
+            "large": "course/en/images/odi-009.png",
+            "medium": "course/en/images/odi-009.png",
+            "small": "course/en/images/odi-009.png",
+            "*source": "http://www.shutterstock.com/pic.mhtml?id=234298726&src=id",
+            "*credit": "Sentavio",
+            "*licence": "Shutterstock standard license"
         }
     },
     {
         "_id":"c-70",
-        "_parentId":"b-45",
-        "_type":"component",
-        "_component":"mcq",
-        "_classes":"",
-        "_layout":"left",
-        "_attempts":1,
-        "_questionWeight":1,
-        "_isRandom":true,
-        "_selectable":1,
-        "title": "What makes data open?",
-        "displayTitle": "What makes data open?",
-        "body": "<p>Open data should be...</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
-        "_items": [
-            {
-                "text": "free of restrictions for its use.",
-                "_shouldBeSelected": true
-            },
-            {
-                "text": "restricted in its use.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "selectively released for a fee.",
-                "_shouldBeSelected": false
-            }
-        ],
-        "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>",
-            "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>"
-            },
-            "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-          }
-        },
-        "_buttons":{
-            "submit":"",
-            "reset":"",
-            "showCorrectAnswer":"",
-            "hideCorrectAnswer":""
-        },
-        "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-        "_id":"c-75",
-        "_parentId":"b-50",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"illustration",
-        "_layout":"left",
-        "_graphic": {
-            "alt": "Why do we need open data?",
-            "title": "",
-            "large": "course/en/images/odi-12-mcq_large.jpg",
-            "medium": "course/en/images/odi-12-mcq_large.jpg",
-            "small": "course/en/images/odi-12-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-            "*credit":"Sergey Nivens",
-            "*license":"Shutterstock Standard License"
-        }
-    },
-    {
-        "_id":"c-80",
-        "_parentId":"b-50",
+        "_parentId":"b-70",
         "_type":"component",
         "_component":"mcq",
         "_classes":"",
@@ -523,33 +372,33 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "Why do we need open data?",
-        "displayTitle": "Why do we need open data?",
-        "body": "<p>What does open data have the power to do?</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "title": "Picking data structures.",
+        "displayTitle": "Which data structure would you use for the data in the picture?",
+        "body": "<p>Which data structure would you use for the data in the picture?</p>",
+        "instruction": "<em>Select an option, then click 'Submit'.</em>",
         "_items": [
             {
-                "text": "give access to other datasets.",
+                "text": "Tabular",
                 "_shouldBeSelected": false
             },
             {
-                "text": "make governments accountable.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "open data can unlock social, environmental and economic value.",
+                "text": "Hierarchical",
                 "_shouldBeSelected": true
+            },
+            {
+                "text": "Network",
+                "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>Open data can transform interaction between governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p>",
+            "correct":"<h5>That’s right!</h5><p>The picture shows that relationships between data points are important. Additionally these relationships are all 'parent-child' relationships, meaning that a hierarchical structure is ideal.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>Open data can transform interaction between governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>Open data can transform interaction between governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p>"
+                "notFinal": "<h5>Are you sure about that?</h5><p>The picture shows that relationships between data points are important. Additionally these relationships are all 'parent-child' relationships, meaning that a hierarchical structure is ideal.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>The picture shows that relationships between data points are important. Additionally these relationships are all 'parent-child' relationships, meaning that a hierarchical structure is ideal.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "<h5>Are you sure about that?</h5><p>The picture shows that relationships between data points are important. Additionally these relationships are all 'parent-child' relationships, meaning that a hierarchical structure is ideal.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>The picture shows that relationships between data points are important. Additionally these relationships are all 'parent-child' relationships, meaning that a hierarchical structure is ideal.</p>"
           }
         },
         "_buttons":{
@@ -563,8 +412,94 @@
       }
     },
     {
+        "_id":"c-71",
+        "_parentId":"b-70",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Structure",
+            "title": "Structure",
+            "large": "course/en/images/odi-9-1.png",
+            "medium": "course/en/images/odi-9-1.png",
+            "small": "course/en/images/odi-9-1.png",
+            "*source": "http://businesscasestudies.co.uk/unison/developing-responsiveness-through-organisational-structure/job-roles-within-a-trade-union.html#axzz3eADPmy4F",
+            "*credit": "UNISON",
+            "*licence": ""
+        }
+    },
+        {
+        "_id":"c-80",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"left",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":1,
+        "title": "In which format should open data be made available wherever possible?",
+        "displayTitle": "In which format should open data be made available wherever possible",
+        "body": "<p>What format should open data be made available in wherever possible?</p>",
+        "instruction": "<em>Select an option, then click Submit.</em>",
+        "_items": [
+            {
+                "text": "CSV",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "PDF",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "DOC",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>That’s right!</h5><p>The comma separated values (CSV) format is a simple to understand, highly reusable format. It is also open for anyone to write new tools to interpret it. The other formats are useful but not as widely adopted for data.</p>",
+            "_incorrect": {
+                "notFinal": "<h5>Are you sure about that?</h5><p>The comma separated values (CSV) format is a simple to understand, highly reusable format. It is also open for anyone to write new tools to interpret it. The other formats are useful but not as widely adopted for data.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>The comma separated values (CSV) format is a simple to understand, highly reusable format. It is also open for anyone to write new tools to interpret it. The other formats are useful but not as widely adopted for data.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<h5>Are you sure about that?</h5><p>The comma separated values (CSV) format is a simple to understand, highly reusable format. It is also open for anyone to write new tools to interpret it. The other formats are useful but not as widely adopted for data.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>The comma separated values (CSV) format is a simple to understand, highly reusable format. It is also open for anyone to write new tools to interpret it. The other formats are useful but not as widely adopted for data.</p>"
+          }
+        },
+        "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-81",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "_graphic": {
+            "alt": "Format image",
+            "title": "Format image",
+            "large": "course/en/images/odi-010.jpg",
+            "medium": "course/en/images/odi-010.jpg",
+            "small": "course/en/images/odi-010.jpg",
+            "*source": "http://www.shutterstock.com/pic.mhtml?id=205002868&src=id",
+            "*credit": "Blan-k",
+            "*licence": "Shutterstock standard license"
+        }
+    },
+    {
         "_id":"c-85",
-        "_parentId":"b-55",
+        "_parentId":"b-110",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
@@ -575,36 +510,36 @@
             "large": "course/en/images/summary-icon.png",
             "medium": "course/en/images/summary-icon.png",
             "small": "course/en/images/summary-icon.png",
-            "*source":"http://www.shutterstock.com/pic-189810137.html",
-            "*credit":"Kritchanut",
-            "*license":"Shutterstock Standard License"
+            "*source": "http://www.shutterstock.com/pic-189810137.html",
+            "*credit": "Kritchanut",
+            "*licence": "Shutterstock Standard License"
         }
     },
     {
-        "_id":"c-90",
-        "_parentId":"b-55",
+        "_id":"c-110",
+        "_parentId":"b-110",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Open data - veni, vidi, vici",
-        "displayTitle":"Open data - veni, vidi, vici",
-        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.</p><p>Open data is a raw material for the digital age but, unlike coal, timber or diamonds, it can be used by anyone and everyone at the same time.</p><p>Any restrictions imposed on the use of open data will limit its use in creating new value.</p><p>Open data can bring diverse benefits to governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p><p>In the next module, we will explore how value is unlocked in open data.</p>",
+        "title":"Open data formats",
+        "displayTitle":"Open data formats",
+        "body":"<p>The format of an open dataset is the way in which the data is structured and made available for humans and machines.</p><p>Choosing the right format enables simpler management and reuse of the data. To maximise reuse of the data, it may be necessary for a publisher to use a number of formats and structures available across different platforms that suit a user’s needs.</p><p>Wherever possible the CSV file format should be used for sharing open data. CSV is a simple to understand, highly reusable and machine readable format.</p>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }
     },
     {
-       "_id":"c-95",
-       "_parentId":"b-55",
+       "_id":"c-113",
+       "_parentId":"b-110",
        "_type":"component",
        "_component":"text",
        "_classes":"separator",
        "_layout":"full"
     },
     {
-        "_id":"c-100",
-        "_parentId":"b-55",
+        "_id":"c-114",
+        "_parentId":"b-110",
         "_type":"component",
         "_component":"graphic",
         "_classes":"footer-logo",
@@ -615,14 +550,14 @@
             "large": "course/en/images/logo-small.png",
             "medium": "course/en/images/logo-small.png",
             "small": "course/en/images/logo-small.png",
-            "*source":"http://theodi.org",
-            "*credit":"The Open Data Institute",
-            "*license":"All rights reserved"  
+            "*source": "http://theodi.org",
+            "*credit": "The Open Data Institute",
+            "*licence": "All rights reserved"
         }
     },
     {
-        "_id":"c-105",
-        "_parentId":"b-55",
+        "_id":"c-115",
+        "_parentId":"b-110",
         "_type":"component",
         "_component":"text",
         "_classes":"social-buttons",

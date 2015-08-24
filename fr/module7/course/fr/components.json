@@ -1,6 +1,6 @@
 [
     {
-        "_id":"c-01",
+        "_id":"c-02",
         "_parentId":"b-01",
         "_type":"component",
         "_component":"graphic",
@@ -22,33 +22,32 @@
         }
     },
     {
-        "_id":"c-02",
+        "_id":"c-01",
         "_parentId":"b-01",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"L’open data, c’est quoi ?",
-        "displayTitle":"L’open data, c’est quoi ?",
-	"body": "<p>Il s’agit de données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les gouvernements, les entreprises et les individus peuvent utiliser l’open data afin de créer des avantages sociaux, économiques et environnementaux.</p><h5>Dans ce module, nous allons explorer les points suivants :</h5><ul class='ticks'><li>L’open data (ou ‘données ouvertes’), c’est quoi ?</li><li>Qu’entend-on par données ?</li><li>Qu’est ce qui rend les données ‘ouvertes’?</li><li>Pourquoi en a-t-on besoin?</li></ul>",
-        "instruction":"",
+        "title":"Pourquoi se préoccuper de la durabilité ?",
+        "displayTitle":"Pourquoi se préoccuper de la durabilité ?",
+        "body":"<p>Pour être utile, l’open data doit être pertinent, mis à jour et accessible. Lorsqu’elles sont combinées, ces trois qualités contribuent à la durabilité d’un ensemble de données.</p><p>Un programme durable publie et met à jour régulièrement des données égales ou supérieures en qualité et en quantité à celles publiées précédemment.</p><p>Pour que quelque chose soit durable, il faut que le niveau et la fréquence en soient maintenus.</p><p>Pour qu’une publication d’open data soit durable, les mises à jour de ses publications précédentes doivent être de qualité et de quantité au moins égales.</p><h5>Dans ce module, nous allons explorer les points suivants :</h5><ul class='ticks'><li>Comment comprendre la durabilité</li><li>Pourquoi la durabilité est importante</li><li>Ce qui indique qu’une série de données est durable</li></ul>",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
     },
     {
-    "_id":"c-11",
-    "_parentId":"b-10",
-    "_type":"component",
-    "_component":"iFrame-vimeo",
-    "_classes":"",
-    "_layout":"full",
-        "title":"Découvrir l’Open Data- en 2 minutes",
-        "displayTitle": "Découvrir l’Open Data- en 2 minutes",
-        "body": "Formateur à l’ODI, Dr. David Tarrant explique ce qu’on entend par données, ce qui les rend ouvertes et pourquoi l’open data est nécessaire.",
-        "instruction": "",
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"iFrame-vimeo",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Rendre l’open data durable - en 2 minutes",
+        "displayTitle": "Rendre l’open data durable - en 2 minutes",
+        "body": "Manager du programme de ‘start-up’ à l’ODI, Ulrich Atz explique l’importance de la durabilité pour l’open data et pourquoi c’est un aspect important pour les utilisateurs. Il énumère également les indicateurs clés qui montrent qu’une donnée ouverte est faite pour durer",
+        "instruction": "<em>Click to play the video</em>",
         "_setCompletionOn":"ended",
-        "_source": "https://player.vimeo.com/video/129196637",
+        "_source": "https://player.vimeo.com/video/129879004",
         "_width": {
             "_small" : 300,
             "_medium" : 500,
@@ -60,199 +59,228 @@
             "_large" : 508
         }
     },
-    {
+       {
         "_id":"c-21",
         "_parentId":"b-20",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
-        "_layout":"right",
+        "_layout":"left",
         "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-1-text-image_large.jpg",
-            "medium": "course/fr/images/odi-1-text-image_large.jpg",
-            "small": "course/fr/images/odi-1-text-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
+            "alt": "Sustainable open data",
+            "title": "Sustainable open data",
+            "large": "course/fr/images/odi-001.jpg",
+            "medium": "course/fr/images/odi-001.jpg",
+            "small": "course/fr/images/odi-001.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=199444121&src=id",
+            "*credit":"Tarchyshnik Andrei",
             "*license":"Shutterstock Standard License"
         }
     },
     {
-        "_id":"c-22",
+        "_id":"c-32",
         "_parentId":"b-20",
         "_type":"component",
         "_component":"text",
-        "_classes":"",
-        "_layout":"left",
-        "title":"L’open data, c’est quoi ?",
-        "displayTitle":"L’open data, c’est quoi ?",
-        "body":"<p>Il s’agit de données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager.</p><p>On peut accéder aux données car elles sont disponibles en ligne.</p><p>On peut utiliser les données car elles sont disponibles sous une forme commune et lisible par des machines.</p><p>L’open data doit être sous licence. Cette licence doit en permettre l’usage libre et autoriser les utilisateurs à transformer, combiner et partager ces données, même à des fins commerciales.</p>"
+        "_classes":"inverted",
+        "_layout":"right",
+        "title":"Qu’est-ce qui rend l’open data durable ?",
+        "displayTitle":"Qu’est-ce qui rend l’open data durable ?",
+        "body":"<h5>Une série de données durable est appuyée par :</h5><ul class='ticks'><li><b>Un financement sûr</b> pour couvrir les coûts des mises à jour</li><li><b>Le soutien actif</b> des éditeurs pour que les mises à jour soient une priorité</li><li><b>Une large réutilisation</b> des données qui démontre leur valeur</li></ul>"
     },
      {
-        "_id": "c-25",
-        "_parentId": "b-25",
-        "_classes": "",
+        "_id": "c-31",
+        "_parentId": "b-30",
+        "_classes": "inverted",
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "De la matière première à l’information et à la connaissance nouvelle",
-        "displayTitle": "De la matière première à l’information et à la connaissance nouvelle",
-        "body": "Sans données, on ne peut pas créer d’information. Et sans information, il n’y a pas de nouvelles connaissances possibles.",
-        "instruction": "<em class='desktop-instruction'>Cliquez sur la flèche pour plus de détail.</em><em class='mobile-instruction'>Cliquez sur la flèche pour plus de détail.</em>",
+        "title": "Comprendre la durabilité et l’open data",
+        "displayTitle": "Comprendre la durabilité et l’open data",
+        "body": "Quels facteurs aident à rendre un ensemble de données durable ?",
+        "instruction": "<em>Cliquez sur la flèche pour plus de détail.</em>",
         "_items": [
             {
-                "title": "Les données",
-                "body": "<p>Les données sont le niveau le plus bas de matière première duquel on peut retirer des connaissances.</p><p>Imaginez ainsi les données comme l’ensemble des lieux, des images, des descriptions, des critiques et des prix qui constituent l’information nécessaire à la planification de vos vacances.</p>",
+                "title": "Un financement sûr pour l’open data",
+                "body": "Le fait qu’un ensemble de données puisse être utilisé librement ne signifie pas qu’il n’y a pas de frais associés à la collecte ou la publication des données. On peut garantir un financement :</h5><ul class='bullet'><li>U en rendant l’accès ou les services supplémentaires payants</li><li>grâce au financement d’une source alternative qui soutient la publication de données ouvertes.</li><li>   en démontrant la valeur continue de l’open data pour l’organisation</li></ul>",
                 "_graphic": {
-                    "src": "course/fr/images/odi-2-narrative_large.jpg",
-                    "alt": "Providing certainty",
-                    "title": "",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-                    "*credit":"Anna Frajtova",
+                    "src": "course/fr/images/odi-002.jpg",
+                    "alt": "Secure funding",
+                    "title": "Secure funding",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=272132873&src=id",
+                    "*credit":"Jiunn",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Données"
+                "strapline": "Secure funding"
             },
             {
-                "title": "L’information",
-                "body": "<p>Les données deviennent de l’information lorsqu’on leur donne un contexte.</p><p>En s’inspirant de l’exemple précédant, on associe certaines destinations, images, descriptions et prix à une attraction touristique.</p><p>La collecte et la présentation des données constituent l’information.</p>",
+                "title": "Le soutien actif de l’open data",
+                "body": "<p>Garantir la durabilité de l’open data d’une organisation nécessite généralement l'appui de la direction pour en faire une priorité, et le soutien du personnel responsable du maintien de la qualité.</p><p>Pour une entreprise, le meilleur moyen de garantir le soutien actif de l’open data est de s’engager à l’utiliser dans ses opérations quotidiennes.</p>",
                 "_graphic": {
-                    "src": "course/fr/images/odi-3-narrative_large.jpg",
-                    "alt": "A graph of open licences across countries",
-                    "title": "A graph of open licences across countries",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-                    "*credit":"Sachezi",
+                    "src": "course/fr/images/odi-003.jpg",
+                    "alt": "Active support",
+                    "title": "Active support",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=239488546&src=id",
+                    "*credit":"GiDesign",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Informations"
+                "strapline": "Active support"
             },
             {
-                "title": "Les connaissances",
-                "body": "<p>Les connaissances sont ce qui découle de l’information et l’usage personnalisé que l’on en fait.</p><p>L’acquisition de connaissances consiste en la transformation d’information en choix.</p><p>En s’inspirant de l’exemple précédant, le fait de savoir qu’aucun membre de votre famille n’aime les parcs d’attraction va informer votre décision quant aux destinations à éviter ou à privilégier.</p>",
+                "title": "Une large réutilisation de l’open data",
+                "body": "<p>On atteint la réutilisation durable lorsque les services créés grâce aux données deviennent essentiels à la réussite de l’entreprise de celui qui les publie.</p><p> Les jeux de données publiés par le système de transports berlinois (Verkehrsverbund Berlin-Brandenburg) sont utilisés par des millions d’utilisateurs d’applications de transport comme Citymapper. Ces applications encouragent l’utilisation des services de la VBB et c’est pourquoi la VBB s’est engagée à faire de la mise à jour régulière de ses données une priorité de leur stratégie numérique. <br /><a href='https://citymapper.com/berlin' target='_blank'>Lien vers Citymapper Berlin</a></p>",
                 "_graphic": {
-                    "src": "course/fr/images/odi-4-narrative_large.jpg",
-                    "alt": "A map from a to b",
-                    "title": "A map from a to b",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
-                    "*credit":"Oleksiy Mark",
+                    "src": "course/fr/images/odi-004.jpg",
+                    "alt": "Wide reuse",
+                    "title": "Wide reuse",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=234086359&src=id",
+                    "*credit":"William Perigini",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Connaissances"
+                "strapline": "Wide reuse"
             }
         ],
         "_pageLevelProgress": {
         "_isEnabled": true
         }
     },
-    {
-        "_id":"c-30",
-        "_parentId":"b-28",
+ {
+        "_id": "c-41",
+        "_parentId": "b-40",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Pourquoi la durabilité est-elle importante ?",
+        "displayTitle": "Pourquoi la durabilité est-elle importante ?",
+        "body": "Pourquoi doit-on se soucier de la durabilité des données avec lesquelles on travaille ?",
+        "instruction": "<em>Cliquez sur la flèche pour plus de détail.</em>",
+        "_items": [
+            {
+                "title": "Bâtir des fondations solides",
+                "body": "La durabilité n’est pas que positive pour les utilisateurs mais aussi pour ceux qui publient les données, qui bénéficient d’un programme d’open data durable parce qu’il :</h5><ul class='bullet'><li>renforce la confiance de la communauté en ceux qui publient les données.</li><li>soutient la création de nouveaux produits et services.</li><li>simplifie la réutilisation de leurs propres données pour ceux qui les publient.</li></ul>",
+                "_graphic": {
+                    "src": "course/fr/images/odi-005.jpg",
+                    "alt": "Solid foundations",
+                    "title": "Solid foundations",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=271074140&src=id",
+                    "*credit":"Saibarakova Ilona",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Solid foundations"
+            },
+            {
+                "title": "Gagner la confiance des utilisateurs",
+                "body": "Si l’open data est durable, les utilisateurs auront plus tendance à voir l’organisation qui les publie comme une source fiable.",
+                "_graphic": {
+                    "src": "course/fr/images/odi-006.jpg",
+                    "alt": "Enhances trust",
+                    "title": "Enhances trust",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=246120358&src=lb-36497927",
+                    "*credit":"Arthimedes",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Useful for users"
+            },
+            {
+                "title": "Construire des relations commerciales",
+                "body": "L’open data durable a le potentiel de débloquer de nouveaux canaux de contacts clients, ce qui permet à des entreprises de se développer. Ces entreprises offrent souvent des avantages directs à ceux qui publient les données en créant de nouvelles sources de valeur à partir de ces données.",
+                "_graphic": {
+                    "src": "course/fr/images/odi-007.jpg",
+                    "alt": "Builds business connections",
+                    "title": "Builds business connections",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=119824141&src=id",
+                    "*credit":"Palau",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Better for business"
+            },
+            {
+                "title": "Améliorer l’exploitabilité des données",
+                "body": "Ceux qui publient les données peuvent profiter de l’open data en permettant à leur personnel d’accéder plus rapidement à la bonne information. De plus, le fait que le personnel utilise l’open data au quotidien rend le programme plus durable.",
+                "_graphic": {
+                    "src": "course/fr/images/odi-008.jpg",
+                    "alt": "Improves data usability",
+                    "title": "Improves data usability",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=165242216&src=id",
+                    "*credit":"LovArt",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Perfect for publishers"
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+ {
+        "_id":"c-52",
+        "_parentId":"b-50",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-5-accordion_large.jpg",
-            "medium": "course/fr/images/odi-5-accordion_large.jpg",
-            "small": "course/fr/images/odi-5-accordion_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
+            "alt": "Looking for clues",
+            "title": "Looking for clues",
+            "large": "course/fr/images/odi-009.png",
+            "medium": "course/fr/images/odi-009.png",
+            "small": "course/fr/images/odi-009.png",
+            "*source":"http://www.shutterstock.com/pic-217749400",
+            "*credit":"robuart",
             "*license":"Shutterstock Standard License"
         }
     },
     {
-      "_id":"c-35",
-      "_parentId":"b-28",
+      "_id":"c-51",
+      "_parentId":"b-50",
       "_type":"component",
       "_component":"accordion",
       "_classes":"",
       "_layout":"left",
-      "title": "Qu’est-ce qui rend les données ‘ouvertes’ ?",
-      "displayTitle": "Qu’est-ce qui rend les données ‘ouvertes’ ?",
-      "body": "<p>Les données sont ouvertes si tout le monde peut y accéder, les utiliser et les partager.<br />Voici quelques idées à prendre en considération lorsque l’on définit ‘ouverte’ :</p>",
-      "instruction": "",
+      "title": "Ce qu’il faut rechercher dans l’open data durable",
+      "displayTitle": "Ce qu’il faut rechercher dans l’open data durable",
+      "body": "Une publication durable combine un financement sûr, le soutien actif et une large réutilisation. Ces facteurs ne sont pas toujours évidents quand on utilise un ensemble de données pour la première fois. Posez-vous les questions suivantes afin de reconnaître les sources d’open data durables:",
+      "instruction": "<em>Cliquez sur la flèche pour plus de détail.</em>",
       "_items": [
         {
-          "alt": "Restrictions",
-          "title": "Restrictions",
-          "body": "<p>Pour que les données soient ouvertes, il ne doit y avoir aucune restriction quant à leur utilisation, quelle qu’elle soit.</p><p>N’importe quel utilisateur devrait être libre d’utiliser, de modifier, de combiner et de partager les données, même à des fins commerciales.</p>"
+          "alt": "Quelle est la source ?",
+          "title": "Quelle est la source ?",
+          "body": "<p>Demandez-vous qui publie les données et à quel point vous avez confiance en leur engagement quant à leur mise à jour.</p><p>Un des indicateurs les plus importants de l’open data durable est votre confiance en l’organisation qui collecte et publie les données.</p><p>Si les données sont publiées par un gouvernement, se peut-il que des élections ou un changement dans les priorités en affecte la publication ?</p>"
         },
         {
-          "alt": "Coût",
-          "title": "Coût",
-          "body": "<p>Même si l’utilisation de l’open data doit être libre, cela ne signifie pas que son accès doit être gratuit.</p><p>Il y a souvent un coût associé à la création, à la maintenance et à la publication des données utilisables.</p><p>Idéalement, le prix des données ne devrait pas excéder le coût de reproduction de la donnée demandé.</p><p>Ce coût est souvent négligeable pour de nombreux ensembles de données.</p><p>Les données en temps réel et les contenus lourds peuvent cependant engager des frais continus afin de garantir leur fiabilité.</p>"
+          "alt": "Qui finance la publication ?",
+          "title": "Qui finance la publication ?",
+          "body": "<p>Il est important de considérer comment ceux qui publient l’open data en financent la publication à long terme.</p><p>Les données sont-elles publiées parce qu’il y a de la pression quant à la transparence de l’organisation ou y a-t-il une autre utilisation qui génère de la demande ?</p><p>Essayez d’identifier s’il y a un programme spécifique à court terme qui finance la publication des données ou si cela fait partie de la stratégie de base de l’organisation.</p>"
         },
         {
-          "alt": "Réutilisation",
-          "title": "Réutilisation",
-          "body": "<p>Une fois que l’utilisateur possède toutes les données, il est libre de les utiliser, de les réutiliser et de les redistribuer, même à des fins commerciales.</p><p>On mesure les données ouvertes en fonction des possibilités d’utilisation, et non en fonction de leur mise à disposition.</p><p>Certains aspects, comme le format, la structure et la lisibilité par une machine, rendent les données plus facilement utilisables et doivent donc être soigneusement considérés.</p><p>Cependant, ces éléments ne rendent pas les données plus ouvertes.</p>"
+          "alt": "Que dit la licence ?",
+          "title": "Que dit la licence ?",
+          "body": "<p>Regardez ce que dit la licence au sujet de l’avenir des jeux de données. Ceux qui les publient s’engagent-ils à les mettre à jour et à les rendre publiques régulièrement ?</p><p>N’oubliez pas que sans licence, les données ne sont pas véritablement ouvertes. Les licences open data vous garantissent le droit d’utiliser et de partager les données librement.</p>"
+        },
+        {
+          "alt": "Qui utilise déjà les données ?",
+          "title": "Qui utilise déjà les données ?",
+          "body": "<p>Plus il y a d’utilisateurs d’un ensemble de données, plus il y a de pression sur sa maintenance.</p><p>Demandez-vous qui utilise l’ensemble de données et dans quel but?</p><p>Les données sont-elles aussi utilisées en interne par ceux qui les publient?</p>"
+        },
+        {
+          "alt": "Quelle est l’histoire derrière la publication des données ?",
+          "title": "Quelle est l’histoire derrière la publication des données ?",
+          "body": "<p>L'évaluation de la durabilité des données dépend beaucoup de la confiance que vous placez en ceux qui les publient.</p><p>Demandez-vous depuis combien de temps la série de données est publiée. Un historique de mises à jour est un bon signe, mais méfiez-vous des facteurs externes tels que la durée du projet ou des termes du contrat. Un indicateur clé d'une initiative durable est que celle-ci n’est pas affectée par ces facteurs externes.</p>"
+        },
+        {
+          "alt": "Comment peut-je contribuer ?",
+          "title": "Comment peut-je contribuer ?",
+          "body": "<p>Le fait d’utiliser l’ensemble de données et de rejoindre les communautés qui existent autour contribuera à stimuler la demande et influencera la durabilité.</p><p>Essayez de comprendre si ceux qui publient les données jouent un rôle actif dans cette communauté et s’ils prennent en compte vos commentaires pour améliorer leurs services.</p><p>Demandez-vous quelle valeur vous pouvez démontrer pour améliorer la durabilité pour ceux qui publient les données.</p>"
         }
       ],
       "_pageLevelProgress": {
         "_isEnabled": true
       }
     },
-     {
-        "_id": "c-40",
-        "_parentId": "b-30",
-        "_classes": "",
-        "_type":"component",
-        "_layout": "full",
-        "_component": "narrative",
-        "title": "Pourquoi a-t-on besoin ?",
-        "displayTitle": "Pourquoi a-t-on besoin ?",
-        "body": "Les données ouvertes ont le pouvoir de produire des avantages divers pour les gouvernements, les entreprises et la société civile.",
-        "instruction": "<em class='desktop-instruction'>Cliquez sur la flèche pour plus de détail.</em><em class='mobile-instruction'>Cliquez sur la flèche pour plus de détail.</em>",
-        "_items": [
-            {
-                "title": "Transformation gouvernementale",
-                "body": "<p>L’open data permet une plus grande transparence pour les gouvernements. Il peut aider à prouver que les fonds publics sont dépensés à bon escient et que les politiques sont bien implémentées.</p><p>Ainsi, selon un militant pour le gouvernement ouvert (« open government activist ») David Eaves, l’open data a permis aux citoyens canadiens d’économiser 3, 2 milliards de dollars en dons frauduleux aux associations caritatives en 2010.<br /><a href='http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/' target='_blank'>Lien vers l’article de David Eaves</a></p><p>Un autre exemple, au Nigeria cette fois, où selon Follow the Money, le même processus garantit que les fonds publics sont bel et bien utilisés pour mettre en œuvre les politiques promises au peuple.<br /><a href='http://followthemoneyng.org/' target='_blank'>Lien vers Follow the Money</a></p>",
-                "_graphic": {
-                    "src": "course/fr/images/odi-6-narrative_large.jpg",
-                    "alt": "Transform government",
-                    "title": "Transform government",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=265940657&src=lb-35924366",
-                    "*credit":"hxdyl",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Transform government"
-            },
-            {
-                "title": "Nouvelles opportunités d'entreprise",
-                "body": "<p>L’open data ouvre de nouvelles opportunités pour que les entreprises établissent un rapport avec leurs clients.</p><p>Transport for London a publié des données ouvertes qui ont permis la création de plus de 800 applications de transport.<br /><a href='http://www.tfl.gov.uk/' target='_blank'>Lien vers Transport for London</a></p><p>Thomson Reuters utilise les données ouvertes pour mieux communiquer avec les clients existants et afin de fournir de meilleurs services.<br /><a href='http://site.thomsonreuters.com/site/data-identifiers/' target='_blank'>Lien vers Thomson Reuters</a></p><p>Aujourd’hui, la start-up ODI a plus de 70 employés avec un revenu de plus de 4 million de livres.<br /><a href='http://theodi.org/odis-second-year-annual-report' target='_blank'>Lien vers le rapport annual de l’ODI</a></p>",
-                "_graphic": {
-                    "src": "course/fr/images/odi-7-narrative_large.jpg",
-                    "alt": "Build new business opportunities",
-                    "title": "Build new business opportunities",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-                    "*credit":"Sergey Nivens",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Build new business opportunities"
-            },
-            {
-                "title": "Protéger notre planète",
-                "body": "<p>Le web est devenu une partie intégrante de notre infrastructure et l’open data va contribuer à ce développement.</p><p>Les données ouvertes concernant la météo permettent par exemple de donner l’alerte rapidement en cas de catastrophes naturelles.<br /><a href='http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc' target='_blank'>Lien vers le Centre d’actualités de l’ONU.</a></p><p>Les données ouvertes aident les consommateurs à comprendre leur impact sur l’environnement et à prendre des mesures pour l’améliorer.<br /><a href='https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf' target='_blank'>Lien vers le rapport de Better Choices Better Deals.</a></p>",
-                "_graphic": {
-                    "src": "course/fr/images/odi-8-narrative_large.jpg",
-                    "alt": "Protect our planet",
-                    "title": "Protect our planet",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=261740228&src=lb-35924366",
-                    "*credit":"hbpictures",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Protect our planet"
-            }
-        ],
-        "_pageLevelProgress": {
-        "_isEnabled": true
-        }
-    }, {
-        "_id":"c-42",
-        "_parentId":"b-33",
+    {
+        "_id":"c-55",
+        "_parentId":"b-55",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
@@ -264,47 +292,141 @@
         "_graphic": {
             "alt": "",
             "title": "",
-            "large": "course/fr/images/burst.png",
-            "medium": "course/fr/images/burst.png",
-            "small": "course/fr/images/burst.png"
+            "large": "course/en/images/burst.png",
+            "medium": "course/en/images/burst.png",
+            "small": "course/en/images/burst.png"
         }
     },
     {
-        "_id":"c-43",
-        "_parentId":"b-33",
+        "_id":"c-56",
+        "_parentId":"b-55",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Êtes-vous prêt(e) pour l’open data ?",
-        "displayTitle":"Êtes-vous prêt(e) pour l’open data ?",
-        "body":"<p>Il y a quatre éléments utiles à prendre en considération quand on pense à ouvrir ses données aux utilisateurs. Saurez-vous vous en souvenir?</p>",
+        "title":"Êtes-vous prêt(e) ?",
+        "displayTitle":"Êtes-vous prêt(e) ?",
+        "body":"<p>Il y a deux aspects utiles à prendre en compte par rapport à la durabilité d'open data - saurez-vous vous en souvenir?</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
     },
-    {
-        "_id":"c-45",
-        "_parentId":"b-35",
+{
+        "_id":"c-61",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"gmcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":1,
+        "title": "Êtes vous prêt(e) ?",
+        "displayTitle": "Êtes vous prêt(e) ?",
+        "body": "Lequel des facteurs suivants n’influence pas la durabilité d’un ensemble de données ouvertes ?",
+        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘valider’.</em>",
+        "_items": [
+            {
+                "text": "Un financement sûr",
+                "_shouldBeSelected":false,
+                "_graphic": {
+                    "alt": "Secure funding",
+                    "title": "",
+                    "large": "course/fr/images/odi-010.jpg",
+                    "medium": "course/fr/images/odi-010.jpg",
+                    "small": "course/fr/images/odi-010.jpg",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=272132873&src=id",
+                    "*credit":"Jiunn",
+                    "*license":"Shutterstock Standard License"
+                }
+            },
+            {
+                "text": "Un fichier de taille importante",
+                "_shouldBeSelected":true,
+                "_graphic": {
+                    "alt": "Large filesize",
+                    "title": "Large filesize",
+                    "large": "course/fr/images/file.png",
+                    "medium": "course/fr/images/file.png",
+                    "small": "course/fr/images/file.png",
+                    "*source":"https://farm3.staticflickr.com/2712/4485684994_b92ca0b0b3_b.jpg",
+                    "*credit":"Dave Matos",
+                    "*license":"CC BY-SA 2.0"
+                }
+            },
+            {
+                "text": "Le soutien actif",
+                "_shouldBeSelected":false,
+                "_graphic": {
+                    "alt": "Active support",
+                    "title": "",
+                    "large": "course/fr/images/odi-011.jpg",
+                    "medium": "course/fr/images/odi-011.jpg",
+                    "small": "course/fr/images/odi-011.jpg",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=239488546&src=id",
+                    "*credit":"GiDesign",
+                    "*license":"Shutterstock Standard License"
+                }
+            },
+            {
+                "text": "Une large réutilisation",
+                "_shouldBeSelected":false,
+                "_graphic": {
+                    "alt": "Wide reuse",
+                    "title": "",
+                    "large": "course/fr/images/odi-012.jpg",
+                    "medium": "course/fr/images/odi-012.jpg",
+                    "small": "course/fr/images/odi-012.jpg",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=234086359&src=id",
+                    "*credit":"William Perigini",
+                    "*license":"Shutterstock Standard License"
+                }
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>Vous avez raison !</h5><p>La taille du fichier est pas un facteur dans le développement durable. Qu'est-ce qui importe le plus sont une source sûre de financement, le soutien actif de l'éditeur et large réutilisation à générer de la valeur à partir des données</p>",
+            "_incorrect": {
+                "notFinal": "<h5>Êtes vous sûr(e) ?</h5><p>La taille du fichier est pas un facteur dans le développement durable. Qu'est-ce qui importe le plus sont une source sûre de financement, le soutien actif de l'éditeur et large réutilisation à générer de la valeur à partir des données</p>",
+                "final": "<h5>Êtes vous sûr(e) ?</h5><p>La taille du fichier est pas un facteur dans le développement durable. Qu'est-ce qui importe le plus sont une source sûre de financement, le soutien actif de l'éditeur et large réutilisation à générer de la valeur à partir des données</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "<h5>Êtes vous sûr(e) ?</h5><p>La taille du fichier est pas un facteur dans le développement durable. Qu'est-ce qui importe le plus sont une source sûre de financement, le soutien actif de l'éditeur et large réutilisation à générer de la valeur à partir des données</p>",
+                "final": "<h5>Êtes vous sûr(e) ?</h5><p>La taille du fichier est pas un facteur dans le développement durable. Qu'est-ce qui importe le plus sont une source sûre de financement, le soutien actif de l'éditeur et large réutilisation à générer de la valeur à partir des données</p>"
+            }
+        },
+        "_buttons":{
+            "submit":"Valider",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+          "_isEnabled": true
+        }
+    },
+{
+        "_id":"c-71",
+        "_parentId":"b-70",
         "_type":"component",
         "_component":"graphic",
         "_classes":"illustration",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
+            "alt": "Secure funding",
             "title": "",
-            "large": "course/fr/images/odi-9-mcq-image_large.jpg",
-            "medium": "course/fr/images/odi-9-mcq-image_large.jpg",
-            "small": "course/fr/images/odi-9-mcq-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
+            "large": "course/fr/images/odi-013.jpg",
+            "medium": "course/fr/images/odi-013.jpg",
+            "small": "course/fr/images/odi-013.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=272132873&src=id",
+            "*credit":"Jiunn",
             "*license":"Shutterstock Standard License"
         }
     },
     {
-        "_id":"c-50",
-        "_parentId":"b-35",
+        "_id":"c-72",
+        "_parentId":"b-70",
         "_type":"component",
         "_component":"mcq",
         "_classes":"",
@@ -312,34 +434,42 @@
         "_attempts":1,
         "_questionWeight":1,
         "_isRandom":true,
-        "_selectable":1,
-        "title": "L’open data, c’est quoi ?",
-        "displayTitle": "L’open data, c’est quoi ?",
-        "body": "<p>L’open data, c’est…</p>",
-        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
+        "_selectable":3,
+        "title": "Quels critères utiliser pour évaluer la durabilité ?",
+        "displayTitle": "Quels critères utiliser pour évaluer la durabilité ?",
+        "body": "<p>Quels sont les signes auxquels vous devriez prêter attention lorsque vous évaluez la durabilité d’une série de données ouvertes ?</p>",
+        "instruction": "<em>Choisissez trois réponses et puis cliquez sur ‘Valider’.</em>",
         "_items": [
             {
-                "text": "des informations que l’on vend aux entreprises.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager",
+                "text": "L’historique de publication des données",
                 "_shouldBeSelected": true
             },
             {
-                "text": "des données visibles en ligne.",
+                "text": "Combien ça coûte",
                 "_shouldBeSelected": false
+            },
+            {
+                "text": "Qui utilise déjà les données",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Sous quelle forme les données sont publiées",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Qui finance la publication",
+                "_shouldBeSelected": true
             }
         ],
         "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>",
+            "correct":"<h5>Vous avez raison !</h5><p>Vous recherchez l'histoire de l'édition, qui utilise les données et comment il est payé pour tous sont les principales questions à se poser pour déterminer la viabilité de l'ensemble de données.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>"
+                "notFinal": "<h5>Êtes vous sûr(e) ?</h5><p>Vous recherchez l'histoire de l'édition, qui utilise les données et comment il est payé pour tous sont les principales questions à se poser pour déterminer la viabilité de l'ensemble de données.</p>",
+                "final": "<h5>Êtes vous sûr(e) ?</h5><p>Vous recherchez l'histoire de l'édition, qui utilise les données et comment il est payé pour tous sont les principales questions à se poser pour déterminer la viabilité de l'ensemble de données.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "<h5>Êtes vous sûr(e) ?</h5><p>Vous recherchez l'histoire de l'édition, qui utilise les données et comment il est payé pour tous sont les principales questions à se poser pour déterminer la viabilité de l'ensemble de données.</p>",
+                "final": "<h5>Êtes vous sûr(e) ?</h5><p>Vous recherchez l'histoire de l'édition, qui utilise les données et comment il est payé pour tous sont les principales questions à se poser pour déterminer la viabilité de l'ensemble de données.</p>"
           }
         },
         "_buttons":{
@@ -352,226 +482,16 @@
         "_isEnabled": true
       }
     },
-    {
-        "_id":"c-55",
-        "_parentId":"b-40",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"illustration",
-        "_layout":"left",
-        "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-10-mcq_large.jpg",
-            "medium": "course/fr/images/odi-10-mcq_large.jpg",
-            "small": "course/fr/images/odi-10-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-            "*credit":"Anna Frajtova",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-            "*credit":"Sachezi",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
-            "*license":"Shutterstock Standard License"
-        }
-    },
-    {
-        "_id":"c-60",
-        "_parentId":"b-40",
-        "_type":"component",
-        "_component":"mcq",
-        "_classes":"",
-        "_layout":"right",
-        "_attempts":1,
-        "_questionWeight":1,
-        "_isRandom":true,
-        "_selectable":1,
-        "title": "Qu’entend-on par données ?",
-        "displayTitle": "Qu’entend-on par données ?",
-        "body": "<p>Les données sont...</p>",
-        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
-        "_items": [
-            {
-                "text": "des chiffres, des mots, des cartes et des photos.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "des informations en ligne.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "la matière première  de l’information et de la connaissance.",
-                "_shouldBeSelected": true
-            }
-        ],
-        "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>",
-            "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>"
-            },
-            "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-          }
-        },
-        "_buttons":{
-            "submit":"Valider",
-            "reset":"",
-            "showCorrectAnswer":"",
-            "hideCorrectAnswer":""
-        },
-        "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-        "_id":"c-65",
-        "_parentId":"b-45",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"illustration",
-        "_layout":"right",
-        "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-11-mcq_large.jpg",
-            "medium": "course/fr/images/odi-11-mcq_large.jpg",
-            "small": "course/fr/images/odi-11-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
-            "*license":"Shutterstock Standard License"
-        }
-    },
-    {
-        "_id":"c-70",
-        "_parentId":"b-45",
-        "_type":"component",
-        "_component":"mcq",
-        "_classes":"",
-        "_layout":"left",
-        "_attempts":1,
-        "_questionWeight":1,
-        "_isRandom":true,
-        "_selectable":1,
-        "title": "Qu’est ce qui rend les données ouvertes ?",
-        "displayTitle": "Qu’est ce qui rend les données ouvertes ?",
-        "body": "<p>Les données ouvertes doivent...</p>",
-        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
-        "_items": [
-            {
-                "text": "être libres de toute limite en ce qui concerne leur utilisation.",
-                "_shouldBeSelected": true
-            },
-            {
-                "text": "comporter des limites d’utilisation.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "être publiées de manière sélective et payante.",
-                "_shouldBeSelected": false
-            }
-        ],
-        "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>",
-            "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>"
-            },
-            "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-          }
-        },
-        "_buttons":{
-            "submit":"Valider",
-            "reset":"",
-            "showCorrectAnswer":"",
-            "hideCorrectAnswer":""
-        },
-        "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-        "_id":"c-75",
-        "_parentId":"b-50",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"illustration",
-        "_layout":"left",
-        "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-12-mcq_large.jpg",
-            "medium": "course/fr/images/odi-12-mcq_large.jpg",
-            "small": "course/fr/images/odi-12-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-            "*credit":"Sergey Nivens",
-            "*license":"Shutterstock Standard License"
-        }
-    },
-    {
-        "_id":"c-80",
-        "_parentId":"b-50",
-        "_type":"component",
-        "_component":"mcq",
-        "_classes":"",
-        "_layout":"right",
-        "_attempts":1,
-        "_questionWeight":1,
-        "_isRandom":true,
-        "_selectable":1,
-        "title": "Pourquoi a-t-on besoin de l’open data ?",
-        "displayTitle": "Pourquoi a-t-on besoin de l’open data ?",
-        "body": "<p>Quel est le potentiel de l’open data ?</p>",
-        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
-        "_items": [
-            {
-                "text": "Donner accès à d’autres ensembles de données.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "Rendre les gouvernements plus responsables.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "Générer de la valeur sociale, environnementale et économique.",
-                "_shouldBeSelected": true
-            }
-        ],
-        "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>",
-            "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>"
-            },
-            "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-          }
-        },
-        "_buttons":{
-            "submit":"Valider",
-            "reset":"",
-            "showCorrectAnswer":"",
-            "hideCorrectAnswer":""
-        },
-        "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-        "_id":"c-85",
-        "_parentId":"b-55",
+{
+        "_id":"c-112",
+        "_parentId":"b-110",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
-            "title": "",
+            "alt": "Summary icon clipboard",
+            "title": "Summary icon clipboard",
             "large": "course/fr/images/summary-icon.png",
             "medium": "course/fr/images/summary-icon.png",
             "small": "course/fr/images/summary-icon.png",
@@ -581,48 +501,39 @@
         }
     },
     {
-        "_id":"c-90",
-        "_parentId":"b-55",
+        "_id":"c-111",
+        "_parentId":"b-110",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Données ouvertes - veni, vidi, vici",
-        "displayTitle":"Données ouvertes - veni, vidi, vici",
-        "body":"<p>Les données ouvertes, ou ‘open data’, sont des données auxquelles n’importe qui peut accéder et que tout le monde peut utiliser et partager.</p><p>Les données ouvertes sont une matière première pour l’ère du numérique mais à la différence du charbon, du bois ou des diamants, elles peuvent être utilisées par n’importe qui et à n’importe quel moment.</p><p>Toute limitation mise en place sur l’usage libre de l’open data en limitera le potentiel d’utilisation.</p><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer des services, de contribuer à la croissance économiques et de sauver notre planète.</p><p>Lors du prochain module, nous verrons dans quelle mesure l’open data peut générer de la valeur.</p>",
+        "title":"Pourquoi devrait-on se soucier de la durabilité ?",
+        "displayTitle":"Pourquoi devrait-on se soucier de la durabilité ?",
+        "body":"<p>Lors de ce module, nous avons étudié comment évaluer la durabilité d’une publication d’open data. Vous pouvez utiliser ces techniques pour identifier des sources de données durables et consolider votre confiance pour travailler avec elles à long terme.</p><h5>Ce que vous avez appris</h5><ul class='ticks'><li>Quels facteurs influencent la durabilité d’une série de données</li><li>Pourquoi la durabilité est importante pour vous</li><li>Ce qui indique qu’un ensemble de données est durable</li></ul>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }
     },
     {
-       "_id":"c-95",
-       "_parentId":"b-55",
+       "_id":"c-113",
+       "_parentId":"b-110",
        "_type":"component",
        "_component":"text",
        "_classes":"separator",
        "_layout":"full"
     },
     {
-        "_id":"c-100",
-        "_parentId":"b-55",
+        "_id":"c-114",
+        "_parentId":"b-110",
         "_type":"component",
-        "_component":"graphic",
-        "_classes":"footer-logo",
+        "_component":"text",
+        "_classes":"social-buttons",
         "_layout":"left",
-        "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/logo-small.png",
-            "medium": "course/fr/images/logo-small.png",
-            "small": "course/fr/images/logo-small.png",
-            "*source":"",
-            "*credit":"",
-            "*license":""            
-        }
+        "body":"<a class='social' target='_blank' href='http://europa.eu'><img src='course/fr/images/europe.jpg' align='left' hspace='5'></a><p align='left' hspace='5'>This project is funded by the European Commision's Connecting Europe Facility</p>"
     },
     {
-        "_id":"c-105",
-        "_parentId":"b-55",
+        "_id":"c-115",
+        "_parentId":"b-110",
         "_type":"component",
         "_component":"text",
         "_classes":"social-buttons",
