@@ -4,12 +4,11 @@ if (!localStorage.getItem("_id")) {
   		window.localStorage.setItem("_id",data);
 	});
 }
-	
+
+var moduleId = "";
 var lang = "en"
 $.getJSON("course/config.json",function(data) {
 	moduleId = data._moduleId;
-	lang = data._defaultLanguage;
-	setValue("lang",lang);
 });
 var id = "";
 
@@ -25,8 +24,9 @@ $(document).ready(function() {
 	});
 });
 
+
 function updateProgress() {
-	var frame = document.getElementById('contentFrame').contentDocument;
+//	var frame = document.getElementById('contentFrame').contentDocument;
 	for (i=1;i<13;i++) {
 		key = "ODI_" + i + "_cmi.suspend_data";
     		try {
@@ -36,7 +36,7 @@ function updateProgress() {
 			total = completion.length;
 			complete = completion.match(/1/g || []).length;	
 			percent = (complete/total) * 100;
-			frame.getElementById('ODI_' + i).setAttribute('value',percent);
+			document.getElementById('ODI_' + i).setAttribute('value',percent);
 		}
 		catch(err) {
 		}
@@ -48,9 +48,9 @@ function getModuleId() {
 }
 
 function setSaveClass(toClass) {
-    var frame = document.getElementById('contentFrame').contentDocument;
-    var sl = frame.getElementById('save-section');
-    $(sl).addClass('saving');
+//    var frame = document.getElementById('contentFrame').contentDocument;
+    var sl = document.getElementById('save-section');
+    $(sl).addClass("saving");
     $(sl).fadeIn();
     $(sl).css('background-image','url(adapt/css/assets/' + toClass + '.gif)');
 }
@@ -71,8 +71,6 @@ function updateRemote() {
     		if (flag) { setSaveClass('cloud_success'); }
 	   },
 	   error: function (xhr, ajaxOptions, thrownError) {
-       		console.log(xhr.status);
-		console.log(thrownError);
     		if (flag) { setSaveClass('cloud_failed'); }
            }
         });
