@@ -28,9 +28,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Lier le Web des données",
-        "displayTitle":"Lier le Web des données",
-        "body":"<p>Le Web actuel est configuré comme une série de données ou ‘documents’. Alors que les documents puisent dans des sources riches en données, celles-ci sont masquées par une page destinée à être vue par des humains. Lors de ce module, nous verrons ce qui se passerait si l’on supprimait toutes les pages et les documents du Web.</p><p>Imaginez que vous n’avez que les données brutes, toutes ouvertes, toutes utilisables et toutes liées par un réseau ou ‘Web’ de données.</p><p>Ce module traite aussi du Web des données ouvertes et liées (‘ The Web of Linked Open Data’) et explique comment les 5 étoiles du ‘Linked Open Data’ (les données ouvertes et liées) donnent des consignes pour arriver à faire de cette vision une réalité.</p><h5>Dans ce module, nous allons explorer les points suivants :</h5><ul class='ticks'><li>Qu’est-ce que le Web des données ?</li><li>Comment utiliser les identifiants du Web</li><li>Ce à quoi ressemble un Web de données ouvertes et liées.</li></ul>",
+        "title":"L’open data, c’est quoi ?",
+        "displayTitle":"L’open data, c’est quoi ?",
+	"body": "<p>Il s’agit de données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les gouvernements, les entreprises et les individus peuvent utiliser l’open data afin de créer des avantages sociaux, économiques et environnementaux.</p><h5>Dans ce module, nous allons explorer les points suivants :</h5><ul class='ticks'><li>L’open data (ou ‘données ouvertes’), c’est quoi ?</li><li>Qu’entend-on par données ?</li><li>Qu’est ce qui rend les données ‘ouvertes’?</li><li>Pourquoi en a-t-on besoin?</li></ul>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -43,12 +43,12 @@
     "_component":"iFrame-vimeo",
     "_classes":"",
     "_layout":"full",
-        "title":"Naviguer le Web des données - en 2 minutes",
-        "displayTitle": "Naviguer le Web des données - en 2 minutes",
-        "body": "David Tarrant, formateur à l’ODI, présente le Web des données ouvertes et liées et examine comment les 5 étoiles du ‘Linked Open Data’ vous aident à naviguer le Web des données.",
+        "title":"Découvrir l’Open Data- en 2 minutes",
+        "displayTitle": "Découvrir l’Open Data- en 2 minutes",
+        "body": "Formateur à l’ODI, Dr. David Tarrant explique ce qu’on entend par données, ce qui les rend ouvertes et pourquoi l’open data est nécessaire.",
         "instruction": "",
         "_setCompletionOn":"ended",
-        "_source": "https://player.vimeo.com/video/129197209",
+        "_source": "https://player.vimeo.com/video/129196637",
         "_width": {
             "_small" : 300,
             "_medium" : 500,
@@ -61,89 +61,89 @@
         }
     },
     {
-        "_id": "c-20",
-        "_parentId": "b-20",
-        "_classes": "",
-        "_type":"component",
-        "_layout": "full",
-        "_component": "narrative",
-        "title": "Comprendre le Web des données",
-        "displayTitle": "Comprendre le Web des données",
-        "body": "Le Web des données ouvertes et liées change notre façon de parcourir et naviguer l’open data.",
-        "instruction": "<em class='desktop-instruction'>Cliquez sur la flèche pour plus de détails.</em><em class='mobile-instruction'>Cliquez sur la flèche pour plus de détails.</em>",
-        "_items": [
-            {
-                "title": "Qu’est-ce que le Web des données ?",
-                "body": "<p>Le Web actuel est configuré comme une série de données ou ‘documents’. Ces documents sont crées par des humains avec une volonté de les rendre esthétiques pour que d’autres humains puissent les lire et en retirer de l’information.</p><p>Il y a une différence entre les données ‘sur le Web’ et le ‘Web des données’.</p><p>Les données ‘sur le Web’ sont des fichiers téléchargeables d’une page Web. Le ‘Web des données’ est une série de ressources de données étroitement liées immédiatement lisibles et compréhensibles par l’humain ou la machine.</p>",
-                "_graphic": {
-                    "src": "course/fr/images/odi-001.jpg",
-                    "alt": "Providing certainty",
-                    "title": "What os the web of data?",
-                    "*source":"http://www.shutterstock.com/pic-137240846",
-                    "*credit":"Anna Frajtova",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Data"
-            },
-            {
-                "title": "Lier le Web des données",
-                "body": "<p>Imaginez que les documents esthétiques soient tous supprimés du Web. Comment vous y retrouveriez-vous ?</p><p>Pour naviguer, il vous faut des panneaux vous indiquant votre emplacement actuel par rapport à vos alentours.</p><p>Le ‘Web des données ouvertes et liées’ fournit ces panneaux indicateurs en exigeant que toute donnée soit connectée à d’autres données via des liens. Les liens permettent aux humains ainsi qu’aux machines de naviguer entre les points de données.</p>",
-                "_graphic": {
-                    "src": "course/fr/images/odi-002.jpg",
-                    "alt": "Linking up the web of data",
-                    "title": "Linking up the web of data",
-                    "*source":"http://www.shutterstock.com/pic-221630044",
-                    "*credit":"Monash",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Information"
-            },
-            {
-                "title": "Un Web de données ouvertes et liées, pour quoi faire ?",
-                "body": "<p>Le Web des données est déjà une réalité dans certaines parties du Web.</p><p>De grandes corporations telles que Microsoft ont déjà lancé des recherches sur des outils qui nous permettraient de naviguer le Web de manière complétement différente, en utilisant des données au lieu de pages Web pour se déplacer.<br /><a href='http://www.ted.com/talks/gary_flake_is_pivot_a_turning_point_for_web_exploration?language=en' target='_blank'>Take me to Microsoft Pivot talk</a></p>",
-                "_graphic": {
-                    "src": "course/fr/images/odi-003.jpg",
-                    "alt": "What can LOD do?",
-                    "title": "What can LOD do?",
-                    "*source":"http://www.shutterstock.com/pic-230811505",
-                    "*credit":"Sentavio",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Knowledge"
-            }
-        ],
-        "_pageLevelProgress": {
-        "_isEnabled": true
-        }
-    },
-    {
-        "_id":"c-25",
-        "_parentId":"b-25",
+        "_id":"c-21",
+        "_parentId":"b-20",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "Stars",
-            "title": "Stars",
-            "large": "course/fr/images/odi-004.jpg",
-            "medium": "course/fr/images/odi-004.jpg",
-            "small": "course/fr/images/odi-004.jpg",
-            "*source":"http://www.shutterstock.com/pic-109300883",
-            "*credit":"Kletr",
+            "alt": "",
+            "title": "",
+            "large": "course/fr/images/odi-1-text-image_large.jpg",
+            "medium": "course/fr/images/odi-1-text-image_large.jpg",
+            "small": "course/fr/images/odi-1-text-image_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
+            "*credit":"leromin",
             "*license":"Shutterstock Standard License"
         }
     },
     {
-        "_id":"c-26",
-        "_parentId":"b-25",
+        "_id":"c-22",
+        "_parentId":"b-20",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Construire un Web des données",
-        "displayTitle":"Construire un Web des données",
-        "body":"<p>Afin de construire un Web des données ouvertes et liées, deux éléments sont nécessaires :</p><ul class='ticks'><li>Des données que l’on peut référencer sur le Web</li><li>Des gens qui fournissent des liens vers ces données à partir de leurs propres données.</li></ul><p>Ce sont les deux conditions nécessaires pour satisfaire les exigences des 4ème et 5ème étoiles du ‘Linked Open Data’.</p>"
+        "title":"L’open data, c’est quoi ?",
+        "displayTitle":"L’open data, c’est quoi ?",
+        "body":"<p>Il s’agit de données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager.</p><p>On peut accéder aux données car elles sont disponibles en ligne.</p><p>On peut utiliser les données car elles sont disponibles sous une forme commune et lisible par des machines.</p><p>L’open data doit être sous licence. Cette licence doit en permettre l’usage libre et autoriser les utilisateurs à transformer, combiner et partager ces données, même à des fins commerciales.</p>"
+    },
+     {
+        "_id": "c-25",
+        "_parentId": "b-25",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "De la matière première à l’information et à la connaissance nouvelle",
+        "displayTitle": "De la matière première à l’information et à la connaissance nouvelle",
+        "body": "Sans données, on ne peut pas créer d’information. Et sans information, il n’y a pas de nouvelles connaissances possibles.",
+        "instruction": "<em class='desktop-instruction'>Cliquez sur la flèche pour plus de détail.</em><em class='mobile-instruction'>Cliquez sur la flèche pour plus de détail.</em>",
+        "_items": [
+            {
+                "title": "Les données",
+                "body": "<p>Les données sont le niveau le plus bas de matière première duquel on peut retirer des connaissances.</p><p>Imaginez ainsi les données comme l’ensemble des lieux, des images, des descriptions, des critiques et des prix qui constituent l’information nécessaire à la planification de vos vacances.</p>",
+                "_graphic": {
+                    "src": "course/fr/images/odi-2-narrative_large.jpg",
+                    "alt": "Providing certainty",
+                    "title": "",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
+                    "*credit":"Anna Frajtova",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Données"
+            },
+            {
+                "title": "L’information",
+                "body": "<p>Les données deviennent de l’information lorsqu’on leur donne un contexte.</p><p>En s’inspirant de l’exemple précédant, on associe certaines destinations, images, descriptions et prix à une attraction touristique.</p><p>La collecte et la présentation des données constituent l’information.</p>",
+                "_graphic": {
+                    "src": "course/fr/images/odi-3-narrative_large.jpg",
+                    "alt": "A graph of open licences across countries",
+                    "title": "A graph of open licences across countries",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
+                    "*credit":"Sachezi",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Informations"
+            },
+            {
+                "title": "Les connaissances",
+                "body": "<p>Les connaissances sont ce qui découle de l’information et l’usage personnalisé que l’on en fait.</p><p>L’acquisition de connaissances consiste en la transformation d’information en choix.</p><p>En s’inspirant de l’exemple précédant, le fait de savoir qu’aucun membre de votre famille n’aime les parcs d’attraction va informer votre décision quant aux destinations à éviter ou à privilégier.</p>",
+                "_graphic": {
+                    "src": "course/fr/images/odi-4-narrative_large.jpg",
+                    "alt": "A map from a to b",
+                    "title": "A map from a to b",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
+                    "*credit":"Oleksiy Mark",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Connaissances"
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
     },
     {
         "_id":"c-30",
@@ -153,13 +153,13 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "4th Star",
-            "title": "4th Star",
-            "large": "course/fr/images/odi-005.jpg",
-            "medium": "course/fr/images/odi-005.jpg",
-            "small": "course/fr/images/odi-005.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=180739841&src=lb-36497927",
-            "*credit":"Tarchyshnik Andrei",
+            "alt": "",
+            "title": "",
+            "large": "course/fr/images/odi-5-accordion_large.jpg",
+            "medium": "course/fr/images/odi-5-accordion_large.jpg",
+            "small": "course/fr/images/odi-5-accordion_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
+            "*credit":"Oleksiy Mark",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -170,87 +170,87 @@
       "_component":"accordion",
       "_classes":"",
       "_layout":"left",
-      "title": "4ème étoile : identifiants ouverts",
-      "displayTitle": "4ème étoile : identifiants ouverts",
-      "body": "<p>La 4ème étoile traite de la capacité à référencer les choses sur le Web.</p>",
+      "title": "Qu’est-ce qui rend les données ‘ouvertes’ ?",
+      "displayTitle": "Qu’est-ce qui rend les données ‘ouvertes’ ?",
+      "body": "<p>Les données sont ouvertes si tout le monde peut y accéder, les utiliser et les partager.<br />Voici quelques idées à prendre en considération lorsque l’on définit ‘ouverte’ :</p>",
       "instruction": "",
       "_items": [
         {
-          "alt": "Les identifiants ouverts",
-          "title": "Les identifiants ouverts",
-          "body": "<p>Un identifiant est une façon simple et rapide de référencer quelque chose de plus complexe.</p><p>Les codes ISBN pour les livres ou les codes postaux pour les lieux en sont des exemples courants.</p><p>Cependant, il y a beaucoup d'autres identifiants utilisés par les secteurs public et privé.</p><p>La difficulté de nombreux identifiants est qu'il n’est pas toujours évident de savoir à quoi le nombre se réfère. La plupart des gens comptent donc sur les moteurs de recherche pour leur en dire plus quant à ces identifiants. Les identifiants basés sur le Web ne posent pas ce problème car on peut tout simplement cliquer sur l'identifiant pour en savoir plus.</p><p>Prenons l’exemple du numéro ISBN d'un livre spécifique qui serait 9781568848624. Pour trouver le livre en utilisant cet ISBN, vous devez taper ce code dans un moteur de recherche pour savoir à quoi l’identifiant fait référence avant de trouver la ressource. En revanche, un identifiant pour ce même livre basé sur le Web vous dira immédiatement qu’il s’agit d’un livre et quel en est le titre, ce qui vous permet de le suivre directement à partir de n’importe quel navigateur Web.<br /><a href='http://bookshop.blackwell.co.uk/jsp/id/Netscape_and_the_World_Wide_Web_For_Dummies/9781568848624' target='_blank'>http://bookshop.blackwell.co.uk/jsp/id/Netscape_and_the_World_Wide_Web_For_Dummies/9781568848624</a></p>"
+          "alt": "Restrictions",
+          "title": "Restrictions",
+          "body": "<p>Pour que les données soient ouvertes, il ne doit y avoir aucune restriction quant à leur utilisation, quelle qu’elle soit.</p><p>N’importe quel utilisateur devrait être libre d’utiliser, de modifier, de combiner et de partager les données, même à des fins commerciales.</p>"
         },
         {
-          "alt": "Utiliser la 4ème étoile",
-          "title": "Utiliser la 4ème étoile",
-          "body": "<p>La 4ème étoile demande que l’on crée ou que l’on utilise des identifiants pour toute chose physique ou numérique.</p><p>L’identifiant est pour la chose physique elle-même. Un ISBN fait référence au livre physique, mais nécessite un contexte pour permettre à l’utilisateur de localiser l'objet qui l’utilise. Un identifiant pour un livre basé sur le Web fait également référence au livre et non pas à une page Web au sujet du livre, mais il ajoute le contexte nécessaire pour que les humains et les machines puissent l’utiliser sans assistance supplémentaire.</p><p>L'identifiant basé sur le Web donne aussi aux machines le contexte nécessaire afin de comprendre l'identifiant. Imaginez une imprimante 3D. En utilisant un identifiant basé sur le Web, une imprimante 3D pourrait théoriquement obtenir toutes les données nécessaires à l’impression de l’objet physique.</p>"
+          "alt": "Coût",
+          "title": "Coût",
+          "body": "<p>Même si l’utilisation de l’open data doit être libre, cela ne signifie pas que son accès doit être gratuit.</p><p>Il y a souvent un coût associé à la création, à la maintenance et à la publication des données utilisables.</p><p>Idéalement, le prix des données ne devrait pas excéder le coût de reproduction de la donnée demandé.</p><p>Ce coût est souvent négligeable pour de nombreux ensembles de données.</p><p>Les données en temps réel et les contenus lourds peuvent cependant engager des frais continus afin de garantir leur fiabilité.</p>"
         },
         {
-          "alt": "L’open data de la 4ème étoile",
-          "title": "L’open data de la 4ème étoile",
-          "body": "<p>La 4ème étoile exige aussi que si un utilisateur clique sur un lien qui ne peut pas lui apporter la chose exacte (un livre, un objet, une personne ou un bâtiment par exemple), il reçoive de l’information contextuelle au sujet de cette chose.</p><p>Ce qui arrive souvent est que le client (humain ou machine) est redirigé vers une représentation appropriée de l’objet. Il peut s’agir d’une page Web, ou encore de données brutes sur cette page Web.</p>"
-        },
-        {
-          "alt": "À vous !",
-          "title": "À vous !",
-          "body": "<p>Certains identifiants basés sur le Web sont <a href='http://www.w3.org/TR/cooluris/' target='_blank'>cool.</a></p><p> Une URI ‘cool’ indique au lecteur ce à quoi l’identifiant fait référence grâce au texte de l’URL. Essayez de deviner à quel identifiant le lien ci-dessous fait référence :<br><br><a href='http://data.ordnancesurvey.co.uk/id/postcodeunit/SO171BJ' target='_blank'>http://data.ordnancesurvey.co.uk/id/postcodeunit/SO171BJ</a><br><br>Notez qu'une fois chargée, l’adresse de la page est différente de l'exemple ci-dessus.</p><p>L’exemple du lien ci-dessus envoie une demande au serveur pour un objet physique. Pour satisfaire cette demande, le serveur a renvoyé une page Web sur l’objet physique (comme il ne pouvait pas vous envoyer l’objet lui-même).</p><p>Votre navigateur s’est soumis à un processus appelé ‘négociation de contenu avec le serveur’ : ce que vous obtenez est ce qui se rapproche le plus de ce que le serveur devait vous donner - dans ce cas il s’agit de données au sujet de l’objet sous une forme spécifique au Web. Si un autre format correspond mieux à vos besoins, vous pouvez utiliser des extensions pour poursuivre la négociation de contenu avec le serveur.</p><p>Pourquoi ne pas tenter de négocier du contenu avec le lien vers Ordnance Survey ci-dessus en ajoutant des extensions comme '.json' et '.xml' à la fin de l'URL?</p>"
+          "alt": "Réutilisation",
+          "title": "Réutilisation",
+          "body": "<p>Une fois que l’utilisateur possède toutes les données, il est libre de les utiliser, de les réutiliser et de les redistribuer, même à des fins commerciales.</p><p>On mesure les données ouvertes en fonction des possibilités d’utilisation, et non en fonction de leur mise à disposition.</p><p>Certains aspects, comme le format, la structure et la lisibilité par une machine, rendent les données plus facilement utilisables et doivent donc être soigneusement considérés.</p><p>Cependant, ces éléments ne rendent pas les données plus ouvertes.</p>"
         }
       ],
       "_pageLevelProgress": {
         "_isEnabled": true
       }
     },
-         {
-        "_id":"c-37",
-        "_parentId":"b-30",
+     {
+        "_id": "c-40",
+        "_parentId": "b-30",
+        "_classes": "",
         "_type":"component",
-        "_component":"graphic",
-        "_classes":"",
-        "_layout":"right",
-        "_graphic": {
-            "alt": "5th Star",
-            "title": "5th Star",
-            "large": "course/fr/images/odi-006.jpg",
-            "medium": "course/fr/images/odi-006.jpg",
-            "small": "course/fr/images/odi-006.jpg",
-            "*source":"http://www.shutterstock.com/pic-245326720",
-            "*credit":"Omelchenko",
-            "*license":"Shutterstock Standard License"
-        }
-    },
-    {
-      "_id":"c-38",
-      "_parentId":"b-30",
-      "_type":"component",
-      "_component":"accordion",
-      "_classes":"",
-      "_layout":"left",
-      "title": "5ème étoile : ‘Linked Data’ (données liées)",
-      "displayTitle": "5ème étoile : ‘Linked Data’ (données liées)",
-      "body": "<p>Ici, il s’agit de lier des points individuels de données entre eux.</p>",
-      "instruction": "",
-      "_items": [
-        {
-          "alt": "Le lien",
-          "title": "Le lien",
-          "body": "<p>La 5ème étoile introduit le concept de lier des points de données entre eux (le concept du Web de données).</p><p>Ces liens permettent aux humains et aux machines de naviguer entre les sources de données sur le Web.</p><p>Le fait de lier des points de données directement les uns aux autres permet de diriger la personne ou la machine vers la bonne information au sujet de la donnée, alors que sinon chacun est responsable de la maintenance de ses propres information sur ces données. Le Web des données fonctionne comme un site officiel, en donnant à tous l’accès à une ressource faisant autorité sur le sujet. Le Web des données permet d’éviter de répéter des données vu qu’on partage une seule ressource parmi un nombre infini de séries de données grâce à des URIs.</p>"
-        },
-        {
-          "alt": "Utiliser la 5ème étoile",
-          "title": "Utiliser la 5ème étoile",
-          "body": "<p>Exemple - Un jeu de données sur tous les bâtiments d’une entreprise utilisera souvent un code postal pour chaque bâtiment de son bloc de données:<br>Le nom du bâtiment : EEE Building<br>Le numéro du bâtiment : 32<br>Le code postal du bâtiment : SO17 1BJ<br><br>Ajoutez du Web des données :<br><br>Le nom du bâtiment : EEE Building<br>Le numéro du bâtiment : 32<br>Le code postal du bâtiment :<a href='http://data.ordnancesurvey.co.uk/id/postcodeunit/SO171BJ' target='_blank'>http://data.ordnancesurvey.co.uk/id/postcodeunit/SO171BJ</a></p>"
-        },
-        {
-          "alt": "Essayez d’utiliser la 5ème étoile",
-          "title": "Essayez d’utiliser la 5ème étoile",
-          "body": "<p>Vous aurez peut-être constaté certains liens entre les données explorées jusqu’à présent dans ce module.</p><p>Essayez de charger le lien utilisé plus haut :<br><br><a href='http://data.ordnancesurvey.co.uk/id/postcodeunit/SO171BJ' target='_blank'>http://data.ordnancesurvey.co.uk/id/postcodeunit/SO171BJ</a><br><br>Maintenant, chargez ce même lien dans un navigateur de données :<br><br><a href='http://graphite.ecs.soton.ac.uk/browser/' target='_blank'>Lien vers Graphile linked data browser</a><br><br>Le navigateur de données fait automatiquement une négociation de contenu des données (pas de contenu de page Web) et affiche les données brutes sous un format lisible par l’humain.</p><p>Tout texte en rouge dans le navigateur est un lien dans les données, qui devrait mener vers plus de données.</p><p>Utilisez l'URL suivante pour voir ce que vous pouvez découvrir au sein du Web des données ouvertes et liées.</p><p><a href='http://www.bbc.co.uk/programmes/b006q2x0' target='_blank'>http://www.bbc.co.uk/programmes/b006q2x0</a>"
-        }
-      ],
-      "_pageLevelProgress": {
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Pourquoi a-t-on besoin ?",
+        "displayTitle": "Pourquoi a-t-on besoin ?",
+        "body": "Les données ouvertes ont le pouvoir de produire des avantages divers pour les gouvernements, les entreprises et la société civile.",
+        "instruction": "<em class='desktop-instruction'>Cliquez sur la flèche pour plus de détail.</em><em class='mobile-instruction'>Cliquez sur la flèche pour plus de détail.</em>",
+        "_items": [
+            {
+                "title": "Transformation gouvernementale",
+                "body": "<p>L’open data permet une plus grande transparence pour les gouvernements. Il peut aider à prouver que les fonds publics sont dépensés à bon escient et que les politiques sont bien implémentées.</p><p>Ainsi, selon un militant pour le gouvernement ouvert (« open government activist ») David Eaves, l’open data a permis aux citoyens canadiens d’économiser 3, 2 milliards de dollars en dons frauduleux aux associations caritatives en 2010.<br /><a href='http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/' target='_blank'>Lien vers l’article de David Eaves</a></p><p>Un autre exemple, au Nigeria cette fois, où selon Follow the Money, le même processus garantit que les fonds publics sont bel et bien utilisés pour mettre en œuvre les politiques promises au peuple.<br /><a href='http://followthemoneyng.org/' target='_blank'>Lien vers Follow the Money</a></p>",
+                "_graphic": {
+                    "src": "course/fr/images/odi-6-narrative_large.jpg",
+                    "alt": "Transform government",
+                    "title": "Transform government",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=265940657&src=lb-35924366",
+                    "*credit":"hxdyl",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Transform government"
+            },
+            {
+                "title": "Nouvelles opportunités d'entreprise",
+                "body": "<p>L’open data ouvre de nouvelles opportunités pour que les entreprises établissent un rapport avec leurs clients.</p><p>Transport for London a publié des données ouvertes qui ont permis la création de plus de 800 applications de transport.<br /><a href='http://www.tfl.gov.uk/' target='_blank'>Lien vers Transport for London</a></p><p>Thomson Reuters utilise les données ouvertes pour mieux communiquer avec les clients existants et afin de fournir de meilleurs services.<br /><a href='http://site.thomsonreuters.com/site/data-identifiers/' target='_blank'>Lien vers Thomson Reuters</a></p><p>Aujourd’hui, la start-up ODI a plus de 70 employés avec un revenu de plus de 4 million de livres.<br /><a href='http://theodi.org/odis-second-year-annual-report' target='_blank'>Lien vers le rapport annual de l’ODI</a></p>",
+                "_graphic": {
+                    "src": "course/fr/images/odi-7-narrative_large.jpg",
+                    "alt": "Build new business opportunities",
+                    "title": "Build new business opportunities",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
+                    "*credit":"Sergey Nivens",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Build new business opportunities"
+            },
+            {
+                "title": "Protéger notre planète",
+                "body": "<p>Le web est devenu une partie intégrante de notre infrastructure et l’open data va contribuer à ce développement.</p><p>Les données ouvertes concernant la météo permettent par exemple de donner l’alerte rapidement en cas de catastrophes naturelles.<br /><a href='http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc' target='_blank'>Lien vers le Centre d’actualités de l’ONU.</a></p><p>Les données ouvertes aident les consommateurs à comprendre leur impact sur l’environnement et à prendre des mesures pour l’améliorer.<br /><a href='https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf' target='_blank'>Lien vers le rapport de Better Choices Better Deals.</a></p>",
+                "_graphic": {
+                    "src": "course/fr/images/odi-8-narrative_large.jpg",
+                    "alt": "Protect our planet",
+                    "title": "Protect our planet",
+                    "*source":"http://www.shutterstock.com/pic.mhtml?id=261740228&src=lb-35924366",
+                    "*credit":"hbpictures",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Protect our planet"
+            }
+        ],
+        "_pageLevelProgress": {
         "_isEnabled": true
-      }
-    },
-    {
+        }
+    }, {
         "_id":"c-42",
         "_parentId":"b-33",
         "_type":"component",
@@ -276,9 +276,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Êtes-vous prêt(e) à surfer le Web des données ?",
-        "displayTitle":"Êtes-vous prêt(e) à surfer le Web des données ?",
-        "body":"<p>Il y a quatre éléments utiles à prendre en compte lorsqu’on surfe le Web des données ouvertes et liées. Saurez-vous vous en souvenir ?</p>",
+        "title":"Êtes-vous prêt(e) pour l’open data ?",
+        "displayTitle":"Êtes-vous prêt(e) pour l’open data ?",
+        "body":"<p>Il y a quatre éléments utiles à prendre en considération quand on pense à ouvrir ses données aux utilisateurs. Saurez-vous vous en souvenir?</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -292,13 +292,13 @@
         "_classes":"illustration",
         "_layout":"right",
         "_graphic": {
-            "alt": "Stars",
+            "alt": "",
             "title": "",
-            "large": "course/fr/images/odi-007.jpg",
-            "medium": "course/fr/images/odi-007.jpg",
-            "small": "course/fr/images/odi-007.jpg",
-            "*source":"http://www.shutterstock.com/pic-109300883",
-            "*credit":"Kletr",
+            "large": "course/fr/images/odi-9-mcq-image_large.jpg",
+            "medium": "course/fr/images/odi-9-mcq-image_large.jpg",
+            "small": "course/fr/images/odi-9-mcq-image_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
+            "*credit":"leromin",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -313,29 +313,29 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "Qu’est-ce que le Web des données ?",
-        "displayTitle": "Qu’est-ce que le Web des données ?",
-        "body": "<p>Le Web des données, c’est...</p>",
-        "instruction": "<em>Choisissez votre réponse puis cliquez sur ‘Valider’.</em>",
+        "title": "L’open data, c’est quoi ?",
+        "displayTitle": "L’open data, c’est quoi ?",
+        "body": "<p>L’open data, c’est…</p>",
+        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
         "_items": [
             {
-                "text": "une série de ressources de données interconnectées dans le Web.",
+                "text": "des informations que l’on vend aux entreprises.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "un Web de portails de données où on peut télécharger des données.",
+                "text": "des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager",
                 "_shouldBeSelected": true
             },
             {
-                "text": "un nouveau réseau social.",
+                "text": "des données visibles en ligne.",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>Vouz avez raison!</h5><p>Le Web des données est une série de ressources de données interconnectées immédiatement lisibles et compréhensibles par les humains ou les machines.</p>",
+            "correct":"<h5>Vous avez raison !</h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>Le Web des données est une série de ressources de données interconnectées immédiatement lisibles et compréhensibles par les humains ou les machines.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>Le Web des données est une série de ressources de données interconnectées immédiatement lisibles et compréhensibles par les humains ou les machines.</p>"
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>"
             },
             "_partlyCorrect": {
                 "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -360,13 +360,19 @@
         "_classes":"illustration",
         "_layout":"left",
         "_graphic": {
-            "alt": "4th Star",
+            "alt": "",
             "title": "",
-            "large": "course/fr/images/odi-008.jpg",
-            "medium": "course/fr/images/odi-008.jpg",
-            "small": "course/fr/images/odi-008.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=180739841&src=lb-36497927",
-            "*credit":"Tarchyshnik Andrei",
+            "large": "course/fr/images/odi-10-mcq_large.jpg",
+            "medium": "course/fr/images/odi-10-mcq_large.jpg",
+            "small": "course/fr/images/odi-10-mcq_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
+            "*credit":"Anna Frajtova",
+            "*license":"Shutterstock Standard License",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
+            "*credit":"Sachezi",
+            "*license":"Shutterstock Standard License",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
+            "*credit":"Oleksiy Mark",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -381,29 +387,29 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "Qu’identifie le lien suivant?",
-        "displayTitle": "Qu’identifie le lien suivant?",
-        "body": "<p><a href='http://bookshop.blackwell.co.uk/jsp/id/1984/9781849432269' target='_blank'>http://bookshop.blackwell.co.uk/jsp/id/1984/9781849432269</a></p>",
-        "instruction": "<em>Choisissez votre réponse puis cliquez sur ‘Valider’.</em>",
+        "title": "Qu’entend-on par données ?",
+        "displayTitle": "Qu’entend-on par données ?",
+        "body": "<p>Les données sont...</p>",
+        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
         "_items": [
             {
-                "text": "Une page Web",
+                "text": "des chiffres, des mots, des cartes et des photos.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "Le date 1984",
+                "text": "des informations en ligne.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "Le livre 1984",
+                "text": "la matière première  de l’information et de la connaissance.",
                 "_shouldBeSelected": true
             }
         ],
         "_feedback":{
-            "correct":"<h5>Vouz avez raison!</h5><p>Rappelez-vous qu’un identifiant basé sur le Web indique la chose physique, et non pas la page Web où elle se trouve.</p>",
+            "correct":"<h5>Vous avez raison !</h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>Rappelez-vous qu’un identifiant basé sur le Web indique la chose physique, et non pas la page Web où elle se trouve.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>Rappelez-vous qu’un identifiant basé sur le Web indique la chose physique, et non pas la page Web où elle se trouve.</p>"
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>"
             },
             "_partlyCorrect": {
                 "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -428,13 +434,13 @@
         "_classes":"illustration",
         "_layout":"right",
         "_graphic": {
-            "alt": "5th Star",
+            "alt": "",
             "title": "",
-            "large": "course/fr/images/odi-009.jpg",
-            "medium": "course/fr/images/odi-009.jpg",
-            "small": "course/fr/images/odi-009.jpg",
-            "*source":"http://www.shutterstock.com/pic-245326720",
-            "*credit":"Omelchenko",
+            "large": "course/fr/images/odi-11-mcq_large.jpg",
+            "medium": "course/fr/images/odi-11-mcq_large.jpg",
+            "small": "course/fr/images/odi-11-mcq_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
+            "*credit":"Oleksiy Mark",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -448,34 +454,102 @@
         "_attempts":1,
         "_questionWeight":1,
         "_isRandom":true,
-        "_selectable":3,
-        "title": "Lesquels des identifiants suivants font référence au group ‘One Direction’?",
-        "displayTitle": "Lesquels des identifiants suivants font référence au group ‘One Direction’?",
-        "body": "",
-        "instruction": "<em>Choisissez trois réponses puis cliquez sur ‘Valider’.</em>",
+        "_selectable":1,
+        "title": "Qu’est ce qui rend les données ouvertes ?",
+        "displayTitle": "Qu’est ce qui rend les données ouvertes ?",
+        "body": "<p>Les données ouvertes doivent...</p>",
+        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
         "_items": [
             {
-                "text": "<a href='www.bbc.co.uk/music/artists/1a425bbd-cca4-4b2c-aeb7-71cb176c828a' target='_blank'>www.bbc.co.uk/music/artists/1a425bbd-cca4-4b2c-aeb7-71cb176c828a</a>",
+                "text": "être libres de toute limite en ce qui concerne leur utilisation.",
                 "_shouldBeSelected": true
             },
             {
-                "text": "<a href='https://musicbrainz.org/artist/1a425bbd-cca4-4b2c-aeb7-71cb176c828a' target='_blank'>https://musicbrainz.org/artist/1a425bbd-cca4-4b2c-aeb7-71cb176c828a</a>",
-                "_shouldBeSelected": true
+                "text": "comporter des limites d’utilisation.",
+                "_shouldBeSelected": false
             },
             {
-                "text": "<a href='http://dbpedia.org/resource/One_Direction' target='_blank'>http://dbpedia.org/resource/One_Direction</a>",
+                "text": "être publiées de manière sélective et payante.",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback":{
+            "correct":"<h5>Vous avez raison !</h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>",
+            "_incorrect": {
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>"
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+          }
+        },
+        "_buttons":{
+            "submit":"Valider",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+      }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"illustration",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/fr/images/odi-12-mcq_large.jpg",
+            "medium": "course/fr/images/odi-12-mcq_large.jpg",
+            "small": "course/fr/images/odi-12-mcq_large.jpg",
+            "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
+            "*credit":"Sergey Nivens",
+            "*license":"Shutterstock Standard License"
+        }
+    },
+    {
+        "_id":"c-80",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"right",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":true,
+        "_selectable":1,
+        "title": "Pourquoi a-t-on besoin de l’open data ?",
+        "displayTitle": "Pourquoi a-t-on besoin de l’open data ?",
+        "body": "<p>Quel est le potentiel de l’open data ?</p>",
+        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
+        "_items": [
+            {
+                "text": "Donner accès à d’autres ensembles de données.",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Rendre les gouvernements plus responsables.",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Générer de la valeur sociale, environnementale et économique.",
                 "_shouldBeSelected": true
             }
         ],
         "_feedback":{
-            "correct":"<h5>Vouz avez raison!</h5><p>En réalité, tous trois sont des identifiants. Les deux derniers exemples utilisent le même sous identifiant, mais dépendent d’autorités différentes. Le troisième est l’identifiant wikipedia (de dbpedia) de l'artiste. Ils sont tous liés les uns aux autres et partagent leurs données. Saurez-vous trouver les liens ?</p>",
+            "correct":"<h5>Vous avez raison !</h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>En réalité, tous trois sont des identifiants. Les deux derniers exemples utilisent le même sous identifiant, mais dépendent d’autorités différentes. Le troisième est l’identifiant wikipedia (de dbpedia) de l'artiste. Ils sont tous liés les uns aux autres et partagent leurs données. Saurez-vous trouver les liens ?</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>En réalité, tous trois sont des identifiants. Les deux derniers exemples utilisent le même sous identifiant, mais dépendent d’autorités différentes. Le troisième est l’identifiant wikipedia (de dbpedia) de l'artiste. Ils sont tous liés les uns aux autres et partagent leurs données. Saurez-vous trouver les liens ?</p>"
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>In fact all three are identifiers. The first two use the same sub identifier but are different authorities. The third one is the wikipedia identifier (dbpedia) for the artist. They all link to each other and share each others data, can you find the links?</p>",
-                "final": "<h5>Are you sure about that?</h5><p>In fact all three are identifiers. The first two use the same sub identifier but are different authorities. The third one is the wikipedia identifier (dbpedia) for the artist. They all link to each other and share each others data, can you find the links?</p>"
+                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
           }
         },
         "_buttons":{
@@ -496,8 +570,8 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "Summary icon clipboard",
-            "title": "Summary icon clipboard",
+            "alt": "",
+            "title": "",
             "large": "course/fr/images/summary-icon.png",
             "medium": "course/fr/images/summary-icon.png",
             "small": "course/fr/images/summary-icon.png",
@@ -513,9 +587,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Surfer le Web des données ouvertes et liée",
-        "displayTitle":"Surfer le Web des données ouvertes et liée",
-        "body":"<p>Le Web des données est une série de ressources de données étroitement liées qui peuvent être lues et comprises instantanément par les humains ou les machines.</p><p>En 1989 Sir Tim Berners-Lee a inventé le Web des documents et nous avons mis plus de 20 ans à comprendre comment l’utiliser. Il fait à présent partie intégrante de notre société.</p><p>En 2001, Tim a envisagé le Web des données ouvertes et liées et nous commençons petit à petit à réaliser de quelle façon cela va à nouveau révolutionner le Web.</p>",
+        "title":"Données ouvertes - veni, vidi, vici",
+        "displayTitle":"Données ouvertes - veni, vidi, vici",
+        "body":"<p>Les données ouvertes, ou ‘open data’, sont des données auxquelles n’importe qui peut accéder et que tout le monde peut utiliser et partager.</p><p>Les données ouvertes sont une matière première pour l’ère du numérique mais à la différence du charbon, du bois ou des diamants, elles peuvent être utilisées par n’importe qui et à n’importe quel moment.</p><p>Toute limitation mise en place sur l’usage libre de l’open data en limitera le potentiel d’utilisation.</p><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer des services, de contribuer à la croissance économiques et de sauver notre planète.</p><p>Lors du prochain module, nous verrons dans quelle mesure l’open data peut générer de la valeur.</p>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }
@@ -536,14 +610,14 @@
         "_classes":"footer-logo",
         "_layout":"left",
         "_graphic": {
-            "alt": "Open data institute logo",
-            "title": "Open data institute logo",
+            "alt": "",
+            "title": "",
             "large": "course/fr/images/logo-small.png",
             "medium": "course/fr/images/logo-small.png",
             "small": "course/fr/images/logo-small.png",
-            "*source":"http://theodi.org",
-            "*credit":"The Open Data Institute",
-            "*license":"All rights reserved"           
+            "*source":"",
+            "*credit":"",
+            "*license":""            
         }
     },
     {
