@@ -28,27 +28,27 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"L’open data, c’est quoi ?",
-        "displayTitle":"L’open data, c’est quoi ?",
-	"body": "<p>Il s’agit de données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les gouvernements, les entreprises et les individus peuvent utiliser l’open data afin de créer des avantages sociaux, économiques et environnementaux.</p><h5>Dans ce module, nous allons explorer les points suivants :</h5><ul class='ticks'><li>L’open data (ou ‘données ouvertes’), c’est quoi ?</li><li>Qu’entend-on par données ?</li><li>Qu’est ce qui rend les données ‘ouvertes’?</li><li>Pourquoi en a-t-on besoin?</li></ul>",
+        "title":"Trouver les données cachées sur le Web",
+        "displayTitle":"Trouver les données cachées sur le Web",
+        "body":"<p>‘Open data’ signifie bien plus que de simples séries de données disponibles à télécharger. Les données téléchargeables ne représentent qu’une partie infime des données disponibles sur le Web.</p><p>La plupart des données disponibles sur le Web ne sont pas visibles pour l’humain. Cependant les machines sont capables de trouver et de lire ces données. Lors de ce module, nous verrons quelles techniques utiliser pour déverrouiller les données cachées.</p><h5>Dans ce module, nous allons explorer les points suivants :</h5><ul class='ticks'><li>Comment trouver des données cachées</li><li>Quels sont les avantages des données cachées</li><li>Comment obtenir des données cachées</li></ul>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
     },
-    {
+     {
     "_id":"c-11",
     "_parentId":"b-10",
     "_type":"component",
     "_component":"iFrame-vimeo",
     "_classes":"",
     "_layout":"full",
-        "title":"Découvrir l’Open Data- en 2 minutes",
-        "displayTitle": "Découvrir l’Open Data- en 2 minutes",
-        "body": "Formateur à l’ODI, Dr. David Tarrant explique ce qu’on entend par données, ce qui les rend ouvertes et pourquoi l’open data est nécessaire.",
+        "title":"Trouver des données cachées - en 2 minutes",
+        "displayTitle": "Trouver des données cachées - en 2 minutes",
+        "body": "David Tarrant, formateur à l’ODI, explique ce que l’on entend par données cachées, les avantages qu’elles offrent et comment les obtenir.",
         "instruction": "",
         "_setCompletionOn":"ended",
-        "_source": "https://player.vimeo.com/video/129196637",
+        "_source": "https://player.vimeo.com/video/129197208",
         "_width": {
             "_small" : 300,
             "_medium" : 500,
@@ -68,14 +68,14 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-1-text-image_large.jpg",
-            "medium": "course/fr/images/odi-1-text-image_large.jpg",
-            "small": "course/fr/images/odi-1-text-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
-            "*license":"Shutterstock Standard License"
+            "alt": "Tip of the iceberg",
+            "title": "Tip of the iceberg",
+            "large": "course/fr/images/odi-001.jpg",
+            "medium": "course/fr/images/odi-001.jpg",
+            "small": "course/fr/images/odi-001.jpg",
+            "*source": "http://www.shutterstock.com/pic-278213858.html",
+            "*credit": "Lightspring",
+            "*licence": "Shutterstock standard license"
         }
     },
     {
@@ -85,9 +85,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"L’open data, c’est quoi ?",
-        "displayTitle":"L’open data, c’est quoi ?",
-        "body":"<p>Il s’agit de données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager.</p><p>On peut accéder aux données car elles sont disponibles en ligne.</p><p>On peut utiliser les données car elles sont disponibles sous une forme commune et lisible par des machines.</p><p>L’open data doit être sous licence. Cette licence doit en permettre l’usage libre et autoriser les utilisateurs à transformer, combiner et partager ces données, même à des fins commerciales.</p>"
+        "title":"Des données invisibles pour l’humain",
+        "displayTitle":"Des données invisibles pour l’humain",
+        "body":"<p>Les données ne sont pas toujours faciles à trouver sur le Web parce que la plupart des ressources disponibles ne sont visibles que par des machines. En général, les internautes surfent le Web de manière visuelle : ils visualisent  le contenu, cliquent sur des liens et téléchargent des fichiers.</p><p>Les machines naviguent le Web d’une façon bien différente, en utilisant uniquement les règles logiques contenues dans le code. Alors que les humains recherchent un contenu engageant et interactif, les machines demandent de la structure, de la logique et de la clarté.</p><p>Cette différence crée un ‘angle mort’ pour les humains ou les machines, selon leur manière de lire le Web.</p><p>Ainsi, il arrive que les machines ne trouvent pas immédiatement le lien de téléchargement sur une page ou que les humains aient des difficultés à voir les données structurées et non-visuelles qui se trouvent dans le code.</p><p>Les fichiers téléchargeables d’open data ne sont qu’un type de données sur le Web parmi d’autres. La majorité des données sont cachées dans le code d’un site Web.</p>"
     },
      {
         "_id": "c-25",
@@ -96,49 +96,49 @@
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "De la matière première à l’information et à la connaissance nouvelle",
-        "displayTitle": "De la matière première à l’information et à la connaissance nouvelle",
-        "body": "Sans données, on ne peut pas créer d’information. Et sans information, il n’y a pas de nouvelles connaissances possibles.",
+        "title": "Trouver les données cachées",
+        "displayTitle": "Trouver les données cachées",
+        "body": "Certaines données ne sont pas disponibles au téléchargement. Elles sont souvent cachées au sein des différents sites Web que l’on visite quotidiennement.",
         "instruction": "<em class='desktop-instruction'>Cliquez sur la flèche pour plus de détail.</em><em class='mobile-instruction'>Cliquez sur la flèche pour plus de détail.</em>",
         "_items": [
             {
-                "title": "Les données",
-                "body": "<p>Les données sont le niveau le plus bas de matière première duquel on peut retirer des connaissances.</p><p>Imaginez ainsi les données comme l’ensemble des lieux, des images, des descriptions, des critiques et des prix qui constituent l’information nécessaire à la planification de vos vacances.</p>",
+                "title": "Pourquoi cacher les données ?",
+                "body": "<p>La nouvelle tendance du Web, aujourd’hui centré presque exclusivement sur les données et des fonctions compatibles avec les Smartphones et autres gadgets mobiles, a révolutionné la manière de concevoir les sites web. Afin de satisfaire les exigences du consommateur quant à l’interactivité et l’aspect visuel des sites, les développeurs ont de plus en plus tendance à mettre les données dans une ‘couche’ distincte ou encore dans le code lui-même. Cette couche de données est souvent accessible à ceux qui disposent des bons outils.</p>",
                 "_graphic": {
-                    "src": "course/fr/images/odi-2-narrative_large.jpg",
-                    "alt": "Providing certainty",
-                    "title": "",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-                    "*credit":"Anna Frajtova",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/fr/images/odi-002.jpg",
+                    "alt": "Readiness",
+                    "title": "Readiness",
+                    "*source": "http://www.shutterstock.com/pic-145267489",
+                    "*credit": "kentoh",
+                    "*licence": "Shutterstock standard license"
                 },
-                "strapline": "Données"
+                "strapline": "Readiness"
             },
             {
-                "title": "L’information",
-                "body": "<p>Les données deviennent de l’information lorsqu’on leur donne un contexte.</p><p>En s’inspirant de l’exemple précédant, on associe certaines destinations, images, descriptions et prix à une attraction touristique.</p><p>La collecte et la présentation des données constituent l’information.</p>",
+                "title": "Les données se couchent partout",
+                "body": "<p>Des pages Wikipedia aux sites de vacances en passant par des sites de mode et de fournisseurs d’énergie, le Web foisonne de sources de données.</p><p>Les licences concernant ces données cachées ne sont pas toujours claires : ce n’est pas parce que des données sur un site Web public sont lisibles par une machine que celles-ci sont ouvertes. Si vous avez le moindre doute quant à la licence, vérifiez avec l’éditeur du site.</p>",
                 "_graphic": {
-                    "src": "course/fr/images/odi-3-narrative_large.jpg",
-                    "alt": "A graph of open licences across countries",
-                    "title": "A graph of open licences across countries",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-                    "*credit":"Sachezi",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/fr/images/odi-003.jpg",
+                    "alt": "Implementation",
+                    "title": "Implementation",
+                    "*source": "http://www.shutterstock.com/pic-144137602",
+                    "*credit": "David Arts",
+                    "*licence": "Shutterstock standard license"
                 },
-                "strapline": "Informations"
+                "strapline": "Implementation"
             },
             {
-                "title": "Les connaissances",
-                "body": "<p>Les connaissances sont ce qui découle de l’information et l’usage personnalisé que l’on en fait.</p><p>L’acquisition de connaissances consiste en la transformation d’information en choix.</p><p>En s’inspirant de l’exemple précédant, le fait de savoir qu’aucun membre de votre famille n’aime les parcs d’attraction va informer votre décision quant aux destinations à éviter ou à privilégier.</p>",
+                "title": "Quels types de données se cachent ?",
+                "body": "<p>L’apparence des données cachées est totalement différente de celle d’un ensemble de données ouvertes que l’on aurait téléchargé sur un site Web.</p><p>Les données lisibles par des machines sur le Web se présentent souvent sous format JSON, le format le plus courant et le plus facile à utiliser, XML ou parfois RDF.</p><p>Complétez les exercices plus tard dans ce module et essayez d’extraire des données sous ces formats.</p>",
                 "_graphic": {
-                    "src": "course/fr/images/odi-4-narrative_large.jpg",
-                    "alt": "A map from a to b",
-                    "title": "A map from a to b",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
-                    "*credit":"Oleksiy Mark",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/fr/images/odi-004.jpg",
+                    "alt": "Impact",
+                    "title": "Impact",
+                    "*source": "http://www.shutterstock.com/pic-79079872",
+                    "*credit": "Angela Waye",
+                    "*licence": "Shutterstock standard license"
                 },
-                "strapline": "Connaissances"
+                "strapline": "Impact"
             }
         ],
         "_pageLevelProgress": {
@@ -153,14 +153,14 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-5-accordion_large.jpg",
-            "medium": "course/fr/images/odi-5-accordion_large.jpg",
-            "small": "course/fr/images/odi-5-accordion_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
-            "*license":"Shutterstock Standard License"
+            "alt": "Benefits of hidden data",
+            "title": "Benefits of hidden data",
+            "large": "course/fr/images/odi-005.jpg",
+            "medium": "course/fr/images/odi-005.jpg",
+            "small": "course/fr/images/odi-005.jpg",
+            "*source": "http://www.shutterstock.com/pic-203736538",
+            "*credit": "Digital Storm",
+            "*licence": "Shutterstock standard license"
         }
     },
     {
@@ -170,25 +170,29 @@
       "_component":"accordion",
       "_classes":"",
       "_layout":"left",
-      "title": "Qu’est-ce qui rend les données ‘ouvertes’ ?",
-      "displayTitle": "Qu’est-ce qui rend les données ‘ouvertes’ ?",
-      "body": "<p>Les données sont ouvertes si tout le monde peut y accéder, les utiliser et les partager.<br />Voici quelques idées à prendre en considération lorsque l’on définit ‘ouverte’ :</p>",
-      "instruction": "",
+      "title":"Les avantages des données cachées",
+      "displayTitle": "Les avantages des données cachées",
+      "instruction": "<em>Cliquez sur les titres pour plus de détails</em>",
       "_items": [
         {
-          "alt": "Restrictions",
-          "title": "Restrictions",
-          "body": "<p>Pour que les données soient ouvertes, il ne doit y avoir aucune restriction quant à leur utilisation, quelle qu’elle soit.</p><p>N’importe quel utilisateur devrait être libre d’utiliser, de modifier, de combiner et de partager les données, même à des fins commerciales.</p>"
+          "alt": "Qualité",
+          "title": "Qualité",
+          "body": "<p>Dans la plupart des cas, les données cachées sont celles utilisées par l’éditeur du site pour présenter la page visible sur le site.</p><p>Les données cachées jouent donc un rôle particulièrement important dans leurs opérations en ligne et il est fort probable que l’éditeur prenne grand soin de leur qualité.</p><p>Les données extraites du Web ont tendance à être plus fiables car il s’agit probablement de données clés quant aux opérations d’une organisation. Par conséquent, il s’agit souvent de données avec lesquelles on peut travailler en toute confiance.</p>"
         },
         {
-          "alt": "Coût",
-          "title": "Coût",
-          "body": "<p>Même si l’utilisation de l’open data doit être libre, cela ne signifie pas que son accès doit être gratuit.</p><p>Il y a souvent un coût associé à la création, à la maintenance et à la publication des données utilisables.</p><p>Idéalement, le prix des données ne devrait pas excéder le coût de reproduction de la donnée demandé.</p><p>Ce coût est souvent négligeable pour de nombreux ensembles de données.</p><p>Les données en temps réel et les contenus lourds peuvent cependant engager des frais continus afin de garantir leur fiabilité.</p>"
+          "alt": "Pertinence",
+          "title": "Pertinence",
+          "body": "<p>Les organisations ne publient pas toujours des données téléchargeables. Cependant, beaucoup de leurs sites sont centrés sur les données. En accédant aux données grâce aux flux de données existants (ou à partir du code du site Web), il y a déjà une utilisation claire pour les données, ce qui peut vous aider à identifier rapidement les données pertinentes plutôt que de les trouver vous-même. Consultez par exemple les pages des informations de la BBC et les flux de données associés.<br /><a href='http://www.bbc.co.uk/news/10628494' target='_blank'>Lien vers données pertinents du BBC</a></p>"
         },
         {
-          "alt": "Réutilisation",
-          "title": "Réutilisation",
-          "body": "<p>Une fois que l’utilisateur possède toutes les données, il est libre de les utiliser, de les réutiliser et de les redistribuer, même à des fins commerciales.</p><p>On mesure les données ouvertes en fonction des possibilités d’utilisation, et non en fonction de leur mise à disposition.</p><p>Certains aspects, comme le format, la structure et la lisibilité par une machine, rendent les données plus facilement utilisables et doivent donc être soigneusement considérés.</p><p>Cependant, ces éléments ne rendent pas les données plus ouvertes.</p>"
+          "alt": "Contexte",
+          "title": "Contexte",
+          "body": "<p>Le fait d’accéder aux données directement sur le Web implique que celles-ci sont contextualisées. Nous avons déjà expliqué l’importance du contexte des données pour leur utilisation lors de précédents modules.</p>"
+        },
+        {
+          "alt": "Ampleur",
+          "title": "Ampleur",
+          "body": "<p>Une organisation est souvent limitée quant à la quantité de données téléchargeables qu’elle peut publier. Le fait de trouver des données cachées offre une plus large gamme de ressources.</p>"
         }
       ],
       "_pageLevelProgress": {
@@ -202,49 +206,75 @@
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "Pourquoi a-t-on besoin ?",
-        "displayTitle": "Pourquoi a-t-on besoin ?",
-        "body": "Les données ouvertes ont le pouvoir de produire des avantages divers pour les gouvernements, les entreprises et la société civile.",
+        "title": "Comment trouver les données cachées ?",
+        "displayTitle": "Comment trouver les données cachées ?",
+        "body": "<p>Grâce aux données, on obtient de l’information ; grâce à l’information, on accède à la connaissance et à la compréhension.</p><p>Veuillez noter que le simple fait qu’il soit possible d’extraire des données cachées ne les rend pas pour autant ouvertes. Il faut toujours vérifier les conditions générales de la licence du site Web avant de recueillir ou d’utiliser des données, quelle que soit l’utilisation prévue. Pour plus de détails sur les licences, veuillez vous référer au module 4.</p>",
         "instruction": "<em class='desktop-instruction'>Cliquez sur la flèche pour plus de détail.</em><em class='mobile-instruction'>Cliquez sur la flèche pour plus de détail.</em>",
         "_items": [
             {
-                "title": "Transformation gouvernementale",
-                "body": "<p>L’open data permet une plus grande transparence pour les gouvernements. Il peut aider à prouver que les fonds publics sont dépensés à bon escient et que les politiques sont bien implémentées.</p><p>Ainsi, selon un militant pour le gouvernement ouvert (« open government activist ») David Eaves, l’open data a permis aux citoyens canadiens d’économiser 3, 2 milliards de dollars en dons frauduleux aux associations caritatives en 2010.<br /><a href='http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/' target='_blank'>Lien vers l’article de David Eaves</a></p><p>Un autre exemple, au Nigeria cette fois, où selon Follow the Money, le même processus garantit que les fonds publics sont bel et bien utilisés pour mettre en œuvre les politiques promises au peuple.<br /><a href='http://followthemoneyng.org/' target='_blank'>Lien vers Follow the Money</a></p>",
+                "title": "Le téléchargement des extensions",
+                "body": "<p>Certains sites Web sont conçus avec la possibilité d’en extraire les données en ajoutant une simple extension à l’URL. Pour ces sites, souvent maintenus par des organisations qui publient aussi de l’open data téléchargeable, le fait d’ajouter la bonne extension déclenche un téléchargement de la page sous forme de données plutôt que sous le format de navigation.</p><p>Le site Web du gouvernement britannique en est un bon exemple : chaque page peut être accessible sous forme de données tout simplement en ajoutant l’extension nécessaire comme ‘.json’, par exemple https://www.gov.uk/browse/business.json.</p><p>Essayez avec les données de commerce du Royaume-Uni. Allez au site Web et ajoutez ‘.json’, à l’URL pour obtenir les données.<br /><a href='https://www.gov.uk/trade-tariff/sections' target='_blank'>Lien vers les données de commerce du gouvernement britannique</a></p><p>Afin de voir les données sous un format plus lisible par l’humain, copiez-les sous jsonlint.io</p>",
                 "_graphic": {
-                    "src": "course/fr/images/odi-6-narrative_large.jpg",
-                    "alt": "Transform government",
-                    "title": "Transform government",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=265940657&src=lb-35924366",
-                    "*credit":"hxdyl",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/fr/images/odi-006.jpg",
+                    "alt": "Extensions",
+                    "title": "Extensions",
+                    "*source": "http://www.shutterstock.com/pic-119236978",
+                    "*credit": "spaxiax",
+                    "*licence": "Shutterstock standard license"
                 },
-                "strapline": "Transform government"
+                "strapline": "Process management"
             },
             {
-                "title": "Nouvelles opportunités d'entreprise",
-                "body": "<p>L’open data ouvre de nouvelles opportunités pour que les entreprises établissent un rapport avec leurs clients.</p><p>Transport for London a publié des données ouvertes qui ont permis la création de plus de 800 applications de transport.<br /><a href='http://www.tfl.gov.uk/' target='_blank'>Lien vers Transport for London</a></p><p>Thomson Reuters utilise les données ouvertes pour mieux communiquer avec les clients existants et afin de fournir de meilleurs services.<br /><a href='http://site.thomsonreuters.com/site/data-identifiers/' target='_blank'>Lien vers Thomson Reuters</a></p><p>Aujourd’hui, la start-up ODI a plus de 70 employés avec un revenu de plus de 4 million de livres.<br /><a href='http://theodi.org/odis-second-year-annual-report' target='_blank'>Lien vers le rapport annual de l’ODI</a></p>",
+                "title": "Les flux des données",
+                "body": "<p>Beaucoup de sites Web proposent des liens vers des flux de données auxquels on peut s’abonner. Ces flux peuvent être des flux RSS, des flux d’alertes Twitter ou encore d’autres types de flux moins courants. On utilise les flux pour obtenir des données brutes concernant une vaste gamme de contenu.</p><p>Pour un exemple de flux de données brutes, voyez le flux de BBC news sous format XML.<br /><a href='http://feeds.bbci.co.uk/news/rss.xml' target='_blank'>Lien vers données pertinents du BBC en XML</a></p><p>Vous pouvez utiliser un outil gratuit en ligne qui rend ces données plus faciles à utiliser.<br /><a href='http://codebeautify.org/xmlviewer' target='_blank'>Allez vers codebeautify et entrez l’URL du flux BBC dans la section ‘Load URL’</a></p>",
                 "_graphic": {
-                    "src": "course/fr/images/odi-7-narrative_large.jpg",
-                    "alt": "Build new business opportunities",
-                    "title": "Build new business opportunities",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-                    "*credit":"Sergey Nivens",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/fr/images/odi-007.jpg",
+                    "alt": "Data feeds",
+                    "title": "Data feeds",
+                    "*source": "http://www.shutterstock.com/pic-72158482",
+                    "*credit": "Ing",
+                    "*licence": "Shutterstock standard license"
                 },
-                "strapline": "Build new business opportunities"
+                "strapline": "User focused"
             },
             {
-                "title": "Protéger notre planète",
-                "body": "<p>Le web est devenu une partie intégrante de notre infrastructure et l’open data va contribuer à ce développement.</p><p>Les données ouvertes concernant la météo permettent par exemple de donner l’alerte rapidement en cas de catastrophes naturelles.<br /><a href='http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc' target='_blank'>Lien vers le Centre d’actualités de l’ONU.</a></p><p>Les données ouvertes aident les consommateurs à comprendre leur impact sur l’environnement et à prendre des mesures pour l’améliorer.<br /><a href='https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf' target='_blank'>Lien vers le rapport de Better Choices Better Deals.</a></p>",
+                "title": "Le code source",
+                "body": "<p>Au delà des sites Web qui offrent un accès simple aux données, beaucoup de sites intègrent leurs données dans le code source de la page Web.</p><p>Pourquoi ne jetteriez-vous pas un œil à l’outil expérimental de l’ODI ‘Hidden Data Extractor’ (Extracteur de Données Cachées) pour trouver les données cachées dans le code source d’un site Web ?<br /><a href='http://odinprac.theodi.org/hidden-data-extractor/' target='_blank'>Lien vers le ‘Hidden Data Extractor’ de l’ODI</a></p>",
                 "_graphic": {
-                    "src": "course/fr/images/odi-8-narrative_large.jpg",
-                    "alt": "Protect our planet",
-                    "title": "Protect our planet",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=261740228&src=lb-35924366",
-                    "*credit":"hbpictures",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/fr/images/odi-008.jpg",
+                    "alt": "Source code",
+                    "title": "Source code",
+                    "*source": "http://www.shutterstock.com/pic-119236978",
+                    "*credit": "spaxiax",
+                    "*licence": "Shutterstock standard license"
                 },
-                "strapline": "Protect our planet"
+                "strapline": "User focused"
+            },
+            {
+                "title": "API ou interface lisible par une machine",
+                "body": "<p>Certains sites ou services Web prévoient une interface lisible par machine, ou API, pour interroger ou accéder à leurs données.</p><p>Voici quelques exemples de services utilisant une API :<a href='https://api.opencorporates.com/' target='_blank'>Open Corporates</a> (ouvert), <a href='http://wiki.openstreetmap.org/wiki/API' target='_blank'>OpenSteetMap</a> (ouvert), <a href='https://dev.twitter.com/rest/public' target='_blank'>Twitter</a> (pas ouvert ), <a href='https://www.flickr.com/services/api/' target='_blank'>Flickr</a> (quelque contenu ouvert), <a href='https://developer.linkedin.com/docs/rest-api' target='_blank'>LinkedIn</a> (pas ouvert).</p><p>La plupart des services utilisent une API Web et permettent l’ajout d’extensions (essayez ‘.json’ sur OpenCorporates). Bien que cette API ressemble aux exemples de sites cités précédemment, où il suffit d’ajouter une extension pour obtenir les données, le statut formel d’OpenCorporates en tant qu’API donne plus de certitude quant à la disponibilité du service.</p>",
+                "_graphic": {
+                    "src": "course/fr/images/odi-009.jpg",
+                    "alt": "APIs",
+                    "title": "APIs",
+                    "*source": "http://www.shutterstock.com/pic-231102415",
+                    "*credit": "Imagentle",
+                    "*licence": "Shutterstock standard license"
+                },
+                "strapline": "User focused"
+            },
+            {
+                "title": "Le ‘scraping’",
+                "body": "<p>Si aucune des techniques mentionnées jusqu’à présent ne fonctionne, vous pouvez avoir recours à la technique dite de ‘scraping’ (utilisation d’un programme qui extrait l’information d’un site) sur les sites lisibles par l’humain. Bien que cette technique soit relativement fiable, vous n’êtes pas à l’abri de changements dans la disposition ou le contenu du site.</p><p>N’hésitez pas à essayez magic.import pour constater par vous-même à quel point cette technique est facile.<br /><a href='http://www.magic.import.io' target='_blank'>magic.import.io</a></p>",
+                "_graphic": {
+                    "src": "course/fr/images/odi-010.jpg",
+                    "alt": "Scraping the web",
+                    "title": "Scraping the web",
+                    "*source": "http://www.shutterstock.com/pic-231672367",
+                    "*credit": "McIek",
+                    "*licence": "Shutterstock standard license"
+                },
+                "strapline": "User focused"
             }
         ],
         "_pageLevelProgress": {
@@ -276,9 +306,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Êtes-vous prêt(e) pour l’open data ?",
-        "displayTitle":"Êtes-vous prêt(e) pour l’open data ?",
-        "body":"<p>Il y a quatre éléments utiles à prendre en considération quand on pense à ouvrir ses données aux utilisateurs. Saurez-vous vous en souvenir?</p>",
+        "title":"Êtes vous prêt(e) à trouver les données cachées sur le Web?",
+        "displayTitle":"Êtes vous prêt(e) à trouver les données cachées sur le Web?",
+        "body":"<p>Il y a 3 choses utiles à prendre en trouver les données cachées sur le Web. Vous vous en souvenez ?</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -292,14 +322,14 @@
         "_classes":"illustration",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-9-mcq-image_large.jpg",
-            "medium": "course/fr/images/odi-9-mcq-image_large.jpg",
-            "small": "course/fr/images/odi-9-mcq-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
-            "*license":"Shutterstock Standard License"
+            "alt": "Tip of the iceberg",
+            "title": "Tip of the iceberg",
+            "large": "course/fr/images/odi-011.jpg",
+            "medium": "course/fr/images/odi-011.jpg",
+            "small": "course/fr/images/odi-011.jpg",
+            "*source": "http://www.shutterstock.com/pic-278213858.html",
+            "*credit": "Lightspring",
+            "*licence": "Shutterstock standard license"
         }
     },
     {
@@ -313,29 +343,29 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "L’open data, c’est quoi ?",
-        "displayTitle": "L’open data, c’est quoi ?",
-        "body": "<p>L’open data, c’est…</p>",
-        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
+        "title": "Qu’est-ce que les données cachées ?",
+        "displayTitle": "Qu’est-ce que les données cachées ?",
+        "body": "<p>Les données cachées...</p>",
+        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’</em>",
         "_items": [
             {
-                "text": "des informations que l’on vend aux entreprises.",
+                "text": "Les indices d’une chasse au trésor",
                 "_shouldBeSelected": false
             },
             {
-                "text": "des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager",
+                "text": "Des données visibles pour des machines mais invisibles pour l’humain",
                 "_shouldBeSelected": true
             },
             {
-                "text": "des données visibles en ligne.",
+                "text": "Des fichiers difficiles à télécharger",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>",
+            "correct":"<h5>Vous avez raison !</h5><p>Les donnés cachées sont ne sont pas visibles à l’œil nu lorsqu’on surfe le Web mais une machine saura les trouver et les comprendre facilement.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>"
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>Les donnés cachées sont ne sont pas visibles à l’œil nu lorsqu’on surfe le Web mais une machine saura les trouver et les comprendre facilement.</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>Les donnés cachées sont ne sont pas visibles à l’œil nu lorsqu’on surfe le Web mais une machine saura les trouver et les comprendre facilement.</p>"
             },
             "_partlyCorrect": {
                 "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -360,20 +390,14 @@
         "_classes":"illustration",
         "_layout":"left",
         "_graphic": {
-            "alt": "",
+            "alt": "Impact",
             "title": "",
-            "large": "course/fr/images/odi-10-mcq_large.jpg",
-            "medium": "course/fr/images/odi-10-mcq_large.jpg",
-            "small": "course/fr/images/odi-10-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-            "*credit":"Anna Frajtova",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-            "*credit":"Sachezi",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
-            "*license":"Shutterstock Standard License"
+            "large": "course/fr/images/odi-012.jpg",
+            "medium": "course/fr/images/odi-012.jpg",
+            "small": "course/fr/images/odi-012.jpg",
+            "*source": "http://www.shutterstock.com/pic-79079872",
+            "*credit": "Angela Waye",
+            "*licence": "Shutterstock standard license"
         }
     },
     {
@@ -387,33 +411,33 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "Qu’entend-on par données ?",
-        "displayTitle": "Qu’entend-on par données ?",
-        "body": "<p>Les données sont...</p>",
+        "title": "Pourquoi les données sont-elles cachées ?",
+        "displayTitle": "Pourquoi les données sont-elles cachées ?",
+        "body": "<p>Les gens cachent les données parce que...</p>",
         "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
         "_items": [
             {
-                "text": "des chiffres, des mots, des cartes et des photos.",
+                "text": "Ils en ont honte",
                 "_shouldBeSelected": false
             },
             {
-                "text": "des informations en ligne.",
+                "text": "Ça fait désordre",
                 "_shouldBeSelected": false
             },
             {
-                "text": "la matière première  de l’information et de la connaissance.",
+                "text": "La plupart du temps, ce n’est pas volontaire",
                 "_shouldBeSelected": true
             }
         ],
         "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>",
+            "correct":"<h5>Vous avez raison !</h5><p>La plupart des données ne sont pas cachées délibérément. Souvent, la société qui construit le site Web se concentre sur la façon dont les internautes naviguent la page Web et ne considère pas forcément la façon dont les données sont fournies.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>"
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>La plupart des données ne sont pas cachées délibérément. Souvent, la société qui construit le site Web se concentre sur la façon dont les internautes naviguent la page Web et ne considère pas forcément la façon dont les données sont fournies.</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>La plupart des données ne sont pas cachées délibérément. Souvent, la société qui construit le site Web se concentre sur la façon dont les internautes naviguent la page Web et ne considère pas forcément la façon dont les données sont fournies.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>Les donnés cachées sont invisibles aux gens quand ils naviguent le Web mais faciles à trouver et comprendre par une machine.</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>Les donnés cachées sont invisibles aux gens quand ils naviguent le Web mais faciles à trouver et comprendre par une machine.</p>"
           }
         },
         "_buttons":{
@@ -434,14 +458,14 @@
         "_classes":"illustration",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
+            "alt": "Benefits of hidden data",
             "title": "",
-            "large": "course/fr/images/odi-11-mcq_large.jpg",
-            "medium": "course/fr/images/odi-11-mcq_large.jpg",
-            "small": "course/fr/images/odi-11-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
-            "*license":"Shutterstock Standard License"
+            "large": "course/fr/images/odi-013.jpg",
+            "medium": "course/fr/images/odi-013.jpg",
+            "small": "course/fr/images/odi-013.jpg",
+            "*source": "http://www.shutterstock.com/pic-203736538",
+            "*credit": "Digital Storm",
+            "*licence": "Shutterstock standard license"
         }
     },
     {
@@ -455,33 +479,41 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "Qu’est ce qui rend les données ouvertes ?",
-        "displayTitle": "Qu’est ce qui rend les données ouvertes ?",
-        "body": "<p>Les données ouvertes doivent...</p>",
+        "title": "Les avantages des données cachées",
+        "displayTitle": "Les avantages des données cachées",
+        "body": "<p>Lequel des points suivants n’est pas un avantage des données cachées ?</p>",
         "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
         "_items": [
             {
-                "text": "être libres de toute limite en ce qui concerne leur utilisation.",
-                "_shouldBeSelected": true
-            },
-            {
-                "text": "comporter des limites d’utilisation.",
+                "text": "Ampleur",
                 "_shouldBeSelected": false
             },
             {
-                "text": "être publiées de manière sélective et payante.",
+                "text": "Qualité",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Lisibilité",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Pertinence",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Contexte",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>",
+            "correct":"<h5>Vous avez raison !</h5><p>Trouver des données cachées peut augmenter la pertinence et la qualité des données, l’ampleur disponible et souligner le contexte dans lequel on utilise les données.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>"
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>Trouver des données cachées peut augmenter la pertinence et la qualité des données, l’ampleur disponible et souligner le contexte dans lequel on utilise les données.</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>Trouver les données cachées peut augmenter la pertinence et la qualité des données, l’ampleur disponible et souligner le contexte dans lequel on utilise les données.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "Hidden data can increase the relevance and quality of the data, the breadth available and highlight the context in which the data is used.",
+                "final": "Hidden data can increase the relevance and quality of the data, the breadth available and highlight the context in which the data is used."
           }
         },
         "_buttons":{
@@ -495,65 +527,65 @@
       }
     },
     {
-        "_id":"c-75",
+        "_id":"c-72",
         "_parentId":"b-50",
         "_type":"component",
         "_component":"graphic",
         "_classes":"illustration",
-        "_layout":"left",
+        "_layout":"right",
         "_graphic": {
-            "alt": "",
+            "alt": "Source code",
             "title": "",
-            "large": "course/fr/images/odi-12-mcq_large.jpg",
-            "medium": "course/fr/images/odi-12-mcq_large.jpg",
-            "small": "course/fr/images/odi-12-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-            "*credit":"Sergey Nivens",
-            "*license":"Shutterstock Standard License"
+            "large": "course/fr/images/odi-014.jpg",
+            "medium": "course/fr/images/odi-014.jpg",
+            "small": "course/fr/images/odi-014.jpg",
+            "*source": "http://www.shutterstock.com/pic-119236978",
+            "*credit": "spaxiax",
+            "*licence": "Shutterstock standard license"
         }
     },
     {
-        "_id":"c-80",
+        "_id":"c-73",
         "_parentId":"b-50",
         "_type":"component",
         "_component":"mcq",
         "_classes":"",
-        "_layout":"right",
+        "_layout":"left",
         "_attempts":1,
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "Pourquoi a-t-on besoin de l’open data ?",
-        "displayTitle": "Pourquoi a-t-on besoin de l’open data ?",
-        "body": "<p>Quel est le potentiel de l’open data ?</p>",
+        "title": "Comment extraire les données cachées d’un site Web ?",
+        "displayTitle": "Comment extraire les données cachées d’un site Web ?",
+        "body": "<p>Lequel des points suivants décrit une façon utile d’extraire les données cachées sur un site Web ?</p>",
         "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
         "_items": [
             {
-                "text": "Donner accès à d’autres ensembles de données.",
+                "text": "Mettre le lien du site Web en cache",
                 "_shouldBeSelected": false
             },
             {
-                "text": "Rendre les gouvernements plus responsables.",
+                "text": "Recharger la page",
                 "_shouldBeSelected": false
             },
             {
-                "text": "Générer de la valeur sociale, environnementale et économique.",
+                "text": "Inspecter le code source",
                 "_shouldBeSelected": true
             }
         ],
         "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>",
+            "correct":"<h5>Vous avez raison !</h5><p>Inspecter le code source d’un site Web révèle les données cachées intégrées dans la page.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>"
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>Inspecter le code source d’un site Web révéle les données cachées intégrées dans la page.</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>Inspecter le code source d’un site Web révéle les données cachées intégrées dans la page.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>Inspecting the source code of a website often reveals hidden data embedded in the page</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>Inspecting the source code of a website often reveals hidden data embedded in the page</p>"
           }
         },
         "_buttons":{
-            "submit":"Valider",
+            "submit":"",
             "reset":"",
             "showCorrectAnswer":"",
             "hideCorrectAnswer":""
@@ -570,8 +602,8 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
-            "title": "",
+            "alt": "Summary icon clipboard",
+            "title": "Summary icon clipboard",
             "large": "course/fr/images/summary-icon.png",
             "medium": "course/fr/images/summary-icon.png",
             "small": "course/fr/images/summary-icon.png",
@@ -587,9 +619,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Données ouvertes - veni, vidi, vici",
-        "displayTitle":"Données ouvertes - veni, vidi, vici",
-        "body":"<p>Les données ouvertes, ou ‘open data’, sont des données auxquelles n’importe qui peut accéder et que tout le monde peut utiliser et partager.</p><p>Les données ouvertes sont une matière première pour l’ère du numérique mais à la différence du charbon, du bois ou des diamants, elles peuvent être utilisées par n’importe qui et à n’importe quel moment.</p><p>Toute limitation mise en place sur l’usage libre de l’open data en limitera le potentiel d’utilisation.</p><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer des services, de contribuer à la croissance économiques et de sauver notre planète.</p><p>Lors du prochain module, nous verrons dans quelle mesure l’open data peut générer de la valeur.</p>",
+        "title":"Trouver les données cachées",
+        "displayTitle":"Trouver les données cachées",
+        "body":"<p>Les données téléchargeables ne représentent qu’une quantité infime des données disponibles sur le Web.</p><p>Alors que l’œil humain ne perçoit pas toujours ces données, on peut identifier et récolter une vaste quantité de nouvelles données en utilisant des machines.</p><p>Les données obtenues sur ces sites Web sont souvent plus conséquentes et pertinentes que des fichiers téléchargeables et puisent directement du contexte déjà utilisé par l’éditeur.</p><p>En augmentant vos connaissances en données cachées et en apprenant quelques approches simples, telles que l’utilisation d’extension et les API, vous aurez accès à un vaste éventail de données pertinentes pour votre travail à venir.</p>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }
@@ -610,14 +642,14 @@
         "_classes":"footer-logo",
         "_layout":"left",
         "_graphic": {
-            "alt": "",
-            "title": "",
+             "alt": "Open data institute logo",
+            "title": "Open data institute logo",
             "large": "course/fr/images/logo-small.png",
             "medium": "course/fr/images/logo-small.png",
             "small": "course/fr/images/logo-small.png",
-            "*source":"",
-            "*credit":"",
-            "*license":""            
+            "*source":"http://theodi.org",
+            "*credit":"The Open Data Institute",
+            "*license":"All rights reserved"
         }
     },
     {

@@ -1,15 +1,15 @@
 {
     "_id": "course",
     "_type": "course",
-    "title": "L’open data, c’est quoi ?",
-    "displayTitle": "L’open data, c’est quoi ?",
+    "title": "Mesurer le succès d’open data",
+    "displayTitle": "Mesurer le succès d’open data",
     "_buttons": {
         "submit": "Submit",
         "reset": "Reset",
         "showCorrectAnswer": "Model Answer",
         "hideCorrectAnswer": "My Answer"
     },
-    "_latestTrackingId": 11,
+    "_latestTrackingId": 10,
     "_resources": [
     {
         "title": "Resources",
@@ -23,49 +23,43 @@
         "_resourcesItems": [
             {
                 "_type": "link",
-                "title": "David Eaves article",
-                "description": "Take me to David Eaves article",
-                "_link": "http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/"
+                "title": "Open Data Barometer",
+                "description": "Lien vers the Open Data Barometer",
+                "_link": "http://barometer.opendataresearch.org/"
             },
             {
                 "_type": "link",
-                "title": "Follow the Money",
-                "description": "Take me to Follow the Money",
-                "_link": "http://followthemoneyng.org/"
+                "title": "Plume labs",
+                "description": "Lien vers Plume labs",
+                "_link": "https://www.plumelabs.com/"
             },
             {
                 "_type": "link",
-                "title": "Transport for London",
-                "description": "Take me to Transport for London",
-                "_link": "http://www.tfl.gov.uk/"
-            },
-            {
-                "_type": "link",
-                "title": "Thomson Reuters",
-                "description": "Take me to Thomson Reuters",
+                "title": "Thomson Reuters site",
+                "description": "Lien vers Thomson Reuters site",
                 "_link": "http://site.thomsonreuters.com/site/data-identifiers/"
             },
             {
                 "_type": "link",
-                "title": "ODI annual report",
-                "description": "Take me to The ODI annual report",
-                "_link": "http://theodi.org/odis-second-year-annual-report"
+                "title": "Swiss crash map",
+                "description": "Lien vers Swiss crash map",
+                "_link": "http://unfallkarte.ch/en/"
             },
             {
                 "_type": "link",
-                "title": "United Nations news centre",
-                "description": "Take me to the United Nations news centre",
-                "_link": "http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc"
+                "title": "FixMyStreet programme",
+                "description": "Lien vers FixMyStreet programme",
+                "_link": "https://www.fixmystreet.com/"
             },
             {
                 "_type": "link",
-                "title": "Better Choices Better Deals report",
-                "description": "Take me to Better Choices Better Deals report",
-                "_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf"
+                "title": "Barometer for Sweden",
+                "description": "Lien vers the barometer for Sweden",
+                "_link": "http://theodi.github.io/open-data-barometer-viz/"
             }
         ]
-      },
-    {
+    },
+   {
         "title": "Modules",
         "description": "Passer à une autre module",
         "_filterButtons": {
@@ -171,67 +165,61 @@
             "link": "Link"
         },
         "_resourcesItems": [
-        {
-        "_type": "link",
-        "title": "What is open data?",
-        "description": "Source: Shutterstock<br\/>Crédit: leromin<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=179384507&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Data in knowledge triangle",
-        "description": "Source: Shutterstock<br\/>Crédit: Anna Frajtova<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=240789808&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Information in knowledge triangle",
-        "description": "Source: Shutterstock<br\/>Crédit: Sachezi<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=217763944&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Knowledge in knowledge triangle",
-        "description": "Source: Shutterstock<br\/>Crédit: Oleksiy Mark<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=250810483&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "What makes data open?",
-        "description": "Source: Shutterstock<br\/>Crédit: Oleksiy Mark<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=154744388&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Transform government",
-        "description": "Source: Shutterstock<br\/>Crédit: hxdyl<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=265940657&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Build new business opportunities",
-        "description": "Source: Shutterstock<br\/>Crédit: Sergey Nivens<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=149924576&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Protect our planet",
-        "description": "Source: Shutterstock<br\/>Crédit: hbpictures<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=261740228&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Summary icon clipboard",
-        "description": "Source: Shutterstock<br\/>Crédit: Kritchanut<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic-189810137.html"
-    },
-    {
-        "_type": "link",
-        "title": "Open data institute logo",
-        "description": "Source: The Open Data Institute<br\/>Crédit: The Open Data Institute<br\/>Licence: All rights reserved",
-        "_link": "http:\/\/theodi.org"
-    }
-    ]
+            {
+                "_type": "link",
+                "title": "Measuring success",
+                "description": "Source: Shutterstock<br/>Crédit: 501room<br/>Licence: Shutterstock Standard License",
+                "_link": "http://www.shutterstock.com/pic-120780490.html"
+            },
+            {
+                "_type": "link",
+                "title": "Readiness",
+                "description": "Source: Shutterstock<br/>Crédit: Ozerina Anna<br/>Licence: Ozerina Anna",
+                "_link": "http://www.shutterstock.com/pic-203239417.html"
+            },
+            {
+                "_type": "link",
+                "title": "Implementation",
+                "description": "Source: Shutterstock<br/>Crédit: JeKh<br/>Licence: Shutterstock Standard License",
+                "_link": "http://www.shutterstock.com/pic-259560827.html"
+            },
+            {
+                "_type": "link",
+                "title": "Impact",
+                "description": "Source: Shutterstock<br/>Crédit: Oleksiy Mark<br/>Licence: Shutterstock Standard License",
+                "_link": "http://www.shutterstock.com/pic-173642015.html"
+            },
+            {
+                "_type": "link",
+                "title": "Focussing on demand",
+                "description": "Source: Shutterstock<br/>Crédit: Leone_V<br/>Licence: Shutterstock Standard License",
+                "_link": "http://www.shutterstock.com/pic-154597898.html"
+            },
+            {
+                "_type": "link",
+                "title": "Process management",
+                "description": "Source: Shutterstock<br/>Crédit: Ieromin<br/>Licence: Shutterstock Standard License",
+                "_link": "http://www.shutterstock.com/pic-174926546.html"
+            },
+            {
+                "_type": "link",
+                "title": "User focused",
+                "description": "Source: Shutterstock<br/>Crédit: Studio_G<br/>Licence: Shutterstock Standard License",
+                "_link": "http://www.shutterstock.com/pic-223607656.html"
+            },
+            {
+                "_type": "link",
+                "title": "Summary icon clipboard",
+                "description": "Source: Shutterstock<br/>Crédit: Kritchanut<br/>Licence: Shutterstock Standard License",
+                "_link": "http://www.shutterstock.com/pic-189810137.html"
+            },
+            {
+                "_type": "link",
+                "title": "Open data institute logo",
+                "description": "Source: The Open Data Institute<br/>Crédit: The Open Data Institute<br/>Licence: All rights reserved",
+                "_link": "http://theodi.org"
+            }	
+	]
     },
     {
         "title": "les crédits des musiques",
@@ -267,31 +255,31 @@
                 "description": "<div align='center'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' /></div><br /><span xmlns:dct='http://purl.org/dc/terms/' property='dct:title'>Learning open data</span> by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
                 "_link": "http://creativecommons.org/licenses/by-sa/4.0/"
             },
-        {
+	    {
                 "_type": "link",
                 "title": "Content licence",
                 "description": "The content, including text and structure is available for you to <em>use</em>, <em>reuse</em> and <em>share</em> (including for commercial purposes) subject to the conditions of the license above.",
                 "_link": ""
-        },
-        {
+	    },
+	    {
                 "_type": "link",
                 "title": "Exclusions",
                 "description": "This license does not cover: <ul><li>Logos and trade marks belonging to the Open Data Institute</li><li>Third party content (such as images)</li></ul>",
                 "_link": ""
-        },
-        {
+	    },
+	    {
                 "_type": "link",
                 "title": "Non-endorsement",
                 "description": "This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.",
                 "_link": ""
-        },
-        {
+	    },
+	    {
                 "_type": "link",
                 "title": "No warranty",
                 "description": "The Information is licensed 'as is'. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.",
                 "_link": ""
-        }
-    ]
+	    }
+	]
     }
-   ]
+]
 }

@@ -15,10 +15,7 @@
             "title": "",
             "large": "",
             "medium": "",
-            "small": "",
-            "*source":"",
-            "*credit":"",
-            "*license":""
+            "small": ""
         }
     },
     {
@@ -28,27 +25,27 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"L’open data, c’est quoi ?",
-        "displayTitle":"L’open data, c’est quoi ?",
-	"body": "<p>Il s’agit de données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les gouvernements, les entreprises et les individus peuvent utiliser l’open data afin de créer des avantages sociaux, économiques et environnementaux.</p><h5>Dans ce module, nous allons explorer les points suivants :</h5><ul class='ticks'><li>L’open data (ou ‘données ouvertes’), c’est quoi ?</li><li>Qu’entend-on par données ?</li><li>Qu’est ce qui rend les données ‘ouvertes’?</li><li>Pourquoi en a-t-on besoin?</li></ul>",
+        "title":"Mesurer le succès de l’open data",
+        "displayTitle":"Mesurer le succès de l’open data",
+        "body":"<p>Les initiatives d’open data réussies font plus que simplement mettre les données sur le Web. Les organisation les plus pionnières dans leur utilisation de l’open data mettent en place un cadre de référence et des politiques afin de soutenir et d’encourager l’innovation. Il est important de construire des communautés d’open data et de partager les aventures qui réussissent. Ces deux aspects aideront le public à mieux comprendre les bénéfices de l’open data.</p><h5>Dans ce module, nous allons explorer les points suivants :</h5><ul class='ticks'><li>Mesurer les résultats</li><li>Avoir une approche centrée sur la demande</li><li>Rester sur la bonne voie</li></ul>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
     },
-    {
+     {
     "_id":"c-11",
     "_parentId":"b-10",
     "_type":"component",
     "_component":"iFrame-vimeo",
     "_classes":"",
     "_layout":"full",
-        "title":"Découvrir l’Open Data- en 2 minutes",
-        "displayTitle": "Découvrir l’Open Data- en 2 minutes",
-        "body": "Formateur à l’ODI, Dr. David Tarrant explique ce qu’on entend par données, ce qui les rend ouvertes et pourquoi l’open data est nécessaire.",
+        "title":"Une comparaison d’initiatives d’open data - en 2 minutes",
+        "displayTitle": "Une comparaison d’initiatives d’open data - en 2 minutes",
+        "body": "Directrice du développement à l’ODI, Liz Carolan explique les méthodes clés pour mesurer la réussite d’initiatives d’open data, ce qui constitue une approche centrée sur la demande et dans quelle mesure les indicateurs de performance ajoutent de la valeur aux initiatives d’open data.",
         "instruction": "",
         "_setCompletionOn":"ended",
-        "_source": "https://player.vimeo.com/video/129196637",
+        "_source": "https://player.vimeo.com/video/129197044",
         "_width": {
             "_small" : 300,
             "_medium" : 500,
@@ -68,13 +65,13 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-1-text-image_large.jpg",
-            "medium": "course/fr/images/odi-1-text-image_large.jpg",
-            "small": "course/fr/images/odi-1-text-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
+            "alt": "Measuring success",
+            "title": "Measuring success",
+            "large": "course/fr/images/odi-1-textimage_large.jpg",
+            "medium": "course/fr/images/odi-1-textimage_large.jpg",
+            "small": "course/fr/images/odi-1-textimage_large.jpg",
+            "*source":"http://www.shutterstock.com/pic-120780490.html",
+            "*credit":"501room",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -85,9 +82,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"L’open data, c’est quoi ?",
-        "displayTitle":"L’open data, c’est quoi ?",
-        "body":"<p>Il s’agit de données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager.</p><p>On peut accéder aux données car elles sont disponibles en ligne.</p><p>On peut utiliser les données car elles sont disponibles sous une forme commune et lisible par des machines.</p><p>L’open data doit être sous licence. Cette licence doit en permettre l’usage libre et autoriser les utilisateurs à transformer, combiner et partager ces données, même à des fins commerciales.</p>"
+        "title":"Mesurer le succès",
+        "displayTitle":"Mesurer le succès",
+        "body":"<p>Lorsqu’on évalue la réussite d’une initiative d’open data, il est important de ne pas se limiter à la quantité de données publiées, mais de se concentrer sur la demande en données.</p><p>L’Open Data Barometer (Baromètre des données ouvertes) fournit une mesure globale pour comparer le progrès des pays. Il utilise trois indicateurs clés: la disponibilité opérationnelle, l’implémentation et l’impact.<br /><a href='http://barometer.opendataresearch.org/' target='_blank'>Lien vers le Baromètre d’open data</a></p>"
     },
      {
         "_id": "c-25",
@@ -96,49 +93,49 @@
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "De la matière première à l’information et à la connaissance nouvelle",
-        "displayTitle": "De la matière première à l’information et à la connaissance nouvelle",
-        "body": "Sans données, on ne peut pas créer d’information. Et sans information, il n’y a pas de nouvelles connaissances possibles.",
+        "title": "Critères pour mesurer le succès",
+        "displayTitle": "Critères pour mesurer le succès",
+        "body": "Il y a trois indicateurs clés de performance pour comparer et mesurer les initiatives d’open data réussies. Le baromètre d’open data fournit plus de détails sur tous ces indicateurs.",
         "instruction": "<em class='desktop-instruction'>Cliquez sur la flèche pour plus de détail.</em><em class='mobile-instruction'>Cliquez sur la flèche pour plus de détail.</em>",
         "_items": [
             {
-                "title": "Les données",
-                "body": "<p>Les données sont le niveau le plus bas de matière première duquel on peut retirer des connaissances.</p><p>Imaginez ainsi les données comme l’ensemble des lieux, des images, des descriptions, des critiques et des prix qui constituent l’information nécessaire à la planification de vos vacances.</p>",
+                "title": "Disponibilité opérationnelle pour l’open data",
+                "body": "<p>Dans quelle mesure une organisation ou un pays sont-ils prêts à soutenir une initiative d’open data ? Les points suivants sont d’importants indicateurs pour juger de la disponibilité opérationnelle :<li>Soutien des licences ouvertes</li><li>Politiques et procédures en place</li><li>Investissements existants</li><li>Soutien éducatif disponible</li><li>Engagement au sens large</li></ul>",
                 "_graphic": {
                     "src": "course/fr/images/odi-2-narrative_large.jpg",
-                    "alt": "Providing certainty",
-                    "title": "",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-                    "*credit":"Anna Frajtova",
-                    "*license":"Shutterstock Standard License"
+                    "alt": "Readiness",
+                    "title": "Readiness",
+                    "*source":"http://www.shutterstock.com/pic-203239417.html",
+                    "*credit":"Ozerina Anna",
+                    "*license":"Ozerina Anna"
                 },
-                "strapline": "Données"
+                "strapline": "Readiness"
             },
             {
-                "title": "L’information",
-                "body": "<p>Les données deviennent de l’information lorsqu’on leur donne un contexte.</p><p>En s’inspirant de l’exemple précédant, on associe certaines destinations, images, descriptions et prix à une attraction touristique.</p><p>La collecte et la présentation des données constituent l’information.</p>",
+                "title": "L’implémentation de l’open data",
+                "body": "<p>De nos jours, les données sont aussi importantes pour notre infrastructure nationale que les routes ou l’accès à Internet. En ce qui concerne les organismes publics et les gouvernements, l’ouverture de certains ensembles de données soutiendrait l’innovation, génèrerait de la valeur et contribuerait à la croissance économique.</p><p>Les organisations commerciales devraient aussi privilégier les ensembles de données les plus utiles pour faire progresser leur entreprise et trouver de nouveaux débouchés commerciaux.</p>",
                 "_graphic": {
                     "src": "course/fr/images/odi-3-narrative_large.jpg",
-                    "alt": "A graph of open licences across countries",
-                    "title": "A graph of open licences across countries",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-                    "*credit":"Sachezi",
+                    "alt": "Implementation",
+                    "title": "Implementation",
+                    "*source":"http://www.shutterstock.com/pic-259560827.html",
+                    "*credit":"JeKh",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Informations"
+                "strapline": "Implementation"
             },
             {
-                "title": "Les connaissances",
-                "body": "<p>Les connaissances sont ce qui découle de l’information et l’usage personnalisé que l’on en fait.</p><p>L’acquisition de connaissances consiste en la transformation d’information en choix.</p><p>En s’inspirant de l’exemple précédant, le fait de savoir qu’aucun membre de votre famille n’aime les parcs d’attraction va informer votre décision quant aux destinations à éviter ou à privilégier.</p>",
+                "title": "L’impact de l’open data",
+                "body": "<p>Quels sont les vrais avantages tangibles de l’open data pour ses utilisateurs ?</p><p>Sans preuve tangibles de l’impact de l’open data, il est moins probable que des communautés se forment autour des données, ce qui limiterait le potentiel d’innovation. Les points suivants sont d’importants indicateurs quant à l’impact de l’open data:</p><ul><li>Mobilisation en faveur de l’open data</li><li>Une croissance économique liée à l’open data</li><li>Avantages sociaux et environnementaux</li></ul>",
                 "_graphic": {
                     "src": "course/fr/images/odi-4-narrative_large.jpg",
-                    "alt": "A map from a to b",
-                    "title": "A map from a to b",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
+                    "alt": "Impact",
+                    "title": "Impact",
+                    "*source":"http://www.shutterstock.com/pic-173642015.html",
                     "*credit":"Oleksiy Mark",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Connaissances"
+                "strapline": "Impact"
             }
         ],
         "_pageLevelProgress": {
@@ -153,13 +150,13 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-5-accordion_large.jpg",
-            "medium": "course/fr/images/odi-5-accordion_large.jpg",
-            "small": "course/fr/images/odi-5-accordion_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
+            "alt": "Focussing on demand",
+            "title": "Focussing on demand",
+            "large": "course/fr/images/odi-5-accordian_large.jpg",
+            "medium": "course/fr/images/odi-5-accordian_large.jpg",
+            "small": "course/fr/images/odi-5-accordian_large.jpg",
+            "*source":"http://www.shutterstock.com/pic-154597898.html",
+            "*credit":"Leone_V",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -170,25 +167,35 @@
       "_component":"accordion",
       "_classes":"",
       "_layout":"left",
-      "title": "Qu’est-ce qui rend les données ‘ouvertes’ ?",
-      "displayTitle": "Qu’est-ce qui rend les données ‘ouvertes’ ?",
-      "body": "<p>Les données sont ouvertes si tout le monde peut y accéder, les utiliser et les partager.<br />Voici quelques idées à prendre en considération lorsque l’on définit ‘ouverte’ :</p>",
-      "instruction": "",
+      "title": "Se concentrer sur la demande en open data",
+      "displayTitle": "Se concentrer sur la demande en open data",
+      "body": "<p>Une approche centrée sur la demande donne la priorité aux besoins de l’utilisateur plutôt qu’aux besoins de ceux qui publient des données.</p><p>L’open data centré sur la demande permet aussi d’autres avantages.</p>",
+      "instruction": "<em>Cliquez sur les titres pour plus de détail.</em>",
       "_items": [
         {
-          "alt": "Restrictions",
-          "title": "Restrictions",
-          "body": "<p>Pour que les données soient ouvertes, il ne doit y avoir aucune restriction quant à leur utilisation, quelle qu’elle soit.</p><p>N’importe quel utilisateur devrait être libre d’utiliser, de modifier, de combiner et de partager les données, même à des fins commerciales.</p>"
+          "alt": "L’open data comme outil pédagogique",
+          "title": "L’open data comme outil pédagogique",
+          "body": "<p>Toutes les données, et pas seulement celles dites ‘ouvertes’, font partie intégrante de nombreux emplois. Cependant, tout le monde n’a pas les compétences nécessaires pour gérer, nettoyer et interpréter les données.</p><p>L’open data crée de nouvelles opportunités pour améliorer la capacité à interpréter des données dans le monde du travail en sensibilisant le public aux compétences liées aux données.</p>"
         },
         {
-          "alt": "Coût",
-          "title": "Coût",
-          "body": "<p>Même si l’utilisation de l’open data doit être libre, cela ne signifie pas que son accès doit être gratuit.</p><p>Il y a souvent un coût associé à la création, à la maintenance et à la publication des données utilisables.</p><p>Idéalement, le prix des données ne devrait pas excéder le coût de reproduction de la donnée demandé.</p><p>Ce coût est souvent négligeable pour de nombreux ensembles de données.</p><p>Les données en temps réel et les contenus lourds peuvent cependant engager des frais continus afin de garantir leur fiabilité.</p>"
+          "alt": "Faciliter l’innovation avec l’open data.",
+          "title": "Faciliter l’innovation avec l’open data.",
+          "body": "<p>L’open data est un instrument clé de l’innovation ouverte.</p><p>L’ouverture des données peut encourager la communication au sein d’une organisation ainsi qu’avec des groupes externes.</p><p>Plume Labs, une start-up française, combine l’open data sur la qualité de l’air à des images et à un dispositif de surveillance avancés et publie les derniers indicateurs de pollution atmosphérique de 18 villes européennes.<br /><a href='https://www.plumelabs.com/' target='_blank'>Lien vers Plume Labs</a></p>"
         },
         {
-          "alt": "Réutilisation",
-          "title": "Réutilisation",
-          "body": "<p>Une fois que l’utilisateur possède toutes les données, il est libre de les utiliser, de les réutiliser et de les redistribuer, même à des fins commerciales.</p><p>On mesure les données ouvertes en fonction des possibilités d’utilisation, et non en fonction de leur mise à disposition.</p><p>Certains aspects, comme le format, la structure et la lisibilité par une machine, rendent les données plus facilement utilisables et doivent donc être soigneusement considérés.</p><p>Cependant, ces éléments ne rendent pas les données plus ouvertes.</p>"
+          "alt": "Améliorer les pratiques commerciales grâce à l’open data",
+          "title": "Améliorer les pratiques commerciales grâce à l’open data",
+          "body": "<p>L’open data peut améliorer les relations avec les consommateurs et ouvrir de nouvelles voies avec la clientèle.</p><p>Thomas Reuteurs a ouvert ses métadonnées pour que en rendre les données découvrables, faciles à accéder et à utiliser.<br /><a href='http://site.thomsonreuters.com/site/data-identifiers/' target='_blank'>Lien vers le site Web de Thomson Reuteurs</a></p>"
+        },
+        {
+          "alt": "L’open data comme agent de changement",
+          "title": "L’open data comme agent de changement",
+          "body": "<p>L’open data a le pouvoir de susciter d’importants changements au sein de la société.</p><p>Ainsi, le gouvernement suisse a constaté qu’en ouvrant ses données sur la sécurité des transports, il offrait plus de transparence au public quant aux accidents. Le fait de cartographier ces informations permet un engagement plus interactif.<br /><a href='http://unfallkarte.ch/en/' target='_blank'>Lien vers la carte des incidents suisse</a></p>"
+        },
+        {
+          "alt": "L’open data, un soutien à la communauté",
+          "title": "L’open data, un soutien à la communauté",
+          "body": "<p>L’open data aide les communautés à mieux communiquer entre elles.</p><p>mySociety a lancé FixMyStreet, une application qui permet aux résidents de partager les problèmes locaux sous forme de données ouvertes et de créer des résolutions partagées.<br /><a href='https://www.fixmystreet.com/' target='_blank'>Lien vers le programme de FixMyStreet</a></p>"
         }
       ],
       "_pageLevelProgress": {
@@ -202,49 +209,36 @@
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "Pourquoi a-t-on besoin ?",
-        "displayTitle": "Pourquoi a-t-on besoin ?",
-        "body": "Les données ouvertes ont le pouvoir de produire des avantages divers pour les gouvernements, les entreprises et la société civile.",
+        "title": "Rester sur la bonne voie",
+        "displayTitle": "Rester sur la bonne voie",
+        "body": "Des indicateurs clés de performance permettent de s’assurer que les initiatives d’open data restent sur la bonne voie.",
         "instruction": "<em class='desktop-instruction'>Cliquez sur la flèche pour plus de détail.</em><em class='mobile-instruction'>Cliquez sur la flèche pour plus de détail.</em>",
         "_items": [
             {
-                "title": "Transformation gouvernementale",
-                "body": "<p>L’open data permet une plus grande transparence pour les gouvernements. Il peut aider à prouver que les fonds publics sont dépensés à bon escient et que les politiques sont bien implémentées.</p><p>Ainsi, selon un militant pour le gouvernement ouvert (« open government activist ») David Eaves, l’open data a permis aux citoyens canadiens d’économiser 3, 2 milliards de dollars en dons frauduleux aux associations caritatives en 2010.<br /><a href='http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/' target='_blank'>Lien vers l’article de David Eaves</a></p><p>Un autre exemple, au Nigeria cette fois, où selon Follow the Money, le même processus garantit que les fonds publics sont bel et bien utilisés pour mettre en œuvre les politiques promises au peuple.<br /><a href='http://followthemoneyng.org/' target='_blank'>Lien vers Follow the Money</a></p>",
+                "title": "Gérer le progrès",
+                "body": "<p>Les indicateurs clés de performance (en anglais Key Performance Indicators - KPIs) aident à gérer le processus des initiatives d’open data.</p><p>Il est conseiller d’implémenter des KPIs pour mesurer la disponibilité opérationnelle, l’implémentation et l’impact de l’open data.</p>",
                 "_graphic": {
                     "src": "course/fr/images/odi-6-narrative_large.jpg",
-                    "alt": "Transform government",
-                    "title": "Transform government",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=265940657&src=lb-35924366",
-                    "*credit":"hxdyl",
+                    "alt": "Process management",
+                    "title": "Process management",
+                    "*source":"http://www.shutterstock.com/pic-174926546.html",
+                    "*credit":"Ieromin",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Transform government"
+                "strapline": "Process management"
             },
             {
-                "title": "Nouvelles opportunités d'entreprise",
-                "body": "<p>L’open data ouvre de nouvelles opportunités pour que les entreprises établissent un rapport avec leurs clients.</p><p>Transport for London a publié des données ouvertes qui ont permis la création de plus de 800 applications de transport.<br /><a href='http://www.tfl.gov.uk/' target='_blank'>Lien vers Transport for London</a></p><p>Thomson Reuters utilise les données ouvertes pour mieux communiquer avec les clients existants et afin de fournir de meilleurs services.<br /><a href='http://site.thomsonreuters.com/site/data-identifiers/' target='_blank'>Lien vers Thomson Reuters</a></p><p>Aujourd’hui, la start-up ODI a plus de 70 employés avec un revenu de plus de 4 million de livres.<br /><a href='http://theodi.org/odis-second-year-annual-report' target='_blank'>Lien vers le rapport annual de l’ODI</a></p>",
+                "title": "Se centrer sur l’utilisateur",
+                "body": "<p>Les initiatives d’open data les plus réussies prennent en compte tous les indicateurs clés de performance (KPIs) à la fois.</p><p>L’idéal et d’avoir développé les politiques et le stock de données dès le départ afin de ne pas retarder l’engagement avec les utilisateurs.</p><p>Les initiatives réussies se concentrent d’abord sur les utilisateurs afin de construire des communautés, de les éduquer et de rationaliser l’offre pour que l’accès aux données, même imparfaites, puisse se faire rapidement afin d’en maximiser la valeur.</p><p>La Suède bénéficie d’un programme d’open data bien établi doté d’une forte gestion des processus et entièrement centré sur l’utilisateur.<br /><a href='(http://theodi.github.io/open-data-barometer-viz/' target='_blank'>Lien vers le baromètre d’open data de la Suède</a></p>",
                 "_graphic": {
                     "src": "course/fr/images/odi-7-narrative_large.jpg",
-                    "alt": "Build new business opportunities",
-                    "title": "Build new business opportunities",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-                    "*credit":"Sergey Nivens",
+                    "alt": "User focused",
+                    "title": "User focused",
+                    "*source":"http://www.shutterstock.com/pic-223607656.html",
+                    "*credit":"Studio_G",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Build new business opportunities"
-            },
-            {
-                "title": "Protéger notre planète",
-                "body": "<p>Le web est devenu une partie intégrante de notre infrastructure et l’open data va contribuer à ce développement.</p><p>Les données ouvertes concernant la météo permettent par exemple de donner l’alerte rapidement en cas de catastrophes naturelles.<br /><a href='http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc' target='_blank'>Lien vers le Centre d’actualités de l’ONU.</a></p><p>Les données ouvertes aident les consommateurs à comprendre leur impact sur l’environnement et à prendre des mesures pour l’améliorer.<br /><a href='https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf' target='_blank'>Lien vers le rapport de Better Choices Better Deals.</a></p>",
-                "_graphic": {
-                    "src": "course/fr/images/odi-8-narrative_large.jpg",
-                    "alt": "Protect our planet",
-                    "title": "Protect our planet",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=261740228&src=lb-35924366",
-                    "*credit":"hbpictures",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Protect our planet"
+                "strapline": "User focused"
             }
         ],
         "_pageLevelProgress": {
@@ -276,9 +270,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Êtes-vous prêt(e) pour l’open data ?",
-        "displayTitle":"Êtes-vous prêt(e) pour l’open data ?",
-        "body":"<p>Il y a quatre éléments utiles à prendre en considération quand on pense à ouvrir ses données aux utilisateurs. Saurez-vous vous en souvenir?</p>",
+        "title":"Êtes-vous prêt(e) pour le succès de l’open data ?",
+        "displayTitle":"Êtes-vous prêt(e) pour le succès de l’open data ?",
+        "body":"<p>Saurez-vous reconnaître les indicateurs clés d’une initiative d’open data réussie ?</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -292,13 +286,13 @@
         "_classes":"illustration",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
+            "alt": "Measures of success",
             "title": "",
-            "large": "course/fr/images/odi-9-mcq-image_large.jpg",
-            "medium": "course/fr/images/odi-9-mcq-image_large.jpg",
-            "small": "course/fr/images/odi-9-mcq-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
+            "large": "course/fr/images/odi-8-textimage_large.jpg",
+            "medium": "course/fr/images/odi-8-textimage_large.jpg",
+            "small": "course/fr/images/odi-8-textimage_large.jpg",
+            "*source":"http://www.shutterstock.com/pic-120780490.html",
+            "*credit":"501room",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -313,29 +307,29 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "L’open data, c’est quoi ?",
-        "displayTitle": "L’open data, c’est quoi ?",
-        "body": "<p>L’open data, c’est…</p>",
+        "title": "Mesures du succès",
+        "displayTitle": "Mesures du succès",
+        "body": "<p>Les trois critères clés pour comparer et mesurer les initiatives d’open data réussies sont...</p>",
         "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
         "_items": [
             {
-                "text": "des informations que l’on vend aux entreprises.",
+                "text": "la validité, l’ouverture et l’utilité.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager",
+                "text": " la disponibilité opérationnelle, l’implémentation et l’impact.",
                 "_shouldBeSelected": true
             },
             {
-                "text": "des données visibles en ligne.",
+                "text": " la pertinence, la fonctionnalité et la cohérence.",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>",
+            "correct":"<h5>Vous avez raison !</h5><p>La capacité de mettre en œuvre une initiative réussie et d'en tirer des avantages. Quelles sont les données importantes sont disponibles et quelle variété et le type de nouvelle valeur est créée?</p>",
             "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>"
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>La capacité de mettre en œuvre une initiative réussie et d'en tirer des avantages. Quelles sont les données importantes sont disponibles et quelle variété et le type de nouvelle valeur est créée?</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>La capacité de mettre en œuvre une initiative réussie et d'en tirer des avantages. Quelles sont les données importantes sont disponibles et quelle variété et le type de nouvelle valeur est créée?</p>"
             },
             "_partlyCorrect": {
                 "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -360,19 +354,13 @@
         "_classes":"illustration",
         "_layout":"left",
         "_graphic": {
-            "alt": "",
+            "alt": "Focussing on demand",
             "title": "",
-            "large": "course/fr/images/odi-10-mcq_large.jpg",
-            "medium": "course/fr/images/odi-10-mcq_large.jpg",
-            "small": "course/fr/images/odi-10-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-            "*credit":"Anna Frajtova",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-            "*credit":"Sachezi",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
+            "large": "course/fr/images/odi-9-mcq_large.jpg",
+            "medium": "course/fr/images/odi-9-mcq_large.jpg",
+            "small": "course/fr/images/odi-9-mcq_large.jpg",
+            "*source":"http://www.shutterstock.com/pic-203239417.html",
+            "*credit":"Ozerina Anna",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -386,34 +374,42 @@
         "_attempts":1,
         "_questionWeight":1,
         "_isRandom":true,
-        "_selectable":1,
-        "title": "Qu’entend-on par données ?",
-        "displayTitle": "Qu’entend-on par données ?",
-        "body": "<p>Les données sont...</p>",
-        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
+        "_selectable":3,
+        "title": "Focaliser sur la demande",
+        "displayTitle": "Focaliser sur la demande",
+        "body": "<p>Quels sont les trois indicateurs d’une approche d’open data centrée sur la demande ?</p>",
+        "instruction": "<em>Choisissez votre 3 réponses et puis cliquez sur ‘Valider’</em>",
         "_items": [
             {
-                "text": "des chiffres, des mots, des cartes et des photos.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "des informations en ligne.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "la matière première  de l’information et de la connaissance.",
+                "text": "L’open data, un outil pédagogique.",
                 "_shouldBeSelected": true
+            },
+            {
+                "text": "L’open data, facilitateur d’innovation.",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Une grande quantité de données.",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "L’open data, un soutien à la communauté.",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Faciliter un programme de big data.",
+                "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>",
+            "correct":"<h5>Vous avez raison !</h5><p>Une approche axée sur la demande améliore l'alphabétisation de données, permettre aux communautés d'innovation et de soutien.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>"
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>Une approche axée sur la demande améliore l'alphabétisation de données, permettre aux communautés d'innovation et de soutien.</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>Une approche axée sur la demande améliore l'alphabétisation de données, permettre aux communautés d'innovation et de soutien.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>A demand-focused approach improves data literacy, enable innovation and support communities.</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>A demand-focused approach improves data literacy, enable innovation and support communities.</p>"
           }
         },
         "_buttons":{
@@ -434,13 +430,13 @@
         "_classes":"illustration",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
+            "alt": "Keeping on track",
             "title": "",
-            "large": "course/fr/images/odi-11-mcq_large.jpg",
-            "medium": "course/fr/images/odi-11-mcq_large.jpg",
-            "small": "course/fr/images/odi-11-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
+            "large": "course/fr/images/odi-10-accordian_large.jpg",
+            "medium": "course/fr/images/odi-10-accordian_large.jpg",
+            "small": "course/fr/images/odi-10-accordian_large.jpg",
+            "*source":"http://www.shutterstock.com/pic-154597898.html",
+            "*credit":"Leone_V",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -455,97 +451,29 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "Qu’est ce qui rend les données ouvertes ?",
-        "displayTitle": "Qu’est ce qui rend les données ouvertes ?",
-        "body": "<p>Les données ouvertes doivent...</p>",
+        "title": "Rester sur la bonne voie",
+        "displayTitle": "Rester sur la bonne voie",
+        "body": "<p>Les indicateurs clés de performance (en anglais Key Performance Indicators - KPIs) sont un bon moyen de ...</p>",
         "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
         "_items": [
             {
-                "text": "être libres de toute limite en ce qui concerne leur utilisation.",
+                "text": "maintenir l’équilibre entre l’offre, la demande et l’utilisation.",
                 "_shouldBeSelected": true
             },
             {
-                "text": "comporter des limites d’utilisation.",
+                "text": "calculer la taille des jeux de données.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "être publiées de manière sélective et payante.",
+                "text": "franchir des étapes importantes lors du processus.",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>",
+            "correct":"<h5>Vous avez raison !</h5><p>KPI sont un excellent moyen de maintenir l'équilibre entre l'offre et la demande d'une initiative de données ouvertes.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>"
-            },
-            "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-          }
-        },
-        "_buttons":{
-            "submit":"Valider",
-            "reset":"",
-            "showCorrectAnswer":"",
-            "hideCorrectAnswer":""
-        },
-        "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-        "_id":"c-75",
-        "_parentId":"b-50",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"illustration",
-        "_layout":"left",
-        "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-12-mcq_large.jpg",
-            "medium": "course/fr/images/odi-12-mcq_large.jpg",
-            "small": "course/fr/images/odi-12-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-            "*credit":"Sergey Nivens",
-            "*license":"Shutterstock Standard License"
-        }
-    },
-    {
-        "_id":"c-80",
-        "_parentId":"b-50",
-        "_type":"component",
-        "_component":"mcq",
-        "_classes":"",
-        "_layout":"right",
-        "_attempts":1,
-        "_questionWeight":1,
-        "_isRandom":true,
-        "_selectable":1,
-        "title": "Pourquoi a-t-on besoin de l’open data ?",
-        "displayTitle": "Pourquoi a-t-on besoin de l’open data ?",
-        "body": "<p>Quel est le potentiel de l’open data ?</p>",
-        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
-        "_items": [
-            {
-                "text": "Donner accès à d’autres ensembles de données.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "Rendre les gouvernements plus responsables.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "Générer de la valeur sociale, environnementale et économique.",
-                "_shouldBeSelected": true
-            }
-        ],
-        "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>",
-            "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>"
+                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>KPI sont un excellent moyen de maintenir l'équilibre entre l'offre et la demande d'une initiative de données ouvertes.</p>",
+                "final": "<h5>Êtes vous sûr(e) ? </h5><p>KPI sont un excellent moyen de maintenir l'équilibre entre l'offre et la demande d'une initiative de données ouvertes.</p>"
             },
             "_partlyCorrect": {
                 "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -570,11 +498,11 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/summary-icon.png",
-            "medium": "course/fr/images/summary-icon.png",
-            "small": "course/fr/images/summary-icon.png",
+            "alt": "Summary icon clipboard",
+            "title": "Summary icon clipboard",
+            "large": "course/fr/images/odi-footer.png",
+            "medium": "course/fr/images/odi-footer.png",
+            "small": "course/fr/images/odi-footer.png",
             "*source":"http://www.shutterstock.com/pic-189810137.html",
             "*credit":"Kritchanut",
             "*license":"Shutterstock Standard License"
@@ -587,9 +515,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Données ouvertes - veni, vidi, vici",
-        "displayTitle":"Données ouvertes - veni, vidi, vici",
-        "body":"<p>Les données ouvertes, ou ‘open data’, sont des données auxquelles n’importe qui peut accéder et que tout le monde peut utiliser et partager.</p><p>Les données ouvertes sont une matière première pour l’ère du numérique mais à la différence du charbon, du bois ou des diamants, elles peuvent être utilisées par n’importe qui et à n’importe quel moment.</p><p>Toute limitation mise en place sur l’usage libre de l’open data en limitera le potentiel d’utilisation.</p><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer des services, de contribuer à la croissance économiques et de sauver notre planète.</p><p>Lors du prochain module, nous verrons dans quelle mesure l’open data peut générer de la valeur.</p>",
+        "title":"Comparer et mesurer la réussite",
+        "displayTitle":"Comparer et mesurer la réussite",
+        "body":"<p>Lorsqu’on compare et mesure les initiatives d’open data, il est important d’utiliser un vaste cadre et de rester centré sur la demande.</p><p>Ces méthodes permettent à une initiative de rester sur la bonne voie et de connaître le même succès que d’autres initiatives d’open data.</p><p>Les KPIs contribuent de faire avancer le processus de changements nécessaires au sein d’une organisation afin de participer de manière efficace à la communauté de l’open data.</p><p>Le prochain module analyse comment trouver des sources durables d’open data.</p>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }
@@ -610,14 +538,14 @@
         "_classes":"footer-logo",
         "_layout":"left",
         "_graphic": {
-            "alt": "",
-            "title": "",
+            "alt": "Open data institute logo",
+            "title": "Open data institute logo",
             "large": "course/fr/images/logo-small.png",
             "medium": "course/fr/images/logo-small.png",
             "small": "course/fr/images/logo-small.png",
-            "*source":"",
-            "*credit":"",
-            "*license":""            
+            "*source":"http://theodi.org",
+            "*credit":"The Open Data Institute",
+            "*license":"All rights reserved"  
         }
     },
     {

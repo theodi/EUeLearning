@@ -15,10 +15,7 @@
             "title": "",
             "large": "",
             "medium": "",
-            "small": "",
-            "*source":"",
-            "*credit":"",
-            "*license":""
+            "small": ""
         }
     },
     {
@@ -28,9 +25,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"What is open data?",
-        "displayTitle":"What is open data?",
-        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>. Governments, businesses and individuals can use open data to bring about social, economic and environmental benefits.</p><h5>In this module we’ll explore the following:</h5><ul class='ticks'><li>What is open data?</li><li>What is data?</li><li>What makes data open?</li><li>Why do we need open data?</li></ul>",
+        "title":"Why do we need to license?",
+        "displayTitle":"Why do we need to license?",
+        "body":"<p>In order for data to be open, it should be accessible (this usually means being published online) and licensed for anyone to access, use and share.</p><h5>In this module we’ll explore the following:</h5><ul class='ticks'><li>Why open data needs to be licensed</li><li>How licences unlock the value of open data</li><li>What type of licence suits open data?</li><li>How to provide for open data licensing in the tender, procurement and contracting lifecycle</li></ul><p>Even in cases where data has been made available as a public domain dedication without conditions on reuse, an explicit statement is required together with the data to provide users with legal clarity.</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -43,12 +40,12 @@
     "_component":"iFrame-vimeo",
     "_classes":"",
     "_layout":"full",
-        "title":"Discovering open data – in 2 minutes",
-        "displayTitle": "Discovering open data – in 2 minutes",
-        "body": "ODI Trainer Dr David Tarrant explains what data is, what makes it open and why we need open data.",
+        "title":"Simplifying open data licences – in 2 minutes",
+        "displayTitle": "Simplifying open data licences – in 2 minutes",
+        "body": "ODI Policy Lead Ellen Broad explains why we need open data licences, how they help unlock the value of data and best practice in choosing the right type of licence.",
         "instruction": "",
         "_setCompletionOn":"ended",
-        "_source": "https://player.vimeo.com/video/129196637",
+        "_source": "https://player.vimeo.com/video/129116798",
         "_width": {
             "_small" : 300,
             "_medium" : 500,
@@ -66,16 +63,16 @@
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
-        "_layout":"right",
+        "_layout":"left",
         "_graphic": {
-            "alt": "What is open data?",
-            "title": "What is open data?",
-            "large": "course/en/images/odi-1-text-image_large.jpg",
-            "medium": "course/en/images/odi-1-text-image_large.jpg",
-            "small": "course/en/images/odi-1-text-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
-            "*license":"Shutterstock Standard License"
+            "alt": "Why license open data?",
+            "title": "Why license open data?",
+            "large": "course/en/images/odi-1.jpg",
+            "medium": "course/en/images/odi-1.jpg",
+            "small": "course/en/images/odi-1.jpg",
+            "*source": "http://www.shutterstock.com/pic-270451631.html",
+            "*credit": "Oleksiy Mark",
+            "*license": "Shutterstock Standard License"
         }
     },
     {
@@ -84,10 +81,10 @@
         "_type":"component",
         "_component":"text",
         "_classes":"",
-        "_layout":"left",
-        "title":"What is open data?",
-        "displayTitle":"What is open data?",
-        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.</p><p>Open data becomes useable through being available in a common, machine-readable format.</p><p>Open data must be licensed. This licence must permit the data to be freely used and allow users to transform, combine and share it with others, even commercially.</p>"
+        "_layout":"right",
+        "title":"Why license open data?",
+        "displayTitle":"Why license open data?",
+        "body":"<p>Without a licence, data is not truly open.</p><p>A licence tells anyone that they can access, use and share your data.</p><p>Unless you have a licence, data will be ‘publicly available’, but users may not have permission to access, use and share it under copyright or database laws.</p>"
     },
      {
         "_id": "c-25",
@@ -95,50 +92,127 @@
         "_classes": "",
         "_type":"component",
         "_layout": "full",
+        "_component": "dynamic-narrative",
+        "title": "Benefits of open data licensing",
+        "displayTitle": "Benefits of open data licensing",
+        "body": "Licensing gives permission to businesses, startups, governments and individuals to innovate with open data.",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "_items": [
+            {
+                "title": "Providing certainty",
+                "body": "<p>Open data licences provide users with certainty that the data can be used and shared for a wide range of purposes.</p><p>A licence is an explicit permission to use the data for both commercial and non-commercial purposes.</p><p>Without a licence, users may find themselves in a legal grey area.</p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-2.jpg",
+                    "alt": "Providing certainty",
+                    "title": "Providing certainty",
+                    "*source":"http://www.shutterstock.com/pic-77222599.html",
+                    "*credit":"Pavel Ignatov",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Providing certainty"
+            },
+            {
+                "title": "Providing clarity",
+                "body": "<p>As of 2015, only around 20% of open data catalogues across the European Union are truly open licensed.</p><p>In the EU, copyright and database laws are complex. While data might be intended to be open, a licence provides legal clarity for users.</p><p>The OpenDataMonitor platform provides information and statistics on European open data catalogues.<br /><a href='http://www.opendatamonitor.eu/frontend/web/index.php?r=datacatalogue%2Findex' target='_blank'>Take me to the OpenDataMonitor platform</a></p>",
+		"_iframe": {
+                    "src": "course/en/dynamic/graph1.html",
+                    "alt": "A graph of open licences across countries",
+                    "title": "A graph of open licences across countries"
+                },
+                "strapline": "Providing clarity"
+            },
+            {
+                "title": "Enabling innovation",
+                "body": "<p>Open data licences enable experimentation, exploration and innovative uses of open data in new products and services.</p><p>For example, Transport for London’s transport data is openly licensed. It has underpinned a wide range of public transport journey planners, available as apps on smartphones and mobile devices.<br /><a href='https://tfl.gov.uk/info-for/open-data-users/' target='_blank'>Take me to Transport for London </a></p>",
+                "_graphic": {
+                    "src": "course/en/images/odi-4.jpg",
+                    "alt": "Enabling innovation",
+                    "title": "Enabling innovation",
+                    "*source":"http://www.shutterstock.com/pic-173841626.html",
+                    "*credit":"Claudio Divizia",
+                    "*license":"Shutterstock Standard License"
+                },
+                "strapline": "Enabling innovation"
+            }
+        ],
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-26",
+        "_parentId":"b-26",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "How to locate a licence?",
+            "title": "How to locate a licence?",
+            "large": "course/en/images/odi-5.jpg",
+            "medium": "course/en/images/odi-5.jpg",
+            "small": "course/en/images/odi-5.jpg",
+            "*source":"sponge uk",
+            "*credit":"sponge uk",
+            "*license":"Creative commons attribute 4.0 international"
+        }
+    },
+    {
+        "_id":"c-27",
+        "_parentId":"b-26",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"How to locate a licence?",
+        "displayTitle":"How to locate a licence?",
+        "body":"<pPublishers of open data should provide easy access to the licence for all datasets that are available to access, use and share.</p><p>The location and layout of licence information may vary according to jurisdiction, industry and individual style.</p><p>Best practice suggests that licences should be easy to find and read. In the next section, we show you how to find a licence.</p>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+     {
+        "_id": "c-28",
+        "_parentId": "b-27",
+        "_classes": "",
+        "_type":"component",
+        "_layout": "full",
         "_component": "narrative",
-        "title": "From raw material to new information and knowledge",
-        "displayTitle": "From raw material to new information and knowledge",
-        "body": "Without data, we can’t build information.  And without information, there is no new knowledge.",
+        "title": "Simple licences, easily found",
+        "displayTitle": "Simple licences, easily found",
+        "body": "Every publisher of open data presents their licences differently.  Here are some examples.",
         "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
         "_items": [
             {
-                "title": "Data",
-                "body": "<p>Data is the lowest level of raw material from which information and knowledge can be derived.</p><p>Think of data as those locations, images, descriptions, reviews and prices that form the basis of information that can help you plan a holiday, for example.</p>",
+                "title": "UK Government",
+                "body": "<p>The UK Government uses an Open Government Licence.</p><p>This example clearly shows the licence at the top of the web page where the dataset is accessed. The licence information is a hyperlink that displays the licence in full.</p><p>Have a look at this example dataset and its licence. While you are there, feel free to explore all the other datasets and services they offer.<br /><a href='http://data.gov.uk/dataset/financial-transactions-data-fco' target='_blank'>Take me to Data.gov.uk</a></p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-2-narrative_large.jpg",
-                    "alt": "Data in knowledge triangle",
-                    "title": "Data in knowledge triangle",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-                    "*credit":"Anna Frajtova",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/en/images/odi-6.jpg",
+                    "alt": "UK Government",
+                    "title": "UK Government",
+                    "*source":"http://data.gov.uk/dataset/financial-transactions-data-fco",
+                    "*credit":"data.gov.uk",
+                    "*license":"Open Government Licence"
                 },
-                "strapline": "Data"
+                "strapline": "UK Government"
             },
             {
-                "title": "Information",
-                "body": "<p>Data becomes information when it is given a context.</p><p>Following on from the previous example, locations, images, descriptions and prices can all be related to a tourist attraction.</p><p>It is the collection and presentation of the data that forms information.</p>",
+                "title": "Singapore Government",
+                "body": "<p>Singapore government also publishes data which is openly licensed but the licence can be difficult to locate.</p><p>The ‘licence’ terms and conditions are accessed by clicking on the data download icons or URL, or via the terms and conditions link at the very bottom of the web page.</p><p>Have a look at this example dataset and its licence. While you are there, feel free to explore all the other datasets and services they offer.<br /><a href='http://data.gov.sg/Metadata/OneMapMetadata.aspx?id=DENGUE_CLUSTER&t=SPATIAL' target='_blank'>Take me to data.gov.sg</a></p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-3-narrative_large.jpg",
-                    "alt": "Information in knowledge triangle",
-                    "title": "Information in knowledge triangle",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-                    "*credit":"Sachezi",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/en/images/odi-7.jpg",
+                    "alt": "Singapore Government",
+                    "title": "Singapore Government",
+                    "*source":"http://data.gov.sg/Metadata/OneMapMetadata.aspx?id=DENGUE_CLUSTER&t=SPATIAL",
+                    "*credit":"data.gov.sg",
+                    "*license":"n/a"
                 },
-                "strapline": "Information"
-            },
-            {
-                "title": "Knowledge",
-                "body": "<p>Knowledge is what is derived from information, and personalised for your needs.</p><p>Building knowledge is a process of turning information into choices.</p><p>Building on the previous example, knowing that no one in your family likes theme parks will help you decide which places to avoid on holiday, and which would suit your family better.</p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-4-narrative_large.jpg",
-                    "alt": "Knowledge in knowledge triangle",
-                    "title": "Knowledge in knowledge triangle",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
-                    "*credit":"Oleksiy Mark",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Knowledge"
+                "strapline": "Singapore Government"
             }
         ],
         "_pageLevelProgress": {
@@ -153,13 +227,13 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "What makes data open?",
-            "title": "What makes data open?",
-            "large": "course/en/images/odi-5-accordion_large.jpg",
-            "medium": "course/en/images/odi-5-accordion_large.jpg",
-            "small": "course/en/images/odi-5-accordion_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
+            "alt": "Types of licences",
+            "title": "Types of licences",
+            "large": "course/en/images/odi-8.jpg",
+            "medium": "course/en/images/odi-8.jpg",
+            "small": "course/en/images/odi-8.jpg",
+            "*source":"http://www.shutterstock.com/pic-278179001.html",
+            "*credit":"Eugene Sergeev",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -170,25 +244,25 @@
       "_component":"accordion",
       "_classes":"",
       "_layout":"left",
-      "title": "What makes data open?",
-      "displayTitle": "What makes data open?",
-      "body": "<p>Data is open if anyone can access, use and share it.<br />There are some simple things to consider when defining openness: </p>",
-      "instruction": "",
+      "title": "Types of licences",
+      "displayTitle": "Types of licences",
+      "body": "<p>The simpler the licence, the better!</p><p>There are lots of different licences. To maximise reuse, try to adopt a licence standard that is already widely used.</p>",
+      "instruction": "<em>Click the headings to explore further.</em>",
       "_items": [
         {
-          "alt": "Limitations",
-          "title": "Limitations",
-          "body": "<p>For data to be open, there should be no limitations that prevent any particular use</p><p>Any user should be free to use, modify, combine and share the data, even commercially</p>"
+          "alt": "Creative Commons licences",
+          "title": "Creative Commons licences",
+          "body": "<p>Creative Commons licences are widely used for open content. Version 4.0 explicitly considers data licensing.</p><p>There are three Creative Commons versions of an open licence:</p><ul><li><strong>Public domain: (CC0)</strong></li><li><strong>Attribution: (CC-BY v4.0)</strong></li><li><strong>Attribution & share-alike: (CC-BY-SA v4.0)</strong></li></ul><p>The public domain and attribution licences give most flexibility in the use of data while a share-alike licence may limit the commercial use of the data.<br /><a href='https://creativecommons.org/publicdomain/zero/1.0/' target='_blank'>Show me a Public Domain licence</a><br><a href='https://creativecommons.org/licenses/by/4.0/' target='_blank'>Show me an Attribution licence</a><br><a href='https://creativecommons.org/licenses/by-sa/4.0/' target='_blank'>Show me an Attribution & share-alike licence</a></p><p>You can choose a licence that works for you at the Creative Commons website:<br><a href='https://creativecommons.org/choose/' target='_blank'>Show me how to make my own Creative Commons licence</a></p>"
         },
         {
-          "alt": "Cost",
-          "title": "Cost",
-          "body": "<p>Even though open data must be free to use, this does not mean that it must be free to access.</p><p>There is often a cost in creating, maintaining and publishing useable data.</p><p>Ideally, any fee for open data should be no more than the reasonable reproduction cost of the unit of data that is requested.</p><p>This reproduction cost tends to be negligible for many datasets.</p><p>Live data and big data can incur ongoing costs related to reliable service provision.</p>"
+          "alt": "Bespoke/Custom-made licences",
+          "title": "Bespoke/Custom-made licences",
+          "body": "<p>A bespoke or custom-made licence is a creation of the data publisher which introduces specific conditions with which the user must comply. Bespoke or custom-made licences can be written by the publisher or adapted from a standard licence through the addition of new conditions and/or the modification of existing ones</p><p>Bespoke and custom-made licences can increase the complexity for users of open data.</p><p>They may introduce specific conditions that limit usage, restrict data integration and, in some cases, are difficult for re-users to comply with.</p>"
         },
         {
-          "alt": "Reuse",
-          "title": "Reuse",
-          "body": "<p>Once the user has the data, they are free to use, reuse and redistribute it – even commercially.</p><p>Open data is measured by what it can be used for, not by how it is made available.</p><p>Aspects like format, structure and machine readability all make data more usable, and should all be carefully considered.</p><p>However, these do not make the data more open.</p>"
+          "alt": "Open government licences",
+          "title": "Open government licences",
+          "body": "<p>Some publishers have chosen to develop their own licences.</p><p>The best examples are:</p><ul><li>short</li><li>compatible with widely used licences</li><li>easy to comply with</li></ul><p>A good example of a clear open license has been created by the French government.<br /><a href='http://wiki.data.gouv.fr/wiki/Licence_Ouverte_/_Open_Licence' target='_blank'>Take me to the French Government open licence</a></p><p>The UK Government has a good example of an open licence developed in this way that is used by UK Government departments:<br /><a href='http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/' target='_blank'>Take me to the UK Government open licence</a></p>"
         }
       ],
       "_pageLevelProgress": {
@@ -202,57 +276,58 @@
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "Why do we need open data?",
-        "displayTitle": "Why do we need open data?",
-        "body": "Open data has the power to bring diverse benefits to governments, businesses and civil society.",
+        "title": "Licences and third parties",
+        "displayTitle": "Licences and third parties",
+        "body": "The publication of open data may be required as part of the tendering, procurement and contracting lifecycle.",
         "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
         "_items": [
             {
-                "title": "Transform government",
-                "body": "<p>Open data helps make governments more transparent. It can provide the evidence that public money is being well spent and policies are being implemented.</p><p>For example, according to leading open government activist David Eaves, open data allowed citizens in Canada to save the government $3.2 billion in fraudulent charitable donations in 2010.<br /><a href='http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/' target='_blank'>Take me to David Eaves article</a></p><p>In another example, according to Follow the Money, in Nigeria, the same process is used to ensure that public funds are spent implementing the policies promised to the people.<br /><a href='http://followthemoneyng.org/' target='_blank'>Take me to Follow the Money</a></p>",
+                "title": "Third parties",
+                "body": "<p>Governments and organisations use contractors to provide services on their behalf.</p><p>These governments and organisations may be committed to publishing open data, and extend that to third parties.</p><p>This publication is important because where public money is spent, it should create a public good and opening the data is an effective way to deliver this.</p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-6-narrative_large.jpg",
-                    "alt": "Transform government",
-                    "title": "Transform government",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=265940657&src=lb-35924366",
-                    "*credit":"hxdyl",
+                    "src": "course/en/images/odi-9.jpg",
+                    "alt": "Third parties",
+                    "title": "Third parties",
+                    "*source":"http://www.shutterstock.com/pic-239545075.html",
+                    "*credit":"everything possible",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Transform government"
+                "strapline": "Third parties"
             },
             {
-                "title": "Build new business opportunities",
-                "body": "<p>Open data is opening up new opportunities for businesses to connect to customers.</p><p>Transport for London has released open data that developers have used to build over 800 transport apps.<br /><a href='http://www.tfl.gov.uk/' target='_blank'>Take me to Transport for London</a></p><p>Thomson Reuters is using open data to connect better with existing customers in order to provide better services.<br /><a href='http://site.thomsonreuters.com/site/data-identifiers/' target='_blank'>Take me to Thomson Reuters</a></p><p>TThe ODI Startup programme now has over 70 employees with income over £4m.<br /><a href='http://theodi.org/odis-second-year-annual-report' target='_blank'>Take me to The ODI annual report</a></p>",
+                "title": "Including open data in contracts",
+                "body": "<p>To ensure that data collected and used by contractors is also published as open data, an organisation can:</p><ul><li>include this as a condition in the contract.</li><li>retain ownership of the data to publish it as open data themselves.</li></ul><p><a href='https://theodi.org/guides/reusers-guide-open-data-licensing' target='_blank'>Take me to a guide on licensing</a></p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-7-narrative_large.jpg",
-                    "alt": "Build new business opportunities",
-                    "title": "Build new business opportunities",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-                    "*credit":"Sergey Nivens",
+                    "src": "course/en/images/odi-10.jpg",
+                    "alt": "Including open data in contracts",
+                    "title": "Including open data in contracts",
+                    "*source":"http://www.shutterstock.com/pic-159737504.html",
+                    "*credit":"Myvector",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Build new business opportunities"
+                "strapline": "Including open data in contracts"
             },
             {
-                "title": "Protect our planet",
-                "body": "<p>The web has become a core part of our infrastructure and open data will build on this.</p><p>Open data on weather can provide an early warning system for environmental disasters, for example.<br /><a href='http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc' target='_blank'>Take me to the United Nations news centre</a></p><p>Open data is also helping consumers to understand their personal impact on the environment and take steps to improve it.<br /><a href='https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf' target='_blank'>Take me to Better Choices Better Deals report.</a></p>",
+                "title": "Open data about performance",
+                "body": "<p>Performance data and data related to the formation of procured services can also be required of a contractor, to be published as open data.</p><p>Past performance data helps potential suppliers understand which parts of the contract are easy or difficult, and enables competition during the tendering process.</p>",
                 "_graphic": {
-                    "src": "course/en/images/odi-8-narrative_large.jpg",
-                    "alt": "Protect our planet",
-                    "title": "Protect our planet",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=261740228&src=lb-35924366",
-                    "*credit":"hbpictures",
+                    "src": "course/en/images/odi-11.jpg",
+                    "alt": "Open data about performance",
+                    "title": "Open data about performance",
+                    "*source":"http://www.shutterstock.com/pic-201870622.html",
+                    "*credit":"Your Design",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Protect our planet"
+                "strapline": "Open data about performance"
             }
         ],
         "_pageLevelProgress": {
         "_isEnabled": true
         }
-    }, {
+    },
+    {
         "_id":"c-42",
-        "_parentId":"b-33",
+        "_parentId":"b-32",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
@@ -264,21 +339,21 @@
         "_graphic": {
             "alt": "",
             "title": "",
-            "large": "course/en/images/burst.png",
-            "medium": "course/en/images/burst.png",
-            "small": "course/en/images/burst.png"
+            "large": "course/en/images/burst-indigo.png",
+            "medium": "course/en/images/burst-indigo.png",
+            "small": "course/en/images/burst-indigo.png"
         }
     },
     {
         "_id":"c-43",
-        "_parentId":"b-33",
+        "_parentId":"b-32",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Are you ready for open data?",
-        "displayTitle":"Are you ready for open data?",
-        "body":"<p>There are four helpful things to remember when thinking about opening your data for users, can you remember them?</p>",
+        "title":"Are you ready to license?",
+        "displayTitle":"Are you ready to license?",
+        "body":"<p>There are four simple things to remember when it comes to licensing. Can you recall them?</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -292,16 +367,17 @@
         "_classes":"illustration",
         "_layout":"right",
         "_graphic": {
-            "alt": "What is open data",
+            "alt": "Are you ready to license?",
             "title": "",
-            "large": "course/en/images/odi-9-mcq-image_large.jpg",
-            "medium": "course/en/images/odi-9-mcq-image_large.jpg",
-            "small": "course/en/images/odi-9-mcq-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
+            "large": "course/en/images/odi-12.jpg",
+            "medium": "course/en/images/odi-12.jpg",
+            "small": "course/en/images/odi-12.jpg",
+            "*source":"http://www.shutterstock.com/pic-270451631.html",
+            "*credit":"Oleksiy Mark",
             "*license":"Shutterstock Standard License"
         }
     },
+    
     {
         "_id":"c-50",
         "_parentId":"b-35",
@@ -313,33 +389,33 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "What is open data?",
-        "displayTitle": "What is open data?",
-        "body": "<p>Open data is...</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "title": "Why license open data?",
+        "displayTitle": "Why license open data?",
+        "body": "<p>What does your data need to permit users to access, use and share it?</p>",
+        "instruction": "<em>Select an option, then click 'Submit'.</em>",
         "_items": [
             {
-                "text": "information that we sell to businesses.",
+                "text": "The header information.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "data that anyone can access, use and share.",
+                "text": "The licence.",
                 "_shouldBeSelected": true
             },
             {
-                "text": "data that is visible on the web.",
+                "text": "An email from the webmaster.",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p><strong>Open data</strong> is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.<br />Open data must also be licenced to allow free usage and be available for commercial use.</p>",
+            "correct":"<h5>That’s right!</h5><p>Without a licence, data will be ‘publicly available’, but users may not have permission to access use and share it under copyright and/or database laws.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p><strong>Open data</strong> is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.<br />Open data must also be licenced to allow free usage and must also be available for commercial use.</p></p>",
-                "final": "<h5>Are you sure about that?</h5><p><p><strong>Open data</strong> is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.<br />Open data must also be licenced to allow free usage and must also be available for commercial use.</p></p>"
+                "notFinal": "<h5>Are you sure about that?</h5><p>Without a licence, data will be ‘publicly available’, but users may not have permission to access use and share it under copyright and/or database laws.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>Without a licence, data will be ‘publicly available’, but users may not have permission to access use and share it under copyright and/or database laws.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "<h5>Are you sure about that?</h5><p>Without a licence, data will be ‘publicly available’, but users may not have permission to access use and share it under copyright and/or database laws.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>Without a licence, data will be ‘publicly available’, but users may not have permission to access use and share it under copyright and/or database laws.</p>"
           }
         },
         "_buttons":{
@@ -360,19 +436,13 @@
         "_classes":"illustration",
         "_layout":"left",
         "_graphic": {
-            "alt": "Data, information, knowledge tiangle",
+            "alt": "Unlocking the value in open data",
             "title": "",
-            "large": "course/en/images/odi-10-mcq_large.jpg",
-            "medium": "course/en/images/odi-10-mcq_large.jpg",
-            "small": "course/en/images/odi-10-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-            "*credit":"Anna Frajtova",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-            "*credit":"Sachezi",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
+            "large": "course/en/images/odi-13.jpg",
+            "medium": "course/en/images/odi-13.jpg",
+            "small": "course/en/images/odi-13.jpg",
+            "*source":"http://www.shutterstock.com/pic-77222599.html",
+            "*credit":"Pavel Ignatov",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -387,33 +457,33 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "What is data?",
-        "displayTitle": "What is data?",
-        "body": "<p>Data is...</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "title": "Unlocking the value in open data",
+        "displayTitle": "Unlocking the value in open data",
+        "body": "<p>An open licence allows users to access, use and share open data. What other permission must an open licence provide users?</p>",
+        "instruction": "<em>Select an option, then click 'Submit'.</em>",
         "_items": [
             {
-                "text": "numbers, words, maps and photos.",
+                "text": "Ability to solve crimes.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "information posted on the web.",
+                "text": "Ability to impersonate the publisher.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "the raw material of information and knowledge.",
+                "text": "Ability to use the open data commercially.",
                 "_shouldBeSelected": true
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>",
+            "correct":"<h5>That’s right!</h5><p>In order for data to be truly open, users must be free to use the data even for commercial purposes. This maximises the innovation. The licence does not have to provide warranty or allow others to claim ownership of the source data.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>"
+                "notFinal": "<h5>Are you sure about that?</h5><p>In order for data to be truly open, users must be free to use the data even for commercial purposes. This maximises the innovation. The licence does not have to provide warranty or allow others to claim ownership of the source data.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>In order for data to be truly open, users must be free to use the data even for commercial purposes. This maximises the innovation. The licence does not have to provide warranty or allow others to claim ownership of the source data.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "<h5>Are you sure about that?</h5><p>Without a licence, data will be ‘publicly available’, but users may have not have permission to access use and share it under copyright and/or database laws.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>Without a licence, data will be ‘publicly available’, but users may have not have permission to access use and share it under copyright and/or database laws.</p>"
           }
         },
         "_buttons":{
@@ -434,14 +504,14 @@
         "_classes":"illustration",
         "_layout":"right",
         "_graphic": {
-            "alt": "What makes data open?",
+            "alt": "Types of licences",
             "title": "",
-            "large": "course/en/images/odi-11-mcq_large.jpg",
-            "medium": "course/en/images/odi-11-mcq_large.jpg",
-            "small": "course/en/images/odi-11-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
-            "*license":"Shutterstock Standard License"
+            "large": "course/en/images/odi-14.png",
+            "medium": "course/en/images/odi-14.png",
+            "small": "course/en/images/odi-14.png",
+            "*source":"http://data.gov.uk/dataset/financial-transactions-data-fco",
+            "*credit":"data.gov.uk",
+            "*license":"Open Government Licence"
         }
     },
     {
@@ -455,33 +525,33 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "What makes data open?",
-        "displayTitle": "What makes data open?",
-        "body": "<p>Open data should be...</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "title": "Types of licences",
+        "displayTitle": "Types of licences",
+        "body": "<p>Which of the following type of licence would best suit a publisher of open data?</p>",
+        "instruction": "<em>Select an option, then click 'Submit'.</em>",
         "_items": [
             {
-                "text": "free of restrictions for its use.",
-                "_shouldBeSelected": true
-            },
-            {
-                "text": "restricted in its use.",
+                "text": "No license.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "selectively released for a fee.",
+                "text": "Creative Commons standard licence.",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "A bespoke licence.",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>",
+            "correct":"<h5>That’s right!</h5><p>A Creative Commons standard licence is the most appropriate licence for any publisher not obliged to use a specific licence family.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>"
+                "notFinal": "<h5>Are you sure about that?</h5><p>A Creative Commons standard licence is the most appropriate licence for any publisher not obliged to use a specific licence family.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>A Creative Commons standard licence is the most appropriate licence for any publisher not obliged to use a specific licence family.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "<h5>Are you sure about that?</h5><p>A Creative Commons standard licence is the most appropriate licence for any publisher not obliged to use a specific licence family.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>A Creative Commons standard licence is the most appropriate licence for any publisher not obliged to use a specific licence family.</p>"
           }
         },
         "_buttons":{
@@ -502,13 +572,13 @@
         "_classes":"illustration",
         "_layout":"left",
         "_graphic": {
-            "alt": "Why do we need open data?",
+            "alt": "Licences and third parties",
             "title": "",
-            "large": "course/en/images/odi-12-mcq_large.jpg",
-            "medium": "course/en/images/odi-12-mcq_large.jpg",
-            "small": "course/en/images/odi-12-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-            "*credit":"Sergey Nivens",
+            "large": "course/en/images/odi-15.jpg",
+            "medium": "course/en/images/odi-15.jpg",
+            "small": "course/en/images/odi-15.jpg",
+            "*source":"http://www.shutterstock.com/pic-278179001.html",
+            "*credit":"Eugene Sergeev",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -523,33 +593,33 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "Why do we need open data?",
-        "displayTitle": "Why do we need open data?",
-        "body": "<p>What does open data have the power to do?</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "title": "Licences and third parties",
+        "displayTitle": "Licences and third parties",
+        "body": "<p>Do open licences have a place in the tendering, procurement and contracting lifecycle?</p>",
+        "instruction": "<em>Select an option, then click 'Submit'.</em>",
         "_items": [
             {
-                "text": "give access to other datasets.",
+                "text": "Only if contractors ask for them.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "make governments accountable.",
+                "text": "No, a licence should not be part of the process.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "open data can unlock social, environmental and economic value.",
+                "text": "Open licences should be integral to the contract lifecycle.",
                 "_shouldBeSelected": true
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>Open data can transform interaction between governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p>",
+            "correct":"<h5>That’s right!</h5><p>Open data is core to the procurement lifecycle. Organisations tendering for services can publish performance data and related data to help businesses bid for services.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>Open data can transform interaction between governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>Open data can transform interaction between governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p>"
+                "notFinal": "<h5>Are you sure about that?</h5><p>Open data is core to the procurement lifecycle. Organisations tendering for services can publish performance data and related data to help businesses bid for services. </p>",
+                "final": "<h5>Are you sure about that?</h5><p>Open data is core to the procurement lifecycle. Organisations tendering for services can publish performance data and related data to help businesses bid for services.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "<h5>Are you sure about that?</h5><p>Open data is core to the procurement lifecycle. Organisations tendering for services can publish performance data and related data to help businesses bid for services.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>Open data is core to the procurement lifecycle. Organisations tendering for services can publish performance data and related data to help businesses bid for services.</p>"
           }
         },
         "_buttons":{
@@ -587,9 +657,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Open data - veni, vidi, vici",
-        "displayTitle":"Open data - veni, vidi, vici",
-        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.</p><p>Open data is a raw material for the digital age but, unlike coal, timber or diamonds, it can be used by anyone and everyone at the same time.</p><p>Any restrictions imposed on the use of open data will limit its use in creating new value.</p><p>Open data can bring diverse benefits to governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p><p>In the next module, we will explore how value is unlocked in open data.</p>",
+        "title":"Open data licences.  Simple.",
+        "displayTitle":"Open data licences.  Simple.",
+        "body":"<p>For your data to be open, it should be licensed for anyone to access, use and share.</p><p>Licensing gives permission to businesses, startups, governments and individuals to be innovative with your open data.</p><p>Open data licensing should be provided for in the tendering, procurement and contracting lifecycle.</p><p>And remember, the simpler the licence, the better!</p><p>In the next module, we assess open data quality and look at how easy it is to prepare data for users to use and unlock its value.</p>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }

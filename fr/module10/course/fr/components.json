@@ -28,27 +28,27 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"L’open data, c’est quoi ?",
-        "displayTitle":"L’open data, c’est quoi ?",
-	"body": "<p>Il s’agit de données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les gouvernements, les entreprises et les individus peuvent utiliser l’open data afin de créer des avantages sociaux, économiques et environnementaux.</p><h5>Dans ce module, nous allons explorer les points suivants :</h5><ul class='ticks'><li>L’open data (ou ‘données ouvertes’), c’est quoi ?</li><li>Qu’entend-on par données ?</li><li>Qu’est ce qui rend les données ‘ouvertes’?</li><li>Pourquoi en a-t-on besoin?</li></ul>",
+        "title":"À quel point mes données sont-elles utilisables?",
+        "displayTitle":"À quel point mes données sont-elles utilisables?",
+        "body":"<p>Évaluer l’utilité et l’exploitabilité de l’open data dépend du domaine et du contenu. Pour faciliter ce processus, il existe un certain nombre de directives de pratiques optimales qu’il est recommandé d’appliquer, que l’on publie ou que l’on utilise les données.</p><p>Au cours de ce module, nous étudierons les 5 étoiles des ‘Données Ouvertes et Liées’ (en anglais: LOD ou ‘Linked Open Data’, terme généralement utilisé même en français) et tenterons d’expliquer comment les utiliser pour mesurer la facilité d’utilisation technique des données.</p><h5>Dans ce module, nous allons explorer les points suivants :</h5><ul class='ticks'><li>Quelles sont les cinq étoiles du ‘Linked Open Data’</li><li>Les trois premières étoiles</li><li>Comment reconnaître les étoiles dans les données</li></ul>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
     },
     {
-    "_id":"c-11",
-    "_parentId":"b-10",
-    "_type":"component",
-    "_component":"iFrame-vimeo",
-    "_classes":"",
-    "_layout":"full",
-        "title":"Découvrir l’Open Data- en 2 minutes",
-        "displayTitle": "Découvrir l’Open Data- en 2 minutes",
-        "body": "Formateur à l’ODI, Dr. David Tarrant explique ce qu’on entend par données, ce qui les rend ouvertes et pourquoi l’open data est nécessaire.",
+        "_id":"c-11",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"iFrame-vimeo",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Évaluer l’utilité des données - en 2 minutes.",
+        "displayTitle": "Évaluer l’utilité des données - en 2 minutes.",
+        "body": "David Tarrant, formateur à l’ODI, présente les 5 étoiles de l’open data comme un outil d’évaluation et nous aide à comprendre quand et comment les utiliser.",
         "instruction": "",
         "_setCompletionOn":"ended",
-        "_source": "https://player.vimeo.com/video/129196637",
+        "_source": "https://player.vimeo.com/video/129197206",
         "_width": {
             "_small" : 300,
             "_medium" : 500,
@@ -66,16 +66,16 @@
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
-        "_layout":"right",
+        "_layout":"left",
         "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-1-text-image_large.jpg",
-            "medium": "course/fr/images/odi-1-text-image_large.jpg",
-            "small": "course/fr/images/odi-1-text-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
-            "*license":"Shutterstock Standard License"
+            "alt": "5 stars of open data",
+            "title": "5 stars of open data",
+            "large": "course/fr/images/odi-001.jpg",
+            "medium": "course/fr/images/odi-001.jpg",
+            "small": "course/fr/images/odi-001.jpg",
+            "*source": "http://www.shutterstock.com/pic.mhtml?id=171677003&src=lb-36497927",
+            "*credit": "vs148",
+            "*licence": "Shutterstock open licence"
         }
     },
     {
@@ -84,175 +84,120 @@
         "_type":"component",
         "_component":"text",
         "_classes":"",
-        "_layout":"left",
-        "title":"L’open data, c’est quoi ?",
-        "displayTitle":"L’open data, c’est quoi ?",
-        "body":"<p>Il s’agit de données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager.</p><p>On peut accéder aux données car elles sont disponibles en ligne.</p><p>On peut utiliser les données car elles sont disponibles sous une forme commune et lisible par des machines.</p><p>L’open data doit être sous licence. Cette licence doit en permettre l’usage libre et autoriser les utilisateurs à transformer, combiner et partager ces données, même à des fins commerciales.</p>"
-    },
-     {
-        "_id": "c-25",
-        "_parentId": "b-25",
-        "_classes": "",
-        "_type":"component",
-        "_layout": "full",
-        "_component": "narrative",
-        "title": "De la matière première à l’information et à la connaissance nouvelle",
-        "displayTitle": "De la matière première à l’information et à la connaissance nouvelle",
-        "body": "Sans données, on ne peut pas créer d’information. Et sans information, il n’y a pas de nouvelles connaissances possibles.",
-        "instruction": "<em class='desktop-instruction'>Cliquez sur la flèche pour plus de détail.</em><em class='mobile-instruction'>Cliquez sur la flèche pour plus de détail.</em>",
-        "_items": [
-            {
-                "title": "Les données",
-                "body": "<p>Les données sont le niveau le plus bas de matière première duquel on peut retirer des connaissances.</p><p>Imaginez ainsi les données comme l’ensemble des lieux, des images, des descriptions, des critiques et des prix qui constituent l’information nécessaire à la planification de vos vacances.</p>",
-                "_graphic": {
-                    "src": "course/fr/images/odi-2-narrative_large.jpg",
-                    "alt": "Providing certainty",
-                    "title": "",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-                    "*credit":"Anna Frajtova",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Données"
-            },
-            {
-                "title": "L’information",
-                "body": "<p>Les données deviennent de l’information lorsqu’on leur donne un contexte.</p><p>En s’inspirant de l’exemple précédant, on associe certaines destinations, images, descriptions et prix à une attraction touristique.</p><p>La collecte et la présentation des données constituent l’information.</p>",
-                "_graphic": {
-                    "src": "course/fr/images/odi-3-narrative_large.jpg",
-                    "alt": "A graph of open licences across countries",
-                    "title": "A graph of open licences across countries",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-                    "*credit":"Sachezi",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Informations"
-            },
-            {
-                "title": "Les connaissances",
-                "body": "<p>Les connaissances sont ce qui découle de l’information et l’usage personnalisé que l’on en fait.</p><p>L’acquisition de connaissances consiste en la transformation d’information en choix.</p><p>En s’inspirant de l’exemple précédant, le fait de savoir qu’aucun membre de votre famille n’aime les parcs d’attraction va informer votre décision quant aux destinations à éviter ou à privilégier.</p>",
-                "_graphic": {
-                    "src": "course/fr/images/odi-4-narrative_large.jpg",
-                    "alt": "A map from a to b",
-                    "title": "A map from a to b",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
-                    "*credit":"Oleksiy Mark",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Connaissances"
-            }
-        ],
-        "_pageLevelProgress": {
-        "_isEnabled": true
-        }
+        "_layout":"right",
+        "title":"Les 5 étoiles de l’open data",
+        "displayTitle":"Les 5 étoiles de l’open data",
+        "body":"<p>Les directives des 5 étoiles du Linked Open Data permettent de mesurer l’intégration des données sur le Web.</p><p>Elles examinent l’accessibilité et la facilité d’utilisation technique d’une série de données, allant de 1 étoile (disponibilité en ligne) à 5 étoiles (appartenance à un web des données). Les étoiles sont attribuées de manière séquentielle; on ne peut pas attribuer une étoile supérieure si les exigences de la précédente ne sont pas satisfaites.</p><p>Ces recommandations ont été développées par Sir Tim Berners-Lee en 2001 et ont depuis été adoptées par ceux qui publient de l’open data à travers le monde, guidant de nombreuses initiatives d’open data comme celles de l’Agence Numérique d’Italie.<br /><a href='http://spcdata.digitpa.gov.it/data.html' target='_blank'>Lien vers l’Agence  d’Italie numérique</a></p><p>Ce module se concentre sur les 3 premières étoiles, qui sont adaptées aux données tabulaires et transactionnelles. Nous étudierons les 2 dernières étoiles en détail dans le module 13.</p>"
     },
     {
         "_id":"c-30",
-        "_parentId":"b-28",
+        "_parentId":"b-30",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-5-accordion_large.jpg",
-            "medium": "course/fr/images/odi-5-accordion_large.jpg",
-            "small": "course/fr/images/odi-5-accordion_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
-            "*license":"Shutterstock Standard License"
+            "alt": "The first 3 stars",
+            "title": "The first 3 stars",
+            "large": "course/fr/images/odi-002.jpg",
+            "medium": "course/fr/images/odi-002.jpg",
+            "small": "course/fr/images/odi-002.jpg",
+            "*source": "http://www.shutterstock.com/pic.mhtml?id=188328170&src=lb-36497927",
+            "*credit": "vs148",
+            "*licence": "Shutterstock open licence"
         }
     },
     {
       "_id":"c-35",
-      "_parentId":"b-28",
+      "_parentId":"b-30",
       "_type":"component",
       "_component":"accordion",
       "_classes":"",
       "_layout":"left",
-      "title": "Qu’est-ce qui rend les données ‘ouvertes’ ?",
-      "displayTitle": "Qu’est-ce qui rend les données ‘ouvertes’ ?",
-      "body": "<p>Les données sont ouvertes si tout le monde peut y accéder, les utiliser et les partager.<br />Voici quelques idées à prendre en considération lorsque l’on définit ‘ouverte’ :</p>",
-      "instruction": "",
+      "title": "Les 3 premières étoiles",
+      "displayTitle": "Les 3 premières étoiles",
+      "body": "<p>Les 3 premières étoiles de l’open data vous permettent d’établir si oui ou non les données sont utilisables.</p>",
+      "instruction": "<em>Cliquez sur les titres pour plus de détail.</em>",
       "_items": [
         {
-          "alt": "Restrictions",
-          "title": "Restrictions",
-          "body": "<p>Pour que les données soient ouvertes, il ne doit y avoir aucune restriction quant à leur utilisation, quelle qu’elle soit.</p><p>N’importe quel utilisateur devrait être libre d’utiliser, de modifier, de combiner et de partager les données, même à des fins commerciales.</p>"
+          "alt": "1 étoile - une licence ouverte",
+          "title": "1 étoile - une licence ouverte",
+          "body": "<p>La première étoile est octroyée à toutes données que l’on peut qualifier d’ouvertes, c’est-à-dire celles dont le contenu est disponible sous licence ouverte et ce sous n’importe quelle forme.</p><p>Indépendamment de la qualité d’un ensemble de données, celles-ci ne peuvent pas bénéficier de la première étoile si elles ne sont pas disponibles sous licence ouverte.</p><p>Un fichier PDF disponible sur un site Web sous licence ouverte remplit les conditions nécessaires pour obtenir la première étoile.</p>"
         },
         {
-          "alt": "Coût",
-          "title": "Coût",
-          "body": "<p>Même si l’utilisation de l’open data doit être libre, cela ne signifie pas que son accès doit être gratuit.</p><p>Il y a souvent un coût associé à la création, à la maintenance et à la publication des données utilisables.</p><p>Idéalement, le prix des données ne devrait pas excéder le coût de reproduction de la donnée demandé.</p><p>Ce coût est souvent négligeable pour de nombreux ensembles de données.</p><p>Les données en temps réel et les contenus lourds peuvent cependant engager des frais continus afin de garantir leur fiabilité.</p>"
+          "alt": "2 étoiles - une forme réutilisable",
+          "title": "2 étoiles - une forme réutilisable",
+          "body": "<p>La deuxième étoile est octroyée aux données réutilisables facilement. Les directives stipulent que les données doivent être disponible sous ‘un format largement réutilisable et structuré,’ lisible par une machine et compréhensible par l’humain.</p><p>La clé pour atteindre les 2 étoiles est de sélectionner le format le plus réutilisable. Dans certains cas, il se peut que le format le plus réutilisable soit un format propriétaire ou fermé, comme c’est le cas pour un fichier Excel ou Numbers.</p><p>Il est préférable de rendre ses données disponibles sous n’importe quel format, quel qu’il soit, plutôt que de ne pas les rendre disponible.</p>"
         },
         {
-          "alt": "Réutilisation",
-          "title": "Réutilisation",
-          "body": "<p>Une fois que l’utilisateur possède toutes les données, il est libre de les utiliser, de les réutiliser et de les redistribuer, même à des fins commerciales.</p><p>On mesure les données ouvertes en fonction des possibilités d’utilisation, et non en fonction de leur mise à disposition.</p><p>Certains aspects, comme le format, la structure et la lisibilité par une machine, rendent les données plus facilement utilisables et doivent donc être soigneusement considérés.</p><p>Cependant, ces éléments ne rendent pas les données plus ouvertes.</p>"
+          "alt": "3 étoiles - une forme ouverte",
+          "title": "3 étoiles - une forme ouverte",
+          "body": "<p>Les directives pour la troisième étoile de l’open data stipulent que les données doivent être disponibles sous un format structuré et lisible par une machine qui n’est pas limité à un pack logiciel en particulier.</p><p>Un exemple d’un ensemble de données auquel on accorderait 3 étoiles serait un fichier CSV avec une licence ouverte appropriée.</p><p>L’entreprise d’énergie italienne Enel présente un bon exemple d’une série de données 3 étoiles qui affiche clairement son classement et le nombre d’étoiles octroyées.<br /><a href='http://data.enel.com/node/4679' target='_blank'>Lien vers la série de données de 3 étoiles d’Enel</a></p>"
         }
       ],
       "_pageLevelProgress": {
         "_isEnabled": true
       }
     },
-     {
-        "_id": "c-40",
-        "_parentId": "b-30",
+   {
+        "_id": "c-45",
+        "_parentId": "b-40",
         "_classes": "",
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "Pourquoi a-t-on besoin ?",
-        "displayTitle": "Pourquoi a-t-on besoin ?",
-        "body": "Les données ouvertes ont le pouvoir de produire des avantages divers pour les gouvernements, les entreprises et la société civile.",
+        "title": "Exploiter l’utilité de l’open data",
+        "displayTitle": "Exploiter l’utilité de l’open data",
+        "body": "Chaque étoile acquise représente une exploitabilité améliorée de l’ensemble de données. Utilisez la liste ci-dessous afin d’évaluer combien d’étoiles accorder à un ensemble de données.",
         "instruction": "<em class='desktop-instruction'>Cliquez sur la flèche pour plus de détail.</em><em class='mobile-instruction'>Cliquez sur la flèche pour plus de détail.</em>",
         "_items": [
             {
-                "title": "Transformation gouvernementale",
-                "body": "<p>L’open data permet une plus grande transparence pour les gouvernements. Il peut aider à prouver que les fonds publics sont dépensés à bon escient et que les politiques sont bien implémentées.</p><p>Ainsi, selon un militant pour le gouvernement ouvert (« open government activist ») David Eaves, l’open data a permis aux citoyens canadiens d’économiser 3, 2 milliards de dollars en dons frauduleux aux associations caritatives en 2010.<br /><a href='http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/' target='_blank'>Lien vers l’article de David Eaves</a></p><p>Un autre exemple, au Nigeria cette fois, où selon Follow the Money, le même processus garantit que les fonds publics sont bel et bien utilisés pour mettre en œuvre les politiques promises au peuple.<br /><a href='http://followthemoneyng.org/' target='_blank'>Lien vers Follow the Money</a></p>",
+                "title": "Étoile 1er - vérifier la licence ",
+                "body": "<p>Trouver la licence pour un ensemble de données ouvertes peut se révéler l’une des étapes les plus difficiles. Consultez les endroits suivants.</p><p>Une licence ouverte autorise explicitement l’utilisation des données à des fins commerciales ainsi que non-commerciales.</p><p>Essayez de la retrouver dans les rubriques suivantes :</p><ul class=ticks><li>Les métadonnées</li><li>Les conditions générales du site ou de la page Web</li><li>Cliquez sur le fichier de données, il y a peut-être une fenêtre popup</li><li>Regardez dans le fichier lui-même</li></ol><p>Comme chaque site Web a une approche différente en ce qui concerne l’affichage des informations relatives à la licence, il se peut que vous mettiez un certain temps avant de trouver l’information requise.</p>",
                 "_graphic": {
-                    "src": "course/fr/images/odi-6-narrative_large.jpg",
-                    "alt": "Transform government",
-                    "title": "Transform government",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=265940657&src=lb-35924366",
-                    "*credit":"hxdyl",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/fr/images/odi-003.jpg",
+                    "alt": "Star 1 - Checking the license",
+                    "title": "Star 1 - Checking the license",
+                    "*source": "http://www.shutterstock.com/pic.mhtml?id=148686812&src=lb-36497927",
+                    "*credit": "vs148",
+                    "*licence": "Shutterstock open licence"
                 },
-                "strapline": "Transform government"
+                "strapline": "Providing certainty"
             },
             {
-                "title": "Nouvelles opportunités d'entreprise",
-                "body": "<p>L’open data ouvre de nouvelles opportunités pour que les entreprises établissent un rapport avec leurs clients.</p><p>Transport for London a publié des données ouvertes qui ont permis la création de plus de 800 applications de transport.<br /><a href='http://www.tfl.gov.uk/' target='_blank'>Lien vers Transport for London</a></p><p>Thomson Reuters utilise les données ouvertes pour mieux communiquer avec les clients existants et afin de fournir de meilleurs services.<br /><a href='http://site.thomsonreuters.com/site/data-identifiers/' target='_blank'>Lien vers Thomson Reuters</a></p><p>Aujourd’hui, la start-up ODI a plus de 70 employés avec un revenu de plus de 4 million de livres.<br /><a href='http://theodi.org/odis-second-year-annual-report' target='_blank'>Lien vers le rapport annual de l’ODI</a></p>",
+                "title": "Étoile 2eme - vérifier l’utilité",
+                "body": "<p>Quand vous trouvez de l’open data sur le Web, il y a plusieurs manières d’en évaluer l’utilité. Considérez les questions suivantes :<ul class='ticks'><li>Pensez-vous que le format sous lequel les données sont publiées soit le plus facile à utiliser ?</li><li> Le fichier est-il identique à celui utilisé par ceux qui publient les données ?</li><li>Y a-t-il des informations supplémentaires ajoutées par un humain ?</li></ul></p>",
                 "_graphic": {
-                    "src": "course/fr/images/odi-7-narrative_large.jpg",
-                    "alt": "Build new business opportunities",
-                    "title": "Build new business opportunities",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-                    "*credit":"Sergey Nivens",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/fr/images/odi-004.jpg",
+                    "alt": "Star 2 - checking usability",
+                    "title": "Star 2 - checking usability",
+                    "*source": "http://www.shutterstock.com/pic.mhtml?id=144334663&src=lb-36497927",
+                    "*credit": "vs148",
+                    "*licence": "Shutterstock open licence"
                 },
-                "strapline": "Build new business opportunities"
+                "strapline": "Providing clarity"
             },
             {
-                "title": "Protéger notre planète",
-                "body": "<p>Le web est devenu une partie intégrante de notre infrastructure et l’open data va contribuer à ce développement.</p><p>Les données ouvertes concernant la météo permettent par exemple de donner l’alerte rapidement en cas de catastrophes naturelles.<br /><a href='http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc' target='_blank'>Lien vers le Centre d’actualités de l’ONU.</a></p><p>Les données ouvertes aident les consommateurs à comprendre leur impact sur l’environnement et à prendre des mesures pour l’améliorer.<br /><a href='https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf' target='_blank'>Lien vers le rapport de Better Choices Better Deals.</a></p>",
+                "title": "Étoile 3eme - vérifier l’ouverture",
+                "body": "<pLes formats ouverts sont parfois plus difficiles à évaluer. Les questions suivantes vous aideront à identifier si les données sont publiées sous licence ouverte.<ul class='ticks'><li>Le fichier conserve-t-il sa fonctionnalité complète quel que soit le programme utilisé pour l’ouvrir ?</li><li>Lorsqu’on vérifie le format du fichier (par exemple CSV) en ligne, apprend-on qu’il est nécessaire de télécharger un programme spécifique pour l’ouvrir ?</li></ul></p><p>Le format CSV est le format ouvert le plus populaire et il est facile à identifier. Le format CSV remplit les conditions pour obtenir 3 étoiles tant que les conditions relatives aux deux étoiles précédentes sont remplies. Le portail d’open data bulgare montre de bons exemples de séries de données en format CSV 3 étoiles, où la licence et le format de fichier sont clairement indiqués.</p><br /><a href='https://opendata.government.bg/dataset/tsentralen-registar-na-yuridicheskite-litsa' target='_blank'>Lien vers le portal d’open data bulgare</a><p>Beaucoup de portails d’open data publient aussi des fichiers sous le format ‘Open Document Format’ (ODF). Bien que leur nom suggère que ces fichiers soient parfaitement ouverts, ils donnent lieu à une certaine confusion lorsque l’on tente de nommer l'outil qui peut ouvrir ces fichiers.</p>",
                 "_graphic": {
-                    "src": "course/fr/images/odi-8-narrative_large.jpg",
-                    "alt": "Protect our planet",
-                    "title": "Protect our planet",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=261740228&src=lb-35924366",
-                    "*credit":"hbpictures",
-                    "*license":"Shutterstock Standard License"
+                    "src": "course/fr/images/odi-005.jpg",
+                    "alt": "Star 3 - checking openness",
+                    "title": "Star 3 - checking openness",
+                    "*source": "http://www.shutterstock.com/pic.mhtml?id=142601674&src=lb-36497927",
+                    "*credit": "vs148",
+                    "*licence": "Shutterstock open licence"
                 },
-                "strapline": "Protect our planet"
+                "strapline": "Enabling innovation"
             }
         ],
         "_pageLevelProgress": {
         "_isEnabled": true
         }
-    }, {
-        "_id":"c-42",
-        "_parentId":"b-33",
+    },
+    {
+        "_id":"c-52",
+        "_parentId":"b-50",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
@@ -270,150 +215,77 @@
         }
     },
     {
-        "_id":"c-43",
-        "_parentId":"b-33",
+        "_id":"c-53",
+        "_parentId":"b-50",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Êtes-vous prêt(e) pour l’open data ?",
-        "displayTitle":"Êtes-vous prêt(e) pour l’open data ?",
-        "body":"<p>Il y a quatre éléments utiles à prendre en considération quand on pense à ouvrir ses données aux utilisateurs. Saurez-vous vous en souvenir?</p>",
+        "title":"Êtes-vous prêt(e) à évaluer l’ouverture des données ?",
+        "displayTitle":"Êtes-vous prêt(e) à évaluer l’ouverture des données ?",
+        "body":"<p>Il y a trois choses simples à prendre en compte lorsque l’on évalue à quel point des données sont ouvertes. Vous en souvenez-vous ?</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
     },
     {
-        "_id":"c-45",
-        "_parentId":"b-35",
+        "_id":"c-65",
+        "_parentId":"b-60",
         "_type":"component",
         "_component":"graphic",
         "_classes":"illustration",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
+            "alt": "5 stars of open data",
             "title": "",
-            "large": "course/fr/images/odi-9-mcq-image_large.jpg",
-            "medium": "course/fr/images/odi-9-mcq-image_large.jpg",
-            "small": "course/fr/images/odi-9-mcq-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
-            "*license":"Shutterstock Standard License"
+            "large": "course/fr/images/odi-006.jpg",
+            "medium": "course/fr/images/odi-006.jpg",
+            "small": "course/fr/images/odi-006.jpg",
+            "*source": "http://www.shutterstock.com/pic.mhtml?id=171677003&src=lb-36497927",
+            "*credit": "vs148",
+            "*licence": "Shutterstock open licence"
         }
     },
-    {
-        "_id":"c-50",
-        "_parentId":"b-35",
-        "_type":"component",
-        "_component":"mcq",
-        "_classes":"",
-        "_layout":"left",
-        "_attempts":1,
-        "_questionWeight":1,
-        "_isRandom":true,
-        "_selectable":1,
-        "title": "L’open data, c’est quoi ?",
-        "displayTitle": "L’open data, c’est quoi ?",
-        "body": "<p>L’open data, c’est…</p>",
-        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
-        "_items": [
-            {
-                "text": "des informations que l’on vend aux entreprises.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager",
-                "_shouldBeSelected": true
-            },
-            {
-                "text": "des données visibles en ligne.",
-                "_shouldBeSelected": false
-            }
-        ],
-        "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>",
-            "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data, ce sont des données auxquelles tout le monde peut accéder et que tout le monde peut utiliser et partager. Les données ouvertes doivent avoir une licence permettant leur utilisation libre et doivent pouvoir être utilisées à des fins commerciales.</p>"
-            },
-            "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-          }
-        },
-        "_buttons":{
-            "submit":"Valider",
-            "reset":"",
-            "showCorrectAnswer":"",
-            "hideCorrectAnswer":""
-        },
-        "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-        "_id":"c-55",
-        "_parentId":"b-40",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"illustration",
-        "_layout":"left",
-        "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-10-mcq_large.jpg",
-            "medium": "course/fr/images/odi-10-mcq_large.jpg",
-            "small": "course/fr/images/odi-10-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-            "*credit":"Anna Frajtova",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-            "*credit":"Sachezi",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
-            "*license":"Shutterstock Standard License"
-        }
-    },
+    
     {
         "_id":"c-60",
-        "_parentId":"b-40",
+        "_parentId":"b-60",
         "_type":"component",
         "_component":"mcq",
         "_classes":"",
-        "_layout":"right",
+        "_layout":"left",
         "_attempts":1,
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "Qu’entend-on par données ?",
-        "displayTitle": "Qu’entend-on par données ?",
-        "body": "<p>Les données sont...</p>",
+        "title": "Comment évaluer le caractère ouvert d’un ensemble de données grâce aux 5 étoiles ?",
+        "displayTitle": "Comment évaluer le caractère ouvert d’un ensemble de données grâce aux 5 étoiles ?",
+        "body": "<p>Comment procéderiez-vous pour évaluer le caractère ouvert d’un ensemble de données que vous auriez trouvées en ligne ?</p>",
         "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
         "_items": [
             {
-                "text": "des chiffres, des mots, des cartes et des photos.",
+                "text": "En regardant les critères de chaque étoile individuellement et en attribuant l’étoile la plus élevée atteinte par l’ensemble de données.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "des informations en ligne.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "la matière première  de l’information et de la connaissance.",
+                "text": "En commençant par les critères de la première étoile et en évaluant de manière séquentielle selon chaque étoile.",
                 "_shouldBeSelected": true
+            },
+            {
+                "text": "En tentant de deviner",
+                "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>",
+            "correct":"<h5>Vous avez raison !</h5><p>Chaque étoile est attribuée de manière séquentielle; on ne peut pas attribuer une étoile supérieure si les exigences de la précédente ne sont pas satisfaites.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>Les données sont le niveau le plus bas de matières premières duquel on peut retirer des connaissances.</p>"
+                "notFinal": "h5>Êtes vous sûr(e) ?</h5><p>Chaque étoile est attribuée de manière séquentielle; on ne peut pas attribuer une étoile supérieure si les exigences de la précédente ne sont pas satisfaites.</p>",
+                "final": "<h5>Êtes vous sûr(e) ?</h5><p>Chaque étoile est attribuée de manière séquentielle; on ne peut pas attribuer une étoile supérieure si les exigences de la précédente ne sont pas satisfaites.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "<h5>Êtes vous sûr(e) ?</h5><p>On gagne chaque étoile d’une manière séquentielle sans la possibilité de les enlever. </p>",
+                "final": "<h5>Êtes vous sûr(e) ?</h5><p>On gagne chaque étoile d’une manière séquentielle sans la possibilité de les enlever. </p>"
           }
         },
         "_buttons":{
@@ -425,96 +297,28 @@
         "_pageLevelProgress": {
         "_isEnabled": true
       }
-    },
-    {
-        "_id":"c-65",
-        "_parentId":"b-45",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"illustration",
-        "_layout":"right",
-        "_graphic": {
-            "alt": "",
-            "title": "",
-            "large": "course/fr/images/odi-11-mcq_large.jpg",
-            "medium": "course/fr/images/odi-11-mcq_large.jpg",
-            "small": "course/fr/images/odi-11-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
-            "*license":"Shutterstock Standard License"
-        }
     },
     {
         "_id":"c-70",
-        "_parentId":"b-45",
-        "_type":"component",
-        "_component":"mcq",
-        "_classes":"",
-        "_layout":"left",
-        "_attempts":1,
-        "_questionWeight":1,
-        "_isRandom":true,
-        "_selectable":1,
-        "title": "Qu’est ce qui rend les données ouvertes ?",
-        "displayTitle": "Qu’est ce qui rend les données ouvertes ?",
-        "body": "<p>Les données ouvertes doivent...</p>",
-        "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
-        "_items": [
-            {
-                "text": "être libres de toute limite en ce qui concerne leur utilisation.",
-                "_shouldBeSelected": true
-            },
-            {
-                "text": "comporter des limites d’utilisation.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "être publiées de manière sélective et payante.",
-                "_shouldBeSelected": false
-            }
-        ],
-        "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>",
-            "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>S’il y a une quelconque limitation quant à l’utilisation libre des données (par exemple une limitation non-commerciale), celles-ci ne peuvent pas être considérées comme ‘ouvertes’.</p>"
-            },
-            "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-          }
-        },
-        "_buttons":{
-            "submit":"Valider",
-            "reset":"",
-            "showCorrectAnswer":"",
-            "hideCorrectAnswer":""
-        },
-        "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-        "_id":"c-75",
-        "_parentId":"b-50",
+        "_parentId":"b-70",
         "_type":"component",
         "_component":"graphic",
         "_classes":"illustration",
         "_layout":"left",
         "_graphic": {
-            "alt": "",
+            "alt": "Star 2 - checking usability",
             "title": "",
-            "large": "course/fr/images/odi-12-mcq_large.jpg",
-            "medium": "course/fr/images/odi-12-mcq_large.jpg",
-            "small": "course/fr/images/odi-12-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-            "*credit":"Sergey Nivens",
-            "*license":"Shutterstock Standard License"
+            "large": "course/fr/images/odi-007.jpg",
+            "medium": "course/fr/images/odi-007.jpg",
+            "small": "course/fr/images/odi-007.jpg",
+            "*source": "http://www.shutterstock.com/pic.mhtml?id=144334663&src=lb-36497927",
+            "*credit": "vs148",
+            "*licence": "Shutterstock open licence"
         }
     },
     {
-        "_id":"c-80",
-        "_parentId":"b-50",
+        "_id":"c-71",
+        "_parentId":"b-70",
         "_type":"component",
         "_component":"mcq",
         "_classes":"",
@@ -523,33 +327,33 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "Pourquoi a-t-on besoin de l’open data ?",
-        "displayTitle": "Pourquoi a-t-on besoin de l’open data ?",
-        "body": "<p>Quel est le potentiel de l’open data ?</p>",
+        "title": "Que représente la deuxième étoile ?",
+        "displayTitle": "Que représente la deuxième étoile ?",
+        "body": "<p>La deuxième étoile est octroyée pour...</p>",
         "instruction": "<em>Choisissez votre réponse et puis cliquez sur ‘Valider’.</em>",
         "_items": [
             {
-                "text": "Donner accès à d’autres ensembles de données.",
+                "text": "Une licence ouverte",
                 "_shouldBeSelected": false
             },
             {
-                "text": "Rendre les gouvernements plus responsables.",
+                "text": "Une forme ouverte",
                 "_shouldBeSelected": false
             },
             {
-                "text": "Générer de la valeur sociale, environnementale et économique.",
+                "text": "Une forme réutilisable",
                 "_shouldBeSelected": true
             }
         ],
         "_feedback":{
-            "correct":"<h5>Vous avez raison !</h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>",
+            "correct":"<h5>Vous avez raison !</h5><p>La deuxième étoile est accordée en fonction de la facilité à réutiliser des données et recommande que les données soient disponibles sous le format le plus réutilisable qui soit, même s’il s’agit d’un format propriétaire.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>",
-                "final": "<h5>Êtes vous sûr(e) ? </h5><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer les services, de contribuer à la croissance économique et de sauver notre planète.</p>"
+                "notFinal": "<h5>Êtes vous sûr(e) ?</h5><p>La deuxième étoile est accordée en fonction de la facilité à réutiliser des données et recommande que les données soient disponibles sous le format le plus réutilisable qui soit, même s’il s’agit d’un format propriétaire.</p>",
+                "final": "<h5>Êtes vous sûr(e) ?</h5><p>La deuxième étoile est accordée en fonction de la facilité à réutiliser des données et recommande que les données soient disponibles sous le format le plus réutilisable qui soit, même s’il s’agit d’un format propriétaire.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "<h5>Êtes vous sûr(e) ?</h5><p>La deuxième étoile traite de la réutilité des données et recommande que les données soient disponibles sous la forme la plus réutilisable même si la forme n’est pas ouverte ou propriétaire.</p>",
+                "final": "<h5>Êtes vous sûr(e) ?</h5><p>La deuxième étoile traite de la réutilité des données et recommande que les données soient disponibles sous la forme la plus réutilisable même si la forme n’est pas ouverte ou propriétaire.</p>"
           }
         },
         "_buttons":{
@@ -563,66 +367,66 @@
       }
     },
     {
-        "_id":"c-85",
-        "_parentId":"b-55",
+        "_id":"c-115",
+        "_parentId":"b-110",
         "_type":"component",
         "_component":"graphic",
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "",
-            "title": "",
+            "alt": "Summary icon clipboard",
+            "title": "Summary icon clipboard",
             "large": "course/fr/images/summary-icon.png",
             "medium": "course/fr/images/summary-icon.png",
             "small": "course/fr/images/summary-icon.png",
-            "*source":"http://www.shutterstock.com/pic-189810137.html",
-            "*credit":"Kritchanut",
-            "*license":"Shutterstock Standard License"
+            "*source": "http://www.shutterstock.com/pic-189810137.html",
+            "*credit": "Kritchanut",
+            "*licence": "Shutterstock Standard License"
         }
     },
     {
-        "_id":"c-90",
-        "_parentId":"b-55",
+        "_id":"c-110",
+        "_parentId":"b-110",
         "_type":"component",
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Données ouvertes - veni, vidi, vici",
-        "displayTitle":"Données ouvertes - veni, vidi, vici",
-        "body":"<p>Les données ouvertes, ou ‘open data’, sont des données auxquelles n’importe qui peut accéder et que tout le monde peut utiliser et partager.</p><p>Les données ouvertes sont une matière première pour l’ère du numérique mais à la différence du charbon, du bois ou des diamants, elles peuvent être utilisées par n’importe qui et à n’importe quel moment.</p><p>Toute limitation mise en place sur l’usage libre de l’open data en limitera le potentiel d’utilisation.</p><p>L’open data peut transformer l’interaction entre les gouvernements, les entreprises et les individus. Il a le potentiel d’améliorer des services, de contribuer à la croissance économiques et de sauver notre planète.</p><p>Lors du prochain module, nous verrons dans quelle mesure l’open data peut générer de la valeur.</p>",
+        "title":"Évaluer l’open data",
+        "displayTitle":"Évaluer l’open data",
+        "body":"<p>Évaluer l’utilité et l’exploitabilité de l’open data dépend du domaine et du contenu. Pour faciliter ce processus, il existe un certain nombre de directives de pratiques optimales qu’il est recommandé d’appliquer, que l’on publie ou que l’on utilise les données.</p><p>Les directives des cinq étoiles pour le Linked Open Data permettent de mesurer l’intégration des données sur le Web. Les étoiles sont attribuées de manière séquentielle et aucune étoile ne peut être sautée ou omise.<h5>Lors de ce module, nous avons étudié les trois premières étoiles :</h5><ul class='ticks'><li>La licence ouverte</li><li>La forme réutilisable</li><li>La forme ouverte</li></ul><p>Référez-vous au module 13 pour plus de détails sur les deux dernières étoiles.</p>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }
     },
     {
-       "_id":"c-95",
-       "_parentId":"b-55",
+       "_id":"c-111",
+       "_parentId":"b-110",
        "_type":"component",
        "_component":"text",
        "_classes":"separator",
        "_layout":"full"
     },
     {
-        "_id":"c-100",
-        "_parentId":"b-55",
+        "_id":"c-112",
+        "_parentId":"b-110",
         "_type":"component",
         "_component":"graphic",
         "_classes":"footer-logo",
         "_layout":"left",
         "_graphic": {
-            "alt": "",
-            "title": "",
+            "alt": "Open data institute logo",
+            "title": "Open data institute logo",
             "large": "course/fr/images/logo-small.png",
             "medium": "course/fr/images/logo-small.png",
             "small": "course/fr/images/logo-small.png",
-            "*source":"",
-            "*credit":"",
-            "*license":""            
+            "*source": "http://theodi.org",
+            "*credit": "The Open Data Institute",
+            "*licence": "All rights reserved"
         }
     },
     {
-        "_id":"c-105",
-        "_parentId":"b-55",
+        "_id":"c-113",
+        "_parentId":"b-110",
         "_type":"component",
         "_component":"text",
         "_classes":"social-buttons",

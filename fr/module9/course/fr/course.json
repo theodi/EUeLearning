@@ -1,8 +1,8 @@
 {
     "_id": "course",
     "_type": "course",
-    "title": "L’open data, c’est quoi ?",
-    "displayTitle": "L’open data, c’est quoi ?",
+    "title": "Choisir le bon format pour l’open data",
+    "displayTitle": "Choisir le bon format pour l’open data",
     "_buttons": {
         "submit": "Submit",
         "reset": "Reset",
@@ -23,48 +23,24 @@
         "_resourcesItems": [
             {
                 "_type": "link",
-                "title": "David Eaves article",
-                "description": "Take me to David Eaves article",
-                "_link": "http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/"
+                "title": "Italian open data portal",
+                "description": "Lien vers Itaian open data portal",
+                "_link": "http://www.datiopen.it/opendata/Visitatori_musei_pubblici_e_similari_titolo_d_accesso"
             },
             {
                 "_type": "link",
-                "title": "Follow the Money",
-                "description": "Take me to Follow the Money",
-                "_link": "http://followthemoneyng.org/"
+                "title": "Gov.uk business data",
+                "description": "Lien vers Gov.uk business data",
+                "_link": "https://www.gov.uk/browse/business.json"
             },
             {
                 "_type": "link",
-                "title": "Transport for London",
-                "description": "Take me to Transport for London",
-                "_link": "http://www.tfl.gov.uk/"
-            },
-            {
-                "_type": "link",
-                "title": "Thomson Reuters",
-                "description": "Take me to Thomson Reuters",
-                "_link": "http://site.thomsonreuters.com/site/data-identifiers/"
-            },
-            {
-                "_type": "link",
-                "title": "ODI annual report",
-                "description": "Take me to The ODI annual report",
-                "_link": "http://theodi.org/odis-second-year-annual-report"
-            },
-            {
-                "_type": "link",
-                "title": "United Nations news centre",
-                "description": "Take me to the United Nations news centre",
-                "_link": "http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc"
-            },
-            {
-                "_type": "link",
-                "title": "Better Choices Better Deals report",
-                "description": "Take me to Better Choices Better Deals report",
-                "_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf"
+                "title": "iRail API",
+                "description": "Lien vers iRail API",
+                "_link": "https://hello.irail.be/api/1-0/"
             }
         ]
-      },
+    },
     {
         "title": "Modules",
         "description": "Passer à une autre module",
@@ -163,7 +139,7 @@
     },
     {
         "title": "Crédits d'images",
-        "description": "Cliquez sur le bouton pour voir les crédits d'images de ce cours",
+        "description": "Click here to view image credits for this module",
         "_filterButtons": {
             "all": "All",
             "document": "PDF",
@@ -171,55 +147,7 @@
             "link": "Link"
         },
         "_resourcesItems": [
-        {
-        "_type": "link",
-        "title": "What is open data?",
-        "description": "Source: Shutterstock<br\/>Crédit: leromin<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=179384507&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Data in knowledge triangle",
-        "description": "Source: Shutterstock<br\/>Crédit: Anna Frajtova<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=240789808&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Information in knowledge triangle",
-        "description": "Source: Shutterstock<br\/>Crédit: Sachezi<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=217763944&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Knowledge in knowledge triangle",
-        "description": "Source: Shutterstock<br\/>Crédit: Oleksiy Mark<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=250810483&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "What makes data open?",
-        "description": "Source: Shutterstock<br\/>Crédit: Oleksiy Mark<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=154744388&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Transform government",
-        "description": "Source: Shutterstock<br\/>Crédit: hxdyl<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=265940657&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Build new business opportunities",
-        "description": "Source: Shutterstock<br\/>Crédit: Sergey Nivens<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=149924576&src=lb-35924366"
-    },
-    {
-        "_type": "link",
-        "title": "Protect our planet",
-        "description": "Source: Shutterstock<br\/>Crédit: hbpictures<br\/>Licence: Shutterstock Standard License",
-        "_link": "http:\/\/www.shutterstock.com\/pic.mhtml?id=261740228&src=lb-35924366"
-    },
-    {
+            {
         "_type": "link",
         "title": "Summary icon clipboard",
         "description": "Source: Shutterstock<br\/>Crédit: Kritchanut<br\/>Licence: Shutterstock Standard License",
@@ -230,9 +158,9 @@
         "title": "Open data institute logo",
         "description": "Source: The Open Data Institute<br\/>Crédit: The Open Data Institute<br\/>Licence: All rights reserved",
         "_link": "http:\/\/theodi.org"
-    }
-    ]
-    },
+            }	
+	]
+        },
     {
         "title": "les crédits des musiques",
         "description": "Cliquez sur le bouton pour voir les crédits des musique de ce cours",
@@ -267,31 +195,31 @@
                 "description": "<div align='center'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' /></div><br /><span xmlns:dct='http://purl.org/dc/terms/' property='dct:title'>Learning open data</span> by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
                 "_link": "http://creativecommons.org/licenses/by-sa/4.0/"
             },
-        {
+	    {
                 "_type": "link",
                 "title": "Content licence",
                 "description": "The content, including text and structure is available for you to <em>use</em>, <em>reuse</em> and <em>share</em> (including for commercial purposes) subject to the conditions of the license above.",
                 "_link": ""
-        },
-        {
+	    },
+	    {
                 "_type": "link",
                 "title": "Exclusions",
                 "description": "This license does not cover: <ul><li>Logos and trade marks belonging to the Open Data Institute</li><li>Third party content (such as images)</li></ul>",
                 "_link": ""
-        },
-        {
+	    },
+	    {
                 "_type": "link",
                 "title": "Non-endorsement",
                 "description": "This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.",
                 "_link": ""
-        },
-        {
+	    },
+	    {
                 "_type": "link",
                 "title": "No warranty",
                 "description": "The Information is licensed 'as is'. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.",
                 "_link": ""
-        }
-    ]
+	    }
+	]
     }
-   ]
+]
 }

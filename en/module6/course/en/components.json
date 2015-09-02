@@ -15,10 +15,7 @@
             "title": "",
             "large": "",
             "medium": "",
-            "small": "",
-            "*source":"",
-            "*credit":"",
-            "*license":""
+            "small": ""
         }
     },
     {
@@ -28,27 +25,27 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"What is open data?",
-        "displayTitle":"What is open data?",
-        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>. Governments, businesses and individuals can use open data to bring about social, economic and environmental benefits.</p><h5>In this module we’ll explore the following:</h5><ul class='ticks'><li>What is open data?</li><li>What is data?</li><li>What makes data open?</li><li>Why do we need open data?</li></ul>",
+        "title":"Measuring success for open data",
+        "displayTitle":"Measuring success for open data",
+        "body":"<p>Successful open data initiatives do more than simply put data on the web. The most data-savvy organisations also put in place frameworks and policies to support and incentivise innovation. Open data communities need to be built and success stories communicated. Together, these will help more people understand the benefits of open data.</p><h5>In this module we’ll explore the following:</h5><ul class='ticks'><li>Measuring success</li><li>Being demand focused</li><li>Keeping on track</li></ul>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
         }
     },
-    {
+     {
     "_id":"c-11",
     "_parentId":"b-10",
     "_type":"component",
     "_component":"iFrame-vimeo",
     "_classes":"",
     "_layout":"full",
-        "title":"Discovering open data – in 2 minutes",
-        "displayTitle": "Discovering open data – in 2 minutes",
-        "body": "ODI Trainer Dr David Tarrant explains what data is, what makes it open and why we need open data.",
+        "title":"Comparing open data initiatives – in 2 minutes",
+        "displayTitle": "Comparing open data initiatives – in 2 minutes",
+        "body": "ODI International Development Manager Liz Carolan explains key ways to measure the success of open data initiatives, what a demand-focused approach to open data is and how performance indicators add value to open data initiatives.",
         "instruction": "",
         "_setCompletionOn":"ended",
-        "_source": "https://player.vimeo.com/video/129196637",
+        "_source": "https://player.vimeo.com/video/129197044",
         "_width": {
             "_small" : 300,
             "_medium" : 500,
@@ -68,13 +65,13 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "What is open data?",
-            "title": "What is open data?",
-            "large": "course/en/images/odi-1-text-image_large.jpg",
-            "medium": "course/en/images/odi-1-text-image_large.jpg",
-            "small": "course/en/images/odi-1-text-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
+            "alt": "Measuring success",
+            "title": "Measuring success",
+            "large": "course/en/images/odi-1-textimage_large.jpg",
+            "medium": "course/en/images/odi-1-textimage_large.jpg",
+            "small": "course/en/images/odi-1-textimage_large.jpg",
+            "*source":"http://www.shutterstock.com/pic-120780490.html",
+            "*credit":"501room",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -85,9 +82,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"What is open data?",
-        "displayTitle":"What is open data?",
-        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.</p><p>Open data becomes useable through being available in a common, machine-readable format.</p><p>Open data must be licensed. This licence must permit the data to be freely used and allow users to transform, combine and share it with others, even commercially.</p>"
+        "title":"Measuring success",
+        "displayTitle":"Measuring success",
+        "body":"<p>When evaluating the success of an open data initiative, it is important to look beyond the quantity of data published and focus on demand for the data.</p><p>The Open Data Barometer provides a global measure for comparing the progress of countries. It uses three key indicators: readiness, implementation and impact.<br /><a href='http://barometer.opendataresearch.org/' target='_blank'>Take me to the Open Data Barometer</a></p>"
     },
      {
         "_id": "c-25",
@@ -96,49 +93,49 @@
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "From raw material to new information and knowledge",
-        "displayTitle": "From raw material to new information and knowledge",
-        "body": "Without data, we can’t build information.  And without information, there is no new knowledge.",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "title": "Criteria for measuring success",
+        "displayTitle": "Criteria for measuring success",
+        "body": "There are 3 key performance indicators to compare and measure successful open data initiatives. The Open Data Barometer provides further details on all these indicators.",
+        "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
         "_items": [
             {
-                "title": "Data",
-                "body": "<p>Data is the lowest level of raw material from which information and knowledge can be derived.</p><p>Think of data as those locations, images, descriptions, reviews and prices that form the basis of information that can help you plan a holiday, for example.</p>",
+                "title": "Open data readiness",
+                "body": "<p>To what extent is an organisation or country ready to support an open data initiative?</p><ul>The following are important indicators of readiness:<li>Open licences supported</li><li>Policies and procedures established</li><li>Investments made</li><li>Educational support available</li><li>Wider engagement undertaken</li></ul>",
                 "_graphic": {
                     "src": "course/en/images/odi-2-narrative_large.jpg",
-                    "alt": "Data in knowledge triangle",
-                    "title": "Data in knowledge triangle",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-                    "*credit":"Anna Frajtova",
-                    "*license":"Shutterstock Standard License"
+                    "alt": "Readiness",
+                    "title": "Readiness",
+                    "*source":"http://www.shutterstock.com/pic-203239417.html",
+                    "*credit":"Ozerina Anna",
+                    "*license":"Ozerina Anna"
                 },
-                "strapline": "Data"
+                "strapline": "Readiness"
             },
             {
-                "title": "Information",
-                "body": "<p>Data becomes information when it is given a context.</p><p>Following on from the previous example, locations, images, descriptions and prices can all be related to a tourist attraction.</p><p>It is the collection and presentation of the data that forms information.</p>",
+                "title": "Open data implementation",
+                "body": "<p>Data is now as important to our national infrastructure as roads or internet access. For public bodies and governments, there are certain datasets that should be open as a way to support innovation, generate value and grow the economy.</p><p>Commercial organisations should also consider which datasets are most useful to help enhance their business and find new market opportunities.</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-3-narrative_large.jpg",
-                    "alt": "Information in knowledge triangle",
-                    "title": "Information in knowledge triangle",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-                    "*credit":"Sachezi",
+                    "alt": "Implementation",
+                    "title": "Implementation",
+                    "*source":"http://www.shutterstock.com/pic-259560827.html",
+                    "*credit":"JeKh",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Information"
+                "strapline": "Implementation"
             },
             {
-                "title": "Knowledge",
-                "body": "<p>Knowledge is what is derived from information, and personalised for your needs.</p><p>Building knowledge is a process of turning information into choices.</p><p>Building on the previous example, knowing that no one in your family likes theme parks will help you decide which places to avoid on holiday, and which would suit your family better.</p>",
+                "title": "Open data impact",
+                "body": "<p>What are the tangible, real world benefits of the open data for its users?</p><p>Without evidence of impact, communities are less likely to grow around the data and innovation can be less widespread. The following are important indicators of impact:</p><ul><li>Advocacy for open data</li><li>Economic growth driven by open data</li><li>Social and environmental benefits</li></ul>",
                 "_graphic": {
                     "src": "course/en/images/odi-4-narrative_large.jpg",
-                    "alt": "Knowledge in knowledge triangle",
-                    "title": "Knowledge in knowledge triangle",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
+                    "alt": "Impact",
+                    "title": "Impact",
+                    "*source":"http://www.shutterstock.com/pic-173642015.html",
                     "*credit":"Oleksiy Mark",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Knowledge"
+                "strapline": "Impact"
             }
         ],
         "_pageLevelProgress": {
@@ -153,13 +150,13 @@
         "_classes":"",
         "_layout":"right",
         "_graphic": {
-            "alt": "What makes data open?",
-            "title": "What makes data open?",
-            "large": "course/en/images/odi-5-accordion_large.jpg",
-            "medium": "course/en/images/odi-5-accordion_large.jpg",
-            "small": "course/en/images/odi-5-accordion_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
+            "alt": "Focussing on demand",
+            "title": "Focussing on demand",
+            "large": "course/en/images/odi-5-accordian_large.jpg",
+            "medium": "course/en/images/odi-5-accordian_large.jpg",
+            "small": "course/en/images/odi-5-accordian_large.jpg",
+            "*source":"http://www.shutterstock.com/pic-154597898.html",
+            "*credit":"Leone_V",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -170,25 +167,35 @@
       "_component":"accordion",
       "_classes":"",
       "_layout":"left",
-      "title": "What makes data open?",
-      "displayTitle": "What makes data open?",
-      "body": "<p>Data is open if anyone can access, use and share it.<br />There are some simple things to consider when defining openness: </p>",
-      "instruction": "",
+      "title": "Focussing on demand for open data",
+      "displayTitle": "Focussing on demand for open data",
+      "body": "<p>A demand-focused approach prioritises the needs of the data user over the data publisher.</p><p>Demand-focussed open data also enables a range of additional benefits -</p>",
+      "instruction": "<em>Click the headings to explore further.</em>",
       "_items": [
         {
-          "alt": "Limitations",
-          "title": "Limitations",
-          "body": "<p>For data to be open, there should be no limitations that prevent any particular use</p><p>Any user should be free to use, modify, combine and share the data, even commercially</p>"
+          "alt": "Open data as an educator",
+          "title": "Open data as an educator",
+          "body": "<p>Data, not just open data, is now a core aspect of many people’s jobs. However, not everyone has the skills required to manage, clean and interpret data.</p><p>Open data creates opportunities to increase the level of data literacy in the workforce by raising public awareness of data skills.</p>"
         },
         {
-          "alt": "Cost",
-          "title": "Cost",
-          "body": "<p>Even though open data must be free to use, this does not mean that it must be free to access.</p><p>There is often a cost in creating, maintaining and publishing useable data.</p><p>Ideally, any fee for open data should be no more than the reasonable reproduction cost of the unit of data that is requested.</p><p>This reproduction cost tends to be negligible for many datasets.</p><p>Live data and big data can incur ongoing costs related to reliable service provision.</p>"
+          "alt": "Enabling innovation with open data",
+          "title": "Enabling innovation with open data",
+          "body": "<p>Open data is a key enabler of open innovation.</p><p>Opening data can encourage people within an organisation to communicate with each other and with external groups.</p><p>Plume Labs, a French startup, combined open data on air quality with advanced monitoring and visualisations to provide the latest air pollution indicators for 18 European cities<br /><a href='https://www.plumelabs.com/' target='_blank'>Take me to Plume Labs.</a></p>"
         },
         {
-          "alt": "Reuse",
-          "title": "Reuse",
-          "body": "<p>Once the user has the data, they are free to use, reuse and redistribute it – even commercially.</p><p>Open data is measured by what it can be used for, not by how it is made available.</p><p>Aspects like format, structure and machine readability all make data more usable, and should all be carefully considered.</p><p>However, these do not make the data more open.</p>"
+          "alt": "Enhancing business with open data",
+          "title": "Enhancing business with open data",
+          "body": "<p>For businesses, opening data can improve relationships with consumers and open up new customer channels.</p><p>Thomson Reuters has opened up its identifiers data to make the data it holds discoverable, easy to access and use.<br /><a href='http://site.thomsonreuters.com/site/data-identifiers/' target='_blank'>Take me to Thomson Reuters site</a></p>"
+        },
+        {
+          "alt": "Open data as an agent of change",
+          "title": "Open data as an agent of change",
+          "body": "<p>Open data has the ability to bring about change within societies.</p><p>For example, the Swiss government found that opening up their transport safety data gave people greater clarity about accidents. The mapping of this information gives people a more interactive way to engage with the data.<br /><a href='http://unfallkarte.ch/en/' target='_blank'>Take me to the Swiss crash map</a></p>"
+        },
+        {
+          "alt": "Open data as a community supporter",
+          "title": "Open data as a community supporter",
+          "body": "<p>Open data helps communities communicate with each other better.</p><p>mySociety created FixMyStreet, which allows residents to share problems with their local area as open data and create shared solutions.<br /><a href='https://www.fixmystreet.com/' target='_blank'>Take me to FixMyStreet programme.</a></p>"
         }
       ],
       "_pageLevelProgress": {
@@ -202,49 +209,36 @@
         "_type":"component",
         "_layout": "full",
         "_component": "narrative",
-        "title": "Why do we need open data?",
-        "displayTitle": "Why do we need open data?",
-        "body": "Open data has the power to bring diverse benefits to governments, businesses and civil society.",
+        "title": "Keeping on track",
+        "displayTitle": "Keeping on track",
+        "body": "Key performance indicators help keep open data initiatives on track.",
         "instruction": "<em class='desktop-instruction'>Click the forward arrow to see more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
         "_items": [
             {
-                "title": "Transform government",
-                "body": "<p>Open data helps make governments more transparent. It can provide the evidence that public money is being well spent and policies are being implemented.</p><p>For example, according to leading open government activist David Eaves, open data allowed citizens in Canada to save the government $3.2 billion in fraudulent charitable donations in 2010.<br /><a href='http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/' target='_blank'>Take me to David Eaves article</a></p><p>In another example, according to Follow the Money, in Nigeria, the same process is used to ensure that public funds are spent implementing the policies promised to the people.<br /><a href='http://followthemoneyng.org/' target='_blank'>Take me to Follow the Money</a></p>",
+                "title": "Managing progress",
+                "body": "<p>Key Performance Indicators (KPIs) help to manage the process of open data initiatives.</p><p>KPIs should be set to measure open data readiness, implementation and impact.</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-6-narrative_large.jpg",
-                    "alt": "Transform government",
-                    "title": "Transform government",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=265940657&src=lb-35924366",
-                    "*credit":"hxdyl",
+                    "alt": "Process management",
+                    "title": "Process management",
+                    "*source":"http://www.shutterstock.com/pic-174926546.html",
+                    "*credit":"Ieromin",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Transform government"
+                "strapline": "Process management"
             },
             {
-                "title": "Build new business opportunities",
-                "body": "<p>Open data is opening up new opportunities for businesses to connect to customers.</p><p>Transport for London has released open data that developers have used to build over 800 transport apps.<br /><a href='http://www.tfl.gov.uk/' target='_blank'>Take me to Transport for London</a></p><p>Thomson Reuters is using open data to connect better with existing customers in order to provide better services.<br /><a href='http://site.thomsonreuters.com/site/data-identifiers/' target='_blank'>Take me to Thomson Reuters</a></p><p>TThe ODI Startup programme now has over 70 employees with income over £4m.<br /><a href='http://theodi.org/odis-second-year-annual-report' target='_blank'>Take me to The ODI annual report</a></p>",
+                "title": "Staying user-focused",
+                "body": "<p>The most successful open data initiatives focus on all Key Performance Indicators (KPIs) at the same time.</p><p>It is best to avoid delaying engagement with users by getting policy and supply ‘right’ from the outset.</p><p>Successful initiatives focus on users first to build communities, educate and streamline supply so that even imperfect open data can get into the hands of users quickly, to maximise its value.</p><p>Sweden has an established open data programme with strong process management and user focus.<br /><a href='(http://theodi.github.io/open-data-barometer-viz/' target='_blank'>Take me to the Swedish open data barometer results</a></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-7-narrative_large.jpg",
-                    "alt": "Build new business opportunities",
-                    "title": "Build new business opportunities",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-                    "*credit":"Sergey Nivens",
+                    "alt": "User focused",
+                    "title": "User focused",
+                    "*source":"http://www.shutterstock.com/pic-223607656.html",
+                    "*credit":"Studio_G",
                     "*license":"Shutterstock Standard License"
                 },
-                "strapline": "Build new business opportunities"
-            },
-            {
-                "title": "Protect our planet",
-                "body": "<p>The web has become a core part of our infrastructure and open data will build on this.</p><p>Open data on weather can provide an early warning system for environmental disasters, for example.<br /><a href='http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc' target='_blank'>Take me to the United Nations news centre</a></p><p>Open data is also helping consumers to understand their personal impact on the environment and take steps to improve it.<br /><a href='https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf' target='_blank'>Take me to Better Choices Better Deals report.</a></p>",
-                "_graphic": {
-                    "src": "course/en/images/odi-8-narrative_large.jpg",
-                    "alt": "Protect our planet",
-                    "title": "Protect our planet",
-                    "*source":"http://www.shutterstock.com/pic.mhtml?id=261740228&src=lb-35924366",
-                    "*credit":"hbpictures",
-                    "*license":"Shutterstock Standard License"
-                },
-                "strapline": "Protect our planet"
+                "strapline": "User focused"
             }
         ],
         "_pageLevelProgress": {
@@ -276,9 +270,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Are you ready for open data?",
-        "displayTitle":"Are you ready for open data?",
-        "body":"<p>There are four helpful things to remember when thinking about opening your data for users, can you remember them?</p>",
+        "title":"Are you ready for open data success?",
+        "displayTitle":"Are you ready for open data success?",
+        "body":"<p>Can you recall the key indicators of a successful open data initiative?</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -292,13 +286,13 @@
         "_classes":"illustration",
         "_layout":"right",
         "_graphic": {
-            "alt": "What is open data",
+            "alt": "Measures of success",
             "title": "",
-            "large": "course/en/images/odi-9-mcq-image_large.jpg",
-            "medium": "course/en/images/odi-9-mcq-image_large.jpg",
-            "small": "course/en/images/odi-9-mcq-image_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=179384507&src=lb-35924366",
-            "*credit":"leromin",
+            "large": "course/en/images/odi-8-textimage_large.jpg",
+            "medium": "course/en/images/odi-8-textimage_large.jpg",
+            "small": "course/en/images/odi-8-textimage_large.jpg",
+            "*source":"http://www.shutterstock.com/pic-120780490.html",
+            "*credit":"501room",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -313,29 +307,29 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "What is open data?",
-        "displayTitle": "What is open data?",
-        "body": "<p>Open data is...</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "title": "Measures of success",
+        "displayTitle": "Measures of success",
+        "body": "<p>The 3 key criteria for comparing and measuring successful open data initiatives are...</p>",
+        "instruction": "<em>Select an option, then click 'Submit'.</em>",
         "_items": [
             {
-                "text": "information that we sell to businesses.",
+                "text": "validity, openness and usefulness.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "data that anyone can access, use and share.",
+                "text": "readiness, implementation and impact.",
                 "_shouldBeSelected": true
             },
             {
-                "text": "data that is visible on the web.",
+                "text": "relevance, functionality and consistency.",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p><strong>Open data</strong> is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.<br />Open data must also be licenced to allow free usage and be available for commercial use.</p>",
+            "correct":"<h5>That’s right!</h5><p>The capacity to implement a successful initiative and derive benefits from it, which important data is available and what variety and type of new value is being created.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p><strong>Open data</strong> is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.<br />Open data must also be licenced to allow free usage and must also be available for commercial use.</p></p>",
-                "final": "<h5>Are you sure about that?</h5><p><p><strong>Open data</strong> is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.<br />Open data must also be licenced to allow free usage and must also be available for commercial use.</p></p>"
+                "notFinal": "<h5>That’s right!</h5><p>The capacity to implement a successful initiative and derive benefits from it, which important data is available and what variety and type of new value is being created.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>That’s right!</h5><p>The capacity to implement a successful initiative and derive benefits from it, which important data is available and what variety and type of new value is being created.</p>"
             },
             "_partlyCorrect": {
                 "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -360,19 +354,13 @@
         "_classes":"illustration",
         "_layout":"left",
         "_graphic": {
-            "alt": "Data, information, knowledge tiangle",
+            "alt": "Focussing on demand",
             "title": "",
-            "large": "course/en/images/odi-10-mcq_large.jpg",
-            "medium": "course/en/images/odi-10-mcq_large.jpg",
-            "small": "course/en/images/odi-10-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366",
-            "*credit":"Anna Frajtova",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=217763944&src=lb-35924366",
-            "*credit":"Sachezi",
-            "*license":"Shutterstock Standard License",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
+            "large": "course/en/images/odi-9-mcq_large.jpg",
+            "medium": "course/en/images/odi-9-mcq_large.jpg",
+            "small": "course/en/images/odi-9-mcq_large.jpg",
+            "*source":"http://www.shutterstock.com/pic-203239417.html",
+            "*credit":"Ozerina Anna",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -386,34 +374,42 @@
         "_attempts":1,
         "_questionWeight":1,
         "_isRandom":true,
-        "_selectable":1,
-        "title": "What is data?",
-        "displayTitle": "What is data?",
-        "body": "<p>Data is...</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "_selectable":3,
+        "title": "Focussing on demand",
+        "displayTitle": "Focussing on demand",
+        "body": "<p>What are three indicators of a demand-focussed approach to open data?</p>",
+        "instruction": "<em>Select three answers, then click 'Submit'</em>",
         "_items": [
             {
-                "text": "numbers, words, maps and photos.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "information posted on the web.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "the raw material of information and knowledge.",
+                "text": "Open data as an educator.",
                 "_shouldBeSelected": true
+            },
+            {
+                "text": "Open data as an innovation enabler.",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Large quantities of data.",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Open data as a community supporter.",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Enabling a big data agenda.",
+                "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>",
+            "correct":"<h5>That’s right!</h5><p>A demand-focused approach improves data literacy, enable innovation and support communities.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>"
+                "notFinal": "<h5>Are you sure about that?</h5><p>A demand-focused approach improves data literacy, enable innovation and support communities.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>A demand-focused approach improves data literacy, enable innovation and support communities.</p>"
             },
             "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "notFinal": "<h5>Are you sure about that?</h5><p>A demand-focused approach improves data literacy, enable innovation and support communities.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>A demand-focused approach improves data literacy, enable innovation and support communities.</p>"
           }
         },
         "_buttons":{
@@ -434,13 +430,13 @@
         "_classes":"illustration",
         "_layout":"right",
         "_graphic": {
-            "alt": "What makes data open?",
+            "alt": "Keeping on track",
             "title": "",
-            "large": "course/en/images/odi-11-mcq_large.jpg",
-            "medium": "course/en/images/odi-11-mcq_large.jpg",
-            "small": "course/en/images/odi-11-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366",
-            "*credit":"Oleksiy Mark",
+            "large": "course/en/images/odi-10-accordian_large.jpg",
+            "medium": "course/en/images/odi-10-accordian_large.jpg",
+            "small": "course/en/images/odi-10-accordian_large.jpg",
+            "*source":"http://www.shutterstock.com/pic-154597898.html",
+            "*credit":"Leone_V",
             "*license":"Shutterstock Standard License"
         }
     },
@@ -455,97 +451,29 @@
         "_questionWeight":1,
         "_isRandom":true,
         "_selectable":1,
-        "title": "What makes data open?",
-        "displayTitle": "What makes data open?",
-        "body": "<p>Open data should be...</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
+        "title": "Keeping on track",
+        "displayTitle": "Keeping on track",
+        "body": "<p>Key performance indicators (KPIs) are a good method of...</p>",
+        "instruction": "<em>Select an option, then click 'Submit'.</em>",
         "_items": [
             {
-                "text": "free of restrictions for its use.",
+                "text": "maintaining a balance between supply, demand and usage.",
                 "_shouldBeSelected": true
             },
             {
-                "text": "restricted in its use.",
+                "text": "calculating the size of datasets.",
                 "_shouldBeSelected": false
             },
             {
-                "text": "selectively released for a fee.",
+                "text": "hitting milestones in the process.",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>",
+            "correct":"<h5>That’s right!</h5><p>KPIs are a great way to maintain the balance between the supply and demand side of an open data initiative.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>"
-            },
-            "_partlyCorrect": {
-                "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-                "final": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-          }
-        },
-        "_buttons":{
-            "submit":"",
-            "reset":"",
-            "showCorrectAnswer":"",
-            "hideCorrectAnswer":""
-        },
-        "_pageLevelProgress": {
-        "_isEnabled": true
-      }
-    },
-    {
-        "_id":"c-75",
-        "_parentId":"b-50",
-        "_type":"component",
-        "_component":"graphic",
-        "_classes":"illustration",
-        "_layout":"left",
-        "_graphic": {
-            "alt": "Why do we need open data?",
-            "title": "",
-            "large": "course/en/images/odi-12-mcq_large.jpg",
-            "medium": "course/en/images/odi-12-mcq_large.jpg",
-            "small": "course/en/images/odi-12-mcq_large.jpg",
-            "*source":"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366",
-            "*credit":"Sergey Nivens",
-            "*license":"Shutterstock Standard License"
-        }
-    },
-    {
-        "_id":"c-80",
-        "_parentId":"b-50",
-        "_type":"component",
-        "_component":"mcq",
-        "_classes":"",
-        "_layout":"right",
-        "_attempts":1,
-        "_questionWeight":1,
-        "_isRandom":true,
-        "_selectable":1,
-        "title": "Why do we need open data?",
-        "displayTitle": "Why do we need open data?",
-        "body": "<p>What does open data have the power to do?</p>",
-        "instruction": "<em>Choose your answer, then click 'Submit'.</em>",
-        "_items": [
-            {
-                "text": "give access to other datasets.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "make governments accountable.",
-                "_shouldBeSelected": false
-            },
-            {
-                "text": "open data can unlock social, environmental and economic value.",
-                "_shouldBeSelected": true
-            }
-        ],
-        "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>Open data can transform interaction between governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p>",
-            "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>Open data can transform interaction between governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>Open data can transform interaction between governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p>"
+                "notFinal": "<h5>Are you sure about that?</h5><p>KPIs are a great way to maintain the balance between the supply and demand side of an open data initiative.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>KPIs are a great way to maintain the balance between the supply and demand side of an open data initiative.</p>"
             },
             "_partlyCorrect": {
                 "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -572,9 +500,9 @@
         "_graphic": {
             "alt": "Summary icon clipboard",
             "title": "Summary icon clipboard",
-            "large": "course/en/images/summary-icon.png",
-            "medium": "course/en/images/summary-icon.png",
-            "small": "course/en/images/summary-icon.png",
+            "large": "course/en/images/odi-footer.png",
+            "medium": "course/en/images/odi-footer.png",
+            "small": "course/en/images/odi-footer.png",
             "*source":"http://www.shutterstock.com/pic-189810137.html",
             "*credit":"Kritchanut",
             "*license":"Shutterstock Standard License"
@@ -587,9 +515,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"Open data - veni, vidi, vici",
-        "displayTitle":"Open data - veni, vidi, vici",
-        "body":"<p>Open data is <strong>data</strong> that <strong>anyone</strong> can <strong>access</strong>, <strong>use</strong> and <strong>share</strong>.</p><p>Open data is a raw material for the digital age but, unlike coal, timber or diamonds, it can be used by anyone and everyone at the same time.</p><p>Any restrictions imposed on the use of open data will limit its use in creating new value.</p><p>Open data can bring diverse benefits to governments, businesses and individuals. It has the power to improve services, grow economies and save our planet.</p><p>In the next module, we will explore how value is unlocked in open data.</p>",
+        "title":"Comparing and measuring success",
+        "displayTitle":"Comparing and measuring success",
+        "body":"<p>When comparing and measuring open data initiatives, it is important to use a broad framework and focus on demand.</p><p>These methods help your initiative to stay on track and emulate the success of other open data initiatives.</p><p>KPIs also help drive the changes organisations require to be an effective participant in the open data community.</p><p>In the next module, we explore how to find sustainable sources of open data.</p>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }
