@@ -1,10 +1,4 @@
 var api_url = "https://odi-elearning.herokuapp.com/";
-if (!localStorage.getItem("_id")) {
-  	$.get( api_url + "create_id.php", function( data ) {
-  		window.localStorage.setItem("_id",data);
-	});
-}
-
 var moduleId = "";
 var lang = ""
 $.getJSON("course/config.json",function(data) {
@@ -67,6 +61,7 @@ function updateRemote() {
            data: send,
            success: function(ret) {
 		d = new Date();
+    		localStorage.setItem("ODI_lastSave",d.toString());
     		localStorage.setItem(moduleId+"_lastSave",d.toString());
     		if (flag) { setSaveClass('cloud_success'); }
 	   },
@@ -86,11 +81,25 @@ function fetchRemote() {
 	return $.getJSON( url , function() {
 	})
 	.done(function(data) {
-		localStorage.clear;
-		$.each(data, function(key, value) {
-    			localStorage.setItem(key,value);
-		});
-		window.location.href=location.protocol + '//' + location.host + location.pathname;
+		var update = false;
+		if (localStorage.getItem("_id") != id) {
+			localStorage.clear();
+			update = true;
+			console.log("new data from remote");
+		} else {
+			lastGlobalSave = data["ODI_lastSave"];
+			localSave = localStorage.getItem("ODI_lastSave");
+			if (lastGlobalSave > localSave) {
+				update = true;
+				console.log("Updating data from remote");
+			}
+		}
+		if (update) {
+			$.each(data, function(key, value) {
+				localStorage.setItem(key,value);
+			});
+			window.location.href=location.protocol + '//' + location.host + location.pathname;
+		}
 	})
 	.fail(function() {
 		console.log("Failed to load data");
@@ -151,10 +160,6 @@ var QueryString = function () {
     return query_string;
 }();
 
-id = QueryString.id;
-fetchRemote();
-
-
 var API = {
 	LMSInitialize: function() {
 		this.data = {};
@@ -197,4 +202,17 @@ var API = {
 	LMSGetDiagnostic: function() {
 		return "Fake diagnostic information."
 	}
+}
+
+id = QueryString.id;
+if (typeof id != "undefined") {
+	fetchRemote();
+}
+if (!localStorage.getItem("_id")) {
+  	$.get( api_url + "create_id.php", function( data ) {
+  		window.localStorage.setItem("_id",data);
+	});
+} else {
+	id = localStorage.getItem("_id");
+	fetchRemote();
 }
