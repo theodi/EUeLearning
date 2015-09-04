@@ -1,0 +1,19 @@
+<script type="text/javascript">
+function processLang(userLang) {
+	if (userLang.indexOf('en') > -1) {
+		window.location.href = 'en';
+	} else if (userLang.indexOf('fr') > -1) {
+		window.location.href = 'fr';
+	} else {
+		window.location.href = 'en';
+	}
+}
+	var userLang = localStorage.getItem("lang");
+	console.log(userLang);
+	if (userLang == "en" || userLang == "fr") {
+		processLang(userLang);
+	} else {
+		userLang = navigator.language || navigator.userLanguage; 
+		processLang(userLang);
+	}
+</script>
