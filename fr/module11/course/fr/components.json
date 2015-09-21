@@ -254,7 +254,7 @@
             },
             {
                 "title": "Découvrir de nouvelles informations",
-                "body": "<p>Plusieurs outils de nettoyage de données comme Open Refine permettent de combiner et d’enrichir des ensembles de données.</p><p>Sans un ensemble de données propres, ce processus est inutile.</p><p>Une préparation minutieuse est essentielle à la réussite de tout projet centré sur des données.</p>",
+                "body": "<p>Plusieurs outils de nettoyage de données comme Open Refine permettent de combiner et d’enrichir des ensembles de données ceci peut permettre de découvrir de précieuses nouvelles informations.<p></p> Ainsi, enrichir un ensemble de données faisant référence à des entreprises (en les nommant, par exemple) peut vous permettre de savoir si cette entreprise existe toujours et d’en connaitre la position financière actuelle.</p><p><a class='course_link' href='http://training.theodi.org/resources/odt/Enrichingdata.pdf' target='_blank'>commencer enrichir un ensemble de données</a></p>",
                 "_graphic": {
                     "src": "course/fr/images/odi-008.jpg",
                     "alt": "Discover insights",
@@ -298,7 +298,7 @@
         "_layout":"left",
         "title":"Êtes-vous prêt(e) pour l’open data de qualité ?",
         "displayTitle":"Êtes-vous prêt(e) pour l’open data de qualité ?",
-        "body":"<p>Saurez-vous nommer les exigences pratiques, techniques, légales et sociales pour qu’un ensemble de données soit utile ?</p>",
+        "body":"<p>Saurez-vous lister les raison pour lesquelles les données doivent être nettoyées, quels outils utiliser et quelles sont les erreurs les plus courantes dans des ensembles de données?</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -611,7 +611,7 @@
         "_layout":"left",
         "title":"Le nettoyage des données",
         "displayTitle":"Le nettoyage des données",
-        "body":"<p>Le nettoyage des données est essentiel pour garantir que les bonnes conclusions sont tirées à partir des données.</p><p>Ceux qui publient les données ne remarquent pas toujours les erreurs parce que les données changent au fil des années. Dans d’autres cas, les erreurs sont humaines et résultent de la mauvaise saisie de données (fautes de frappe ou fausses abréviations par exemple).</p><p>Notez que le nettoyage des données risque de prendre plus de temps que vous ne pensez. Un processus de nettoyage minutieux vous fera gagner du temps sur le long terme.</p><p>Complétez notre exercice de nettoyage de données pour découvrir Open Refine et constatez par vous-même à quel point ce programme est facile à utiliser.</p><p><a class='course_link' href='http://training.theodi.org/resources/Cleaning_Exercise.pdf' target='_blank'>Découvrez le nettoyage des données avec Open Refine</a>",
+        "body":"<p>Le nettoyage des données est essentiel pour garantir que les bonnes conclusions sont tirées à partir des données.</p><p>Ceux qui publient les données ne remarquent pas toujours les erreurs parce que les données changent au fil des années. Dans d’autres cas, les erreurs sont humaines et résultent de la mauvaise saisie de données (fautes de frappe ou fausses abréviations par exemple).</p><p>Notez que le nettoyage des données risque de prendre plus de temps que vous ne pensez. Un processus de nettoyage minutieux vous fera gagner du temps sur le long terme.</p><p>Complétez notre exercice de nettoyage de données pour découvrir Open Refine et constatez par vous-même à quel point ce programme est facile à utiliser.</p><p><a class='course_link' href='http://training.theodi.org/resources/Cleaning_Exercise.pdf' target='_blank'>Découvrez le nettoyage des données avec Open Refine</a></p><p><a class='course_link' href='module12/'>Prochain module</a></p><p><a class='course_link' href='index.html'>Menu principal</a></p>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }
