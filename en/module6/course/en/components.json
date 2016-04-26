@@ -27,7 +27,7 @@
         "_layout":"left",
         "title":"Measuring success for open data",
         "displayTitle":"Measuring success for open data",
-        "body":"<p>Successful open data initiatives do more than simply put data on the web. The most data-savvy organisations also put in place frameworks and policies to support and incentivise innovation. Open data communities need to be built and success stories communicated. Together, these will help more people understand the benefits of open data.</p><h5>In this module we’ll explore the following:</h5><ul class='ticks'><li>Measuring success</li><li>Being demand focused</li><li>Keeping on track</li></ul>",
+        "body":"<p>Successful open data initiatives do more than simply put data on the Web. The most data-savvy organisations also put in place frameworks and policies to support and incentivise innovation. Open data communities need to be built and success stories communicated. Together, these will help more people understand the benefits of open data.</p><h5>In this module we’ll explore the following:</h5><ul class='ticks'><li>Measuring success</li><li>Being demand-focused</li><li>Keeping on track</li></ul>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
@@ -50,11 +50,6 @@
 		"mp4": "course/en/video/video.mp4",
 		"poster": "course/en/video/placeholder.jpg"
 	},
-	"_width": {
-            "_small" : 300,
-            "_medium" : 500,
-            "_large" : 905
-        },
         "_height": {
             "_small" : 250,
             "_medium" : 350,
@@ -88,7 +83,7 @@
         "_layout":"left",
         "title":"Measuring success",
         "displayTitle":"Measuring success",
-        "body":"<p>When evaluating the success of an open data initiative, it is important to look beyond the quantity of data published and focus on demand for the data.</p><p>The Open Data Barometer provides a global measure for comparing the progress of countries. It uses three key indicators: readiness, implementation and impact.<br /><a href='http://barometer.opendataresearch.org/' target='_blank'>Take me to the Open Data Barometer</a></p>"
+        "body":"<p>When evaluating the success of an open data initiative, it is important to look beyond the quantity of data published and focus on demand for the data.</p><p>The Open Data Barometer provides a global measure for comparing countries' progress. It uses three key indicators: readiness, implementation and impact.<br /><a href='http://barometer.opendataresearch.org/' target='_blank'>Take me to the Open Data Barometer</a></p>"
     },
      {
         "_id": "c-25",
@@ -99,7 +94,7 @@
         "_component": "narrative",
         "title": "Criteria for measuring success",
         "displayTitle": "Criteria for measuring success",
-        "body": "There are 3 key performance indicators to compare and measure successful open data initiatives. The Open Data Barometer provides further details on all these indicators.",
+        "body": "There are three key performance indicators to compare and measure successful open data initiatives. The Open Data Barometer provides further details on all these indicators.",
         "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
         "_items": [
             {
@@ -117,7 +112,7 @@
             },
             {
                 "title": "Open data implementation",
-                "body": "<p>Data is now as important to our national infrastructure as roads or internet access. For public bodies and governments, there are certain datasets that should be open as a way to support innovation, generate value and grow the economy.</p><p>Commercial organisations should also consider which datasets are most useful to help enhance their business and find new market opportunities.</p>",
+                "body": "<p>Data is now as important to our national infrastructure as roads or internet access. For public bodies and governments, there are certain datasets that should be open as a way to support innovation, generate value and grow the economy.</p><p>Commercial organisations should also consider which datasets could be most useful to enhancing their business and finding new market opportunities.</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-3-narrative_large.jpg",
                     "alt": "Implementation",
@@ -130,7 +125,7 @@
             },
             {
                 "title": "Open data impact",
-                "body": "<p>What are the tangible, real world benefits of the open data for its users?</p><p>Without evidence of impact, communities are less likely to grow around the data and innovation can be less widespread. The following are important indicators of impact:</p><ul><li>Increasing efficiency and transparency of government</li><li>Economic growth driven by open data</li><li>Social and environmental benefits</li></ul>",
+                "body": "<p>What are the tangible, real-world benefits of the open data for users?</p><p>Without evidence of impact, communities are less likely to grow around the data and innovation can be less widespread. The following are important indicators of impact:</p><ul><li>Increasing efficiency and transparency of government</li><li>Economic growth driven by open data</li><li>Social and environmental benefits</li></ul>",
                 "_graphic": {
                     "src": "course/en/images/odi-4-narrative_large.jpg",
                     "alt": "Impact",
@@ -184,7 +179,7 @@
         {
           "alt": "Enabling innovation with open data",
           "title": "Enabling innovation with open data",
-          "body": "<p>Open data is a key enabler of open innovation.</p><p>Opening data can encourage people within an organisation to communicate with each other and with external groups.</p><p>Plume Labs, a French startup, combined open data on air quality with advanced monitoring and visualisations to provide the latest air pollution indicators for 18 European cities<br /><a href='https://www.plumelabs.com/' target='_blank'>Take me to Plume Labs.</a></p>"
+          "body": "<p>Open data is a key enabler of open innovation.</p><p>Opening data can encourage people within an organisation to communicate with each other and with external groups.</p><p>Plume Labs, a French startup, combined open data on air quality with advanced monitoring and visualisations to provide the latest air pollution indicators for 18 European cities<br /><a href='https://www.plumelabs.com/' target='_blank'>Take me to Plume Labs</a></p>"
         },
         {
           "alt": "Enhancing business with open data",
@@ -194,12 +189,12 @@
         {
           "alt": "Open data as an agent of change",
           "title": "Open data as an agent of change",
-          "body": "<p>Open data has the ability to bring about change within societies.</p><p>For example, the Swiss government found that opening up their transport safety data gave people greater clarity about accidents. The mapping of this information gives people a more interactive way to engage with the data.<br /><a href='http://unfallkarte.ch/en/' target='_blank'>Take me to the Swiss crash map</a></p>"
+          "body": "<p>Open data has the ability to bring about change within societies.</p><p>For example, the Swiss government found that opening up their transport safety data gave people greater clarity around accidents. The mapping of this information gives people a more interactive way to engage with the data.<br /><a href='http://unfallkarte.ch/en/' target='_blank'>Take me to the Swiss crash map</a></p>"
         },
         {
           "alt": "Open data as a community supporter",
           "title": "Open data as a community supporter",
-          "body": "<p>Open data helps communities communicate with each other better.</p><p>mySociety created FixMyStreet, which allows residents to share problems with their local area as open data and create shared solutions.<br /><a href='https://www.fixmystreet.com/' target='_blank'>Take me to FixMyStreet programme.</a></p>"
+          "body": "<p>Open data helps communities to communicate with each other.</p><p>mySociety created FixMyStreet, which allows residents to share problems with their local area as open data and create shared solutions.<br /><a href='https://www.fixmystreet.com/' target='_blank'>Take me to FixMyStreet programme</a></p>"
         }
       ],
       "_pageLevelProgress": {
@@ -314,26 +309,26 @@
         "title": "Measures of success",
         "displayTitle": "Measures of success",
         "body": "<p>The 3 key criteria for comparing and measuring successful open data initiatives are...</p>",
-        "instruction": "<em>Select an option, then click 'Submit'.</em>",
+        "instruction": "<em>Choose your answer, then click 'Submit'</em>",
         "_items": [
             {
-                "text": "validity, openness and usefulness.",
+                "text": "validity, openness and usefulness",
                 "_shouldBeSelected": false
             },
             {
-                "text": "readiness, implementation and impact.",
+                "text": "readiness, implementation and impact",
                 "_shouldBeSelected": true
             },
             {
-                "text": "relevance, functionality and consistency.",
+                "text": "relevance, functionality and consistency",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>The capacity to implement a successful initiative and derive benefits from it, which important data is available and what variety and type of new value is being created.</p>",
+            "correct":"<h5>That’s right!</h5><p>The 3 key criteria for comparing and measuring successful open data initiatives are the capacity to implement a successful initiative and derive benefits from it, which important data is available and what variety and type of new value is being created.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>The capacity to implement a successful initiative and derive benefits from it, which important data is available and what variety and type of new value is being created.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>The capacity to implement a successful initiative and derive benefits from it, which important data is available and what variety and type of new value is being created.</p>"
+                "notFinal": "<h5>Are you sure about that?</h5><p>The 3 key criteria for comparing and measuring successful open data initiatives are the capacity to implement a successful initiative and derive benefits from it, which important data is available and what variety and type of new value is being created.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>The 3 key criteria for comparing and measuring successful open data initiatives are the capacity to implement a successful initiative and derive benefits from it, which important data is available and what variety and type of new value is being created.</p>"
             },
             "_partlyCorrect": {
                 "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -382,18 +377,18 @@
         "title": "Focussing on demand",
         "displayTitle": "Focussing on demand",
         "body": "<p>What are three indicators of a demand-focussed approach to open data?</p>",
-        "instruction": "<em>Select three answers, then click 'Submit'</em>",
+        "instruction": "<em>Choose three answers, then click 'Submit'</em>",
         "_items": [
             {
-                "text": "Open data as an educator.",
+                "text": "Open data as an educator",
                 "_shouldBeSelected": true
             },
             {
-                "text": "Open data as an innovation enabler.",
+                "text": "Open data as an innovation enabler",
                 "_shouldBeSelected": true
             },
             {
-                "text": "Large quantities of data.",
+                "text": "Large quantities of data",
                 "_shouldBeSelected": false
             },
             {
@@ -458,26 +453,26 @@
         "title": "Keeping on track",
         "displayTitle": "Keeping on track",
         "body": "<p>Key performance indicators (KPIs) are a good method of...</p>",
-        "instruction": "<em>Select an option, then click 'Submit'.</em>",
+        "instruction": "<em>Select an option, then click 'Submit'</em>",
         "_items": [
             {
-                "text": "maintaining a balance between supply, demand and usage.",
+                "text": "maintaining a balance between supply, demand and usage",
                 "_shouldBeSelected": true
             },
             {
-                "text": "calculating the size of datasets.",
+                "text": "calculating the size of datasets",
                 "_shouldBeSelected": false
             },
             {
-                "text": "hitting milestones in the process.",
+                "text": "hitting milestones in the process",
                 "_shouldBeSelected": false
             }
         ],
         "_feedback":{
-            "correct":"<h5>That’s right!</h5><p>KPIs are a great way to maintain the balance between the supply and demand side of an open data initiative.</p>",
+            "correct":"<h5>That’s right!</h5><p>KPIs offer a great way to maintain the balance between the supply and demand side of an open data initiative.</p>",
             "_incorrect": {
-                "notFinal": "<h5>Are you sure about that?</h5><p>KPIs are a great way to maintain the balance between the supply and demand side of an open data initiative.</p>",
-                "final": "<h5>Are you sure about that?</h5><p>KPIs are a great way to maintain the balance between the supply and demand side of an open data initiative.</p>"
+                "notFinal": "<h5>Are you sure about that?</h5><p>KPIs offer a great way to maintain the balance between the supply and demand side of an open data initiative.</p>",
+                "final": "<h5>Are you sure about that?</h5><p>KPIs offer a great way to maintain the balance between the supply and demand side of an open data initiative.</p>"
             },
             "_partlyCorrect": {
                 "notFinal": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodtempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -521,7 +516,7 @@
         "_layout":"left",
         "title":"Comparing and measuring success",
         "displayTitle":"Comparing and measuring success",
-        "body":"<p>When comparing and measuring open data initiatives, it is important to use a broad framework and focus on demand.</p><p>These methods help your initiative to stay on track and emulate the success of other open data initiatives.</p><p>KPIs also help drive the changes organisations require to be an effective participant in the open data community.</p><p>In the next module, we explore how to find sustainable sources of open data.</p><p><a class='course_link' href='../module7/'>Next module</a></p><p><a class='course_link' href='../'>Main Menu</a></p>",
+        "body":"<p>When comparing and measuring open data initiatives, it is important to use a broad framework and focus on demand.</p><p>These methods help your initiative to stay on track and emulate the success of other open data initiatives.</p><p>KPIs also help drive the changes that organisations require to participe effectively in the open data community.</p><p>In the next module, we explore how to find sustainable sources of open data.</p><p><a class='course_link' href='../module7/'>Next module</a></p><p><a class='course_link' href='../'>Main menu</a></p>",
         "_pageLevelProgress": {
           "_isEnabled": true
         }
