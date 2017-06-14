@@ -122,12 +122,33 @@
           "title": "Module 13",
           "description": "Linking up the web of data",
           "_link": "../module13/"
+        },
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "Module 14",
+          "description": "Open data advocacy",
+          "_link": "../module14/"
+        },
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "Module 15",
+          "description": "Managing change in open data",
+          "_link": "../module15/"
+        },
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "Module 16",
+          "description": "Achieving impact with open data",
+          "_link": "../module16/"
         }
       ]
     },
     {
       "title": "Resources",
-      "description": "View additional module resources",
+      "description": "Click here to view resources for this course",
       "_filterButtons": {
         "all": "All",
         "document": "PDF",
@@ -150,8 +171,8 @@
       ]
     },
     {
-      "title": "Credits and attribution",
-      "description": "View attribution for licensed content",
+      "title": "Image credits",
+      "description": "Click here to view image credits for this module",
       "_filterButtons": {
         "all": "All",
         "document": "PDF",

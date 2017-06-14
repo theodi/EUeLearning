@@ -1,0 +1,650 @@
+[
+  {
+    "_id": "59400156d084d5167a04f949",
+    "_layout": "right",
+    "_parentId": "b-01",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "",
+      "small": "",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59400156d084d5167a04f94b",
+    "_layout": "left",
+    "_parentId": "b-02",
+    "_type": "component",
+    "body": "<p>Change management is the <strong>process of introducing a long-term transition, change or development in an organisation. </strong></p><p>The ultimate goal of change management is to change&nbsp;how the organisation operates in the long-term, from adapting&nbsp;its systems,&nbsp;processes and&nbsp;structures&nbsp;to changing&nbsp;how people within it think and act.</p><p>Change management is equally relevant to the public and the private sectors, and to organisations large and small.</p>",
+    "displayTitle": "What is change management? ",
+    "title": "What is change management? ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59400156d084d5167a04f94c",
+    "_layout": "right",
+    "_parentId": "b-02",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
+      "small": "course/en/assets/a699447adb040b8b78c36f46d46356ba124debf3.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59400156d084d5167a04f94d",
+    "_layout": "right",
+    "_parentId": "b-04",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3b66beb92878268fd90bf52b67cb10c55f741f17.jpg",
+      "small": "course/en/assets/3b66beb92878268fd90bf52b67cb10c55f741f17.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/flat-style-vector-icons-set-mobile-203239417\" target=\"_blank\">Ozerina Anna</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59400156d084d5167a04f95f",
+    "_layout": "left",
+    "_parentId": "b-10",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Change management is the process of introducing a long-term transition, change or development in an organisation.</p><p dir=\"ltr\">Effective management is essential to the success of&nbsp;any project or initiative, and a programme of change is no different.</p><p dir=\"ltr\">Key elements of a successful programme of change include clear ownership and vision, senior buy-in, measuring success through clear metrics and communicating impact.</p><p><a class='course_link' href='../module16/'>Next module</a></p><p><a class='course_link' href='../'>Main menu</a></p>",
+    "displayTitle": "Managing change in open data",
+    "title": "Managing change in open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59400156d084d5167a04f960",
+    "_layout": "left",
+    "_parentId": "b-01",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Change&nbsp;management is the process of introducing a long-term transition, change or development in an organisation.&nbsp;Change management is especially important when dealing with large changes, such as the cultural changes needed to succeed with open data.</p><p dir=\"ltr\">In this module, we&rsquo;ll explore why it is important for organisations to manage&nbsp;change and key elements to help&nbsp;build a successful&nbsp;change management process.</p><ul><li dir=\"ltr\">What is change management?</li><li dir=\"ltr\">Why is change management&nbsp;important in open data initiatives?</li><li dir=\"ltr\">Why is change management needed?</li><li dir=\"ltr\">What are the key elements of change management?</li></ul>",
+    "displayTitle": "Managing change in open data",
+    "title": "Managing change in open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59400156d084d5167a04f961",
+    "_layout": "left",
+    "_parentId": "b-09",
+    "_type": "component",
+    "body": "<p><strong>Three key elements of change management are...</strong></p>",
+    "displayTitle": "What are the key elements of change management?",
+    "title": "What are the key elements of change management?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Using the right terminology, working from the ground up and introducing change quickly",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Having clear vision and leadership, communicating impact and building metrics",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Working from the top down, mandating change and implementing it quickly",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Three key elements of change management are: having clear vision and leadership, communicating impact and building metrics</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Three key elements of change management are: having clear vision and leadership, communicating impact and building metrics</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        }
+  },
+  {
+    "_id": "59400156d084d5167a04f962",
+    "_layout": "right",
+    "_parentId": "b-06",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59400157d084d5167a04f96b",
+    "_layout": "left",
+    "_parentId": "b-06",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to manage change?",
+    "title": "Are you ready to manage change?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59400157d084d5167a04f96c",
+    "_layout": "right",
+    "_parentId": "b-07",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
+      "small": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-134315933.html\" target=\"_blank\">Photoraiz</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59400157d084d5167a04f96d",
+    "_layout": "left",
+    "_parentId": "b-08",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3b66beb92878268fd90bf52b67cb10c55f741f17.jpg",
+      "small": "course/en/assets/3b66beb92878268fd90bf52b67cb10c55f741f17.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/flat-style-vector-icons-set-mobile-203239417\" target=\"_blank\">Ozerina Anna</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59400157d084d5167a04f96e",
+    "_layout": "right",
+    "_parentId": "b-09",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4d0e90f8a701b90a49898fd147c75a0149ca472f.jpg",
+      "small": "course/en/assets/4d0e90f8a701b90a49898fd147c75a0149ca472f.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366\" target=\"_blank\">Sergey Nivens</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59400157d084d5167a04f971",
+    "_layout": "left",
+    "_parentId": "b-07",
+    "_type": "component",
+    "body": "<p><strong>Change management is...</strong></p>",
+    "displayTitle": "What is change management?",
+    "title": "What is change management?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "The process of introducing a long-term transition, change or development in an organisation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The process of introducing a short-term alteration or change in the public sector",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "A process for publishing open data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Change&nbsp;management is the process of introducing a long-term transition, change or development in an organisation.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p dir=\"ltr\">Change&nbsp;management is the process of introducing a long-term transition, change or development in an organisation.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        }
+  },
+  {
+    "_id": "59400157d084d5167a04f972",
+    "_layout": "right",
+    "_parentId": "b-08",
+    "_type": "component",
+    "body": "<p><strong>Change management is important because...</strong></p>",
+    "displayTitle": "Why is managing change important?",
+    "title": "Why is managing change important?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "you can use the latest techniques and strategies",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "it helps to ensure sustainability and reduce risk",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "the project will get more budget and resources",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Change management is important to the success of a programme, project or initiative because it helps to ensure sustainability and reduce risks.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Change management is important to the success of a programme, project or initiative because it helps to ensure sustainability and reduce risks.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        }
+  },
+  {
+    "_id": "59400157d084d5167a04f97c",
+    "_layout": "right",
+    "_parentId": "b-10",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-six",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "small": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59400157d084d5167a04f97e",
+    "_layout": "left",
+    "_parentId": "b-03",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1df129630da9e360cea725c7c5eebda0b337c7ba.jpg",
+      "small": "course/en/assets/1df129630da9e360cea725c7c5eebda0b337c7ba.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Jannoon028 / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59400157d084d5167a04f97f",
+    "_layout": "right",
+    "_parentId": "b-03",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">While the technology for open data has already existed for 20 years, it has not been common to open it. That said, there has&nbsp;been high demand for transparency, driven by scandals like the UK <a href=\"https://en.wikipedia.org/wiki/United_Kingdom_parliamentary_expenses_scandal\">MPs expenses scandal in 2009</a> and the <a href=\"https://www.britannica.com/topic/FIFA-Corruption-Scandal-The-2076091\">FIFA corruption scandal in 2016</a>.</p><p dir=\"ltr\">The majority of organisations are still very comfortable with being closed by default, only granting access to information and data upon request or as part of sharing agreements. Open-by-default is the mindset that all data and information should be opened automatically unless there is a strong justification for why it should be closed.&nbsp;Change management is critical both to the success of the project and to helping people through the process who will find it difficult to change their mindframe&nbsp;to embrace open data.</p><p>To help with this change management process, the <a href=\"http://opendatacharter.net/\">Open Data Charter</a> provides a set of principles for a successful open data initiative. Many countries have already signed up to the Charter, including <a href=\"http://opendatacharter.net/adopted-by-countries-and-cities/\">France, Italy and the UK</a>. The <a href=\"http://opendatacharter.net/ukraine-used-charter-develop-open-data-roadmap/\">Ukraine has used the charter to help inform its&nbsp;long-term roadmap</a> and to get buy-in from all parts of government.</p>",
+    "displayTitle": "Why is change management important for open data initiatives?",
+    "title": "Why is change management important for open data initiatives?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59400157d084d5167a04f980",
+    "_layout": "left",
+    "_parentId": "b-04",
+    "_type": "component",
+    "body": "<p>Effective management is essential to the success of&nbsp;any project or initiative. Change management is no exception. Below we explore some of the key reasons why we need to manage the process of change.</p>",
+    "displayTitle": "Why is change management needed?",
+    "title": "Why is change management needed?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Change doesn't happen overnight",
+        "body": "<p dir=\"ltr\">It is very difficult to implement change quickly, especially in large organisations. Over time, organisations get used to operating in a certain way.</p><p dir=\"ltr\">As implementing change takes time, there needs to be a person&nbsp;or team&nbsp;who are dedicated to overseeing and managing the change process. This also serves to ensure that the process continues.</p><p dir=\"ltr\">A <a href=\"http://www.nortonrosefulbright.com/knowledge/publications/136571/the-digital-transformation-of-the-german-emmittelstandem\">report from Germany</a> found that collaboration was key to change management and digital transformation in small and medium enterprises.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reducing risk",
+        "body": "<p>Managing the process of change reduces the overall risks to an organisation.</p><p>There are different reasons why an organisation may wish&nbsp;to implement a change management process. Sometimes this can be due to&nbsp;negative impacts from their current process, system, structure or way of working.</p><p dir=\"ltr\">In these cases, it is a risk to maintaining the current situation as it may lead to a loss in revenue or decline in&nbsp;reputation. This was the case with <a href=\"https://www.landmark.co.uk/\">Landmark</a>, a UK company whose business model was at risk as the&nbsp;data they relied upon selling to others became open. To avoid disaster <a href=\"https://theodi.org/lunchtime-lectures/friday-lunchtime-lecture-changing-tracks-with-hs2-open-data\" target=\"_blank\">they had to change their business</a>, led by the CEO and driven by the team.</p><p>However, it might be equally&nbsp;risky to implement change too quickly.&nbsp;Managing the change process is a way to control&nbsp;these risks and make sure that the change is positive.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Ensuring sustainability",
+        "body": "<p dir=\"ltr\">Managing the process of change is critical for its sustainability. Having a clear leader who is managing the change process means that the change is more likely to be sustainable in the long term. This doesn&#39;t necessarily have to be the most senior person in the organisation, but they do need to be able to make decisions.</p><p dir=\"ltr\">They appoint others to drive the change alongside those with the necessary skills and responsibilities to alter how the organisation works. This is especially the case in Europe with digital and data, since&nbsp;organisations there are now required to have a data protection officer if they handle customer data. As digital and open become norms, change management and having the right people to lead it will be critical to&nbsp;an organisation&#39;s success.&nbsp;</p><p>It is also part of this role to&nbsp;ensure that others &ndash; both&nbsp;internal and external to the organisation &ndash; understand why the change is needed and support that change. Without this, any change is unlikely to be sustainable.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59400157d084d5167a04f981",
+    "_layout": "full",
+    "_parentId": "b-05",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">There are several key elements necessary to successfully managing change within an organisation. These elements are relevant to both the private and the public sectors.</p>",
+    "displayTitle": "What are the key elements of change management?",
+    "title": "What are the key elements of change management?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Clear vision",
+        "body": "<p dir=\"ltr\">Having a&nbsp;clear vision is important for change management in order to get internal and external support for the initiative. This vision should align to the organisation&#39;s goals, otherwise, it will jar with&nbsp;its values, brand or image.</p><p dir=\"ltr\">In relation to open data, this vision should outline aspects such as being open by default, where all data will be available from, and under which&nbsp;licence.</p><p>The leader of the project needs to be able to articulate this vision to ensure support both internally and externally.<a href=\"http://www.computerweekly.com/news/450284803/France-takes-the-lead-in-the-global-open-data-race\"> </a></p><p>In France, a <a href=\"http://www.computerweekly.com/news/450284803/France-takes-the-lead-in-the-global-open-data-race\">Government Chief Data Officer</a> has been appointed to do just this, reporting on progress on winning support inside and outside government.</p>",
+        "_graphic": {
+          "src": "course/en/assets/e476d5412f3c230ba6365724bc2935db25901c21.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-238771996.html\" target=\"_blank\">Mangsaab</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Clear vision"
+      },
+      {
+        "title": "Data management plan",
+        "body": "<p dir=\"ltr\">Every organisation should have a data management plan which explains how data is stored, backed-up and accessed. Data is part of a modern company&rsquo;s infrastructure, and just like buildings and other assets, it needs careful management.</p><p>Open data shouldn&rsquo;t be viewed as a separate activity to the key data management activities. A good starting point to integrating open data to your data management plan is to apply the vision to it. This helps ensure the integration of the strategy into the long term processes and operating procedures of the organisation.</p>",
+        "_graphic": {
+          "src": "course/en/assets/641546c15c0af8c554b833be3cc3dfc09ac0b997.jpg",
+          "alt": "",
+          "attribution": "<a href=\"theodi.org\" target=\"_blank\">Sponge UK</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Data management plan"
+      },
+      {
+        "title": "Senior buy-in",
+        "body": "<p>With any programme of change, it is common for those driving it to meet some resistance from within their organisations.</p><p>Active support from senior figures can help to encourage institutional buy-in.</p><p>Working with these senior figures&nbsp;is critical, as an &lsquo;insurgency strategy&rsquo; to introduce change is unlikely to be sustainable</p>",
+        "_graphic": {
+          "src": "course/en/assets/4b63c6af07902f3f8460f8a4ca00a26d4df61cf9.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://pixabay.com/en/building-blocks-toys-block-building-717309/\" target=\"_blank\">Spowell</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Senior buy-in"
+      },
+      {
+        "title": "Metrics",
+        "body": "<p dir=\"ltr\">As well as a data management plan, organisations need to put in place key processes and lifecycles that detail how to transition to&nbsp;and then maintain&nbsp;their open data.</p><p dir=\"ltr\">Aligning these plans and lifecycles with Key Performance Indicators (KPIs) to evaluate success will help justify investment of time and money in the change programme.</p><p>When designing KPIs, think about what will have the most impact. Within open data initiatives, don&rsquo;t just think about the number of datasets put online, but also their impact and alignment with external measures of success, including the European Data Portal&rsquo;s own <a href=\"https://www.europeandataportal.eu/en/highlights/open-data-maturity-europe\">Open Data Maturity index</a>, which is a good measure of change within countries.</p>",
+        "_graphic": {
+          "src": "course/en/assets/2b5ec4242610756a70a3b5e12afaf1626f3f0d02.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-kpi-174926546\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Metrics"
+      },
+      {
+        "title": "Communicating impact",
+        "body": "<p dir=\"ltr\">Understanding the impact of a change process will help to secure its future.</p><p dir=\"ltr\">Those driving forward a change programme should focus on the tangible impact that is a direct result of the programme. A good place to focus is quick wins: areas where low effort will result in immediate impact.</p><p dir=\"ltr\">Clearly communicating impact stories will help to gain support from all those involved in the programme.</p><p>In the public sector, many countries showcase examples where others are using their open data, including <a href=\"http://datos.gob.es/es/iniciativas\">Spain</a>, <a href=\"https://data.gov.ie/showcase\">Ireland</a> and <a href=\"http://www.data.gouv.fr/fr/\">France</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366\" target=\"_blank\">Sergey Nivens</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Communicating impact"
+      },
+      {
+        "title": "Aligned priorities",
+        "body": "<p>Align&nbsp;the priorities of the project, programme or initiative with the priorities of the person responsible for the budget.</p><p>This could be the CEO of your company, or the organisation that manages your funding. It might even be your customers who ask for open data that they can share with others, as was the case for Thomson Reuters. You can read the full white paper <a href=\"https://theodi.org/guides/data-identifiers-white-paper\">here</a>.</p><p>Aligning your priorities will help to ensure the sustainability and the impact&nbsp;of your programme.</p>",
+        "_graphic": {
+          "src": "course/en/assets/7fec32b99da9f008a88d2622d258aaea82bf1513.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/background-colorful-airplanes-vector-illustration-103013084?src=id\" target=\"_blank\">Laralova</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Aligned priorities"
+      }
+    ]
+  },
+  {
+       "_id":"c-95",
+       "_parentId":"b-10",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-100",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Open data institute logo",
+            "title": "Open data institute logo",
+            "large": "course/en/images/logo-small.png",
+            "medium": "course/en/images/logo-small.png",
+            "small": "course/en/images/logo-small.png",
+            "*source":"http://theodi.org",
+            "*credit":"The Open Data Institute",
+            "*license":"All rights reserved"  
+        }
+    },
+    {
+        "_id":"c-104",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"attribution not-eu not-default",
+        "_layout":"right",
+        "body":"Content created by <a href='http://theodi.org' target='_blank'>The Open Data Institute</a>"
+    },
+    {
+        "_id":"c-105",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons not-dlab",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/en/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/en/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/en/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/en/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/en/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/en/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/en/images/social/flickr.png'></a>"
+    }
+]

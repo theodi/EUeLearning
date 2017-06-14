@@ -1,7 +1,7 @@
 {
   "title": "L’open data",
   "displayTitle": "L’open data",
-  "_latestTrackingId": 14,
+  "_latestTrackingId": 17,
   "_resources": [
     {
       "title": "Modules",
@@ -110,6 +110,27 @@
           "title": "Cours 13",
           "description": "Lier le Web des données",
           "_link": "module13/"
+        },
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "Cours 14",
+          "description": "Mobilisation pour l'open data ",
+          "_link": "module14/"
+        },
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "Cours 15",
+          "description": "Gestion du changement au sein de l'open data",
+          "_link": "module15/"
+        },
+        {
+          "_type": "link",
+          "_local": "true",
+          "title": "Cours 16",
+          "description": "Réaliser un impact avec l'open data",
+          "_link": "module16/"
         }
       ]
     },
@@ -134,24 +155,6 @@
         "link": "Link"
       },
       "_resourcesItems": []
-    },
-    {
-      "title": "les crédits des musiques",
-      "description": "Cliquez sur le bouton pour voir les crédits des musique de ce cours",
-      "_filterButtons": {
-        "all": "All",
-        "document": "PDF",
-        "media": "Media",
-        "link": "Link"
-      },
-      "_resourcesItems": [
-        {
-          "_type": "link",
-          "title": "Your World - Delicate Beats",
-          "description": "Source: Premium Beat<br/>Crédit: leromin<br/>Licence: Premium Beat Standard License",
-          "_link": "http://www.premiumbeat.com/royalty_free_music/songs/your-world"
-        }
-      ]
     },
     {
       "title": "L'open data",
@@ -251,7 +254,7 @@
   "_id": "course",
   "_type": "course",
   "_buttons": {
-    "submit": "Submit",
+    "submit": "Valider",
     "reset": "Reset",
     "showCorrectAnswer": "Model Answer",
     "hideCorrectAnswer": "My Answer"
