@@ -162,6 +162,12 @@
           "description": "",
           "_link": "course/fr/data/scorm.zip"
         },
+          {
+          "_type": "link",
+          "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download transcripts</p></div>",
+          "description": "",
+          "_link": "course/fr/data/transcripts.zip"
+        },
         {
           "_type": "link",
           "title": "Open data certificate",
