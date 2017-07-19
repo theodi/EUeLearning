@@ -13,6 +13,7 @@ mkdir -p course/en/transcript/module12
 mkdir -p course/en/transcript/module13
 mkdir -p course/en/transcript/module14
 mkdir -p course/en/transcript/module15
+mkdir -p course/en/transcript/module16
 rm -f course/en/data/transcripts.zip
 cp ./module3/course/en/transcript/video.txt course/en/transcript/module3/video.txt
 cp ./module3/course/en/transcript/en_module3.docx course/en/transcript/module3/en_module3.docx
