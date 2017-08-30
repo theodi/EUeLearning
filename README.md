@@ -35,7 +35,7 @@ Guides on the structure and contents of each file can be found on the [Adapt Wik
 
 *Note 2*: The course objects (in /course/{lang} are avaialble under an Open Licence however this licence *DOES NOT* cover third party rights including shutterstock images and company logos. Re-users should establish their own rights to use such contents prior to direct re-use. 
 
-## Method 2 - Setting up your own Adapt eLearning environment
+## 3. Setting up your own Adapt eLearning environment
 
 IMPORTANT: At the time these modules were created the latest version of the Adapt eLearning environment was version 1. In order to reuse the modules most effectively it is recommended you use Adapt version 2 (as outlined here) and follow the [migration guide](https://github.com/adaptlearning/adapt_framework/wiki/Converting-a-Course-from-Version-1-to-Version-2).
 
@@ -47,8 +47,8 @@ IMPORTANT: At the time these modules were created the latest version of the Adap
 
 4) [Optional] The european data portal theme is available [here](https://github.com/theodi/adapt-theme-eu/blob/master/README.md). This can be used as a custom theme by downloading it into the adapt_framework\src\theme\ directory. More information on themes and using themes can be found on the [Adapt Wiki](https://github.com/adaptlearning/adapt_authoring/wiki/Modifying-the-Vanilla-Theme).  
 
-The original master repository with the source code (including Adapt 1 framework) is located at https://github.com/theodi/ODI-eLearning. However, we would not recommend using this! As Adapt 1 has now been retired there is very little support (other than bug fix) for developing using this old version of the framework.
-
 *Note 1*: The course objects (in /course/{lang} are avaialble under an Open Licence however this licence *DOES NOT* cover third party rights including shutterstock images and company logos. Re-users should establish their own rights to use such contents prior to direct re-use. 
+
+*Note 2*: The original master repository with the source code (including Adapt 1 framework) is located at https://github.com/theodi/ODI-eLearning. However, we would not recommend using this! As Adapt 1 has now been retired there is very little support (other than bug fix) for developing using this old version of the framework.
 
 Thanks!
