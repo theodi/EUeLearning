@@ -22,7 +22,7 @@ To directly edit the modules to make changes without requiring a copy of the ful
 
 2) Edit the source files in the course/{lang} folder, where the language is either en or fr. 
 
-Guides on the structure and contents of each file can be found on the (Adapt Wiki)[https://github.com/adaptlearning/adapt_framework/wiki/Creating-your-first-course]. Note that you will not require to rebuild the course using the `grunt` tools when directly editing. 
+Guides on the structure and contents of each file can be found on the [Adapt Wiki](https://github.com/adaptlearning/adapt_framework/wiki/Creating-your-first-course). Note that you will not require to rebuild the course using the `grunt` tools when directly editing. 
 
 Editing in this way is limited to the content. The look and feel and source code for the tool are not as straight forward to edit due to the fact that these files are compiled in order to save space. This means that the EU tracking code remains and statistics will be reported to the EU analytics engines.
 
