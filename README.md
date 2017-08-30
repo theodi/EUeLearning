@@ -35,7 +35,7 @@ Guides on the structure and contents of each file can be found on the [Adapt Wik
 
 *Note 2*: The course objects (in /course/{lang} are avaialble under an Open Licence however this licence *DOES NOT* cover third party rights including shutterstock images and company logos. Re-users should establish their own rights to use such contents prior to direct re-use. 
 
-## 3. Setting up your own Adapt eLearning environment
+## 3. How to set up your own development environment using these modules.
 
 IMPORTANT: At the time these modules were created the latest version of the Adapt eLearning environment was version 1. In order to reuse the modules most effectively it is recommended you use Adapt version 2 (as outlined here) and follow the [migration guide](https://github.com/adaptlearning/adapt_framework/wiki/Converting-a-Course-from-Version-1-to-Version-2).
 
