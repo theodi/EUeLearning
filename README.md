@@ -1,6 +1,6 @@
 # EUeLearning
 
-This repository contains the live deployed source code for the 13 eLearning modules hosted on the European Data Portal.
+This repository contains the live deployed source code for the 16 eLearning modules hosted on the European Data Portal.
 
 https://www.europeandataportal.eu/elearning/en/#/id/co-01
 
