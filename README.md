@@ -10,6 +10,7 @@ This guide covers:
 1. How to deploy these modules as SCORM objects
 2. How to direcly edit these modules
 3. How to set up your own development environment using these modules. 
+4. How to rebuild SCORM pacakages
 
 ## 1. How to deploy these modules as SCORM objects
 
@@ -50,5 +51,21 @@ IMPORTANT: At the time these modules were created the latest version of the Adap
 *Note 1*: The course objects (in /course/{lang} are avaialble under an Open Licence however this licence *DOES NOT* cover third party rights including shutterstock images and company logos. Re-users should establish their own rights to use such contents prior to direct re-use. 
 
 *Note 2*: The original master repository with the source code (including Adapt 1 framework) is located at https://github.com/theodi/ODI-eLearning. However, we would not recommend using this! As Adapt 1 has now been retired there is very little support (other than bug fix) for developing using this old version of the framework.
+
+## 4. How to rebuild the SCORM packages
+
+Each of the modules inside the en and fr directories labelled moduleX is already built to be a SCORM package. 
+
+To rebuild each module as a SCORM package:
+
+1) Remove the scorm.zip inside the {lang}/moduleX/course/en/data directory
+
+2) Make a new zip file of the moduleX directory
+
+3) Drop this new scorm.zip inside the data directory
+
+*Note 1*: Each module is built as an individual SCORM pacakge, thus there will be 16 SCORM packages per language. 
+
+*Note 2*: If you don't do step 1 from above first them you will get a SCORM package that recursively contains the previous version of the scorm package and that is turtles all the way down. 
 
 Thanks!
