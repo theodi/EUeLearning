@@ -1,23 +1,23 @@
 {
-  "title": "Vad är öppna data?",
-  "displayTitle": "Vad är öppna data?",
+  "title": "Kas yra atviri duomenys?",
+  "displayTitle": "Kas yra atviri duomenys?",
   "_latestTrackingId": 11,
   "_learningOutcomes": [
     {
-      "outcome": "Define open data",
+      "outcome": "Kas sudaro atvirus duomenis?",
       "credits": 5,
       "badge": "explorer"
     },
     {
-      "outcome": "Explain the need for open data",
+      "outcome": "Koks yra atvirų duomenų poreikis?",
       "credits": 5,
       "badge": "explorer"
     }
   ],
   "_resources": [
     {
-      "title": "moduler",
-      "description": "Byt till en annan modul",
+      "title": "Moduliai",
+      "description": "Kitas modulis",
       "_filterButtons": {
         "all": "All",
         "document": "PDF",
@@ -28,127 +28,127 @@
         {
           "_type": "link",
           "_local": "true",
-          "title": "Huvudmeny",
-          "description": "Huvudmeny",
+          "title": "Pagridinis meniu",
+          "description": "Pagridinis meniu",
           "_link": "../"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 1",
-          "description": "Vad är öppna data?",
+          "title": "Modulis 1",
+          "description": "Kas yra atviri duomenys?",
           "_link": "../module1/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 2",
-          "description": "Hur man bäst nyttjar öppna data",
+          "title": "Modulis 2",
+          "description": "Atvirų duomenų potencialas",
           "_link": "../module2/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 3",
-          "description": "Öppna data: en förändringsfaktor",
+          "title": "Modulis 3",
+          "description": "Atviri duomenys: priemonė pokyčiui",
           "_link": "../module3/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 4",
-          "description": "Varför behöver vi licenser?",
+          "title": "Modulis 4",
+          "description": "Kodėl reikia licencijų?",
           "_link": "../module4/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 5",
-          "description": "Öppen data av god kvalitet",
+          "title": "Modulis 5",
+          "description": "Kas lemia atvirų duomenų kokybę?",
           "_link": "../module5/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 6",
-          "description": "Att mäta framgång hos öppna data",
+          "title": "Modulis 6",
+          "description": "Atvirų duomenų sėkmės vertinimas",
           "_link": "../module6/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 7",
-          "description": "Varför borde vi oroa oss för hållbarhet?",
+          "title": "Modulis 7",
+          "description": "Kodėl turime užtikrinti duomenų tvarumą?",
           "_link": "../module7/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 8",
-          "description": "Vad är en plattform?",
+          "title": "Modulis 8",
+          "description": "Kaip suprasti platformas",
           "_link": "../module8/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 9",
-          "description": "Att välja rätt format för öppna data",
+          "title": "Modulis 9",
+          "description": "Teisingo formato parinkimas",
           "_link": "../module9/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 10",
-          "description": "Hur användbar är mina data?",
+          "title": "Modulis 10",
+          "description": "Ar naudingi mano duomenys?",
           "_link": "../module10/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 11",
-          "description": "Så här rengör du dina data",
+          "title": "Modulis 11",
+          "description": "Kaip paruošti duomenis",
           "_link": "../module11/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 12",
-          "description": "Hitta dolda data på webben",
+          "title": "Modulis 12",
+          "description": "Paslėptų duomenų radimas internete",
           "_link": "../module12/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 13",
-          "description": "Länka ihop datawebben",
+          "title": "Modulis 13",
+          "description": "Duomenų tinklo susiejimas",
           "_link": "../module13/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 14",
-          "description": "Att förespråka öppna data",
+          "title": "Modulis 14",
+          "description": "Skatinimas naudoti atvirus duomenis",
           "_link": "../module14/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 15",
-          "description": "Hantera förändringar inom öppna data",
+          "title": "Modulis 15",
+          "description": "Atvirų duomenų pokyčių valdymas",
           "_link": "../module15/"
         },
         {
           "_type": "link",
           "_local": "true",
-          "title": "Module 16",
-          "description": "Uppnå effekt och påverkan med öppna data",
+          "title": "Modulis 16",
+          "description": "Atvirų duomenų poveikis",
           "_link": "../module16/"
         }
       ]
     },
     {
-      "title": "Resources",
-      "description": "View additional module resources",
+      "title": "Šaltiniai",
+      "description": "peržiūrėti papildomus modulių šaltinius",
       "_filterButtons": {
         "all": "All",
         "document": "PDF",
@@ -158,57 +158,57 @@
       "_resourcesItems": [
         {
           "_type": "link",
-          "title": "David Eaves article",
-          "description": "Take me to David Eaves article",
+          "title": "David Eaves straipsnis",
+          "description": "Nuoroda į David Eaves straipsnį",
           "_link": "http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/"
         },
         {
           "_type": "link",
-          "title": "Govlab article",
-          "description": "Open data education information in Tanzania",
+          "title": "Govlab straipsnis",
+          "description": "Atviri duomenys Tanzanijoje",
           "_link": "http://odimpact.org/case-open-education-information-in-tanzania.html"
         },
         {
           "_type": "link",
           "title": "Follow the Money",
-          "description": "Take me to Follow the Money",
+          "description": "Nuoroda į Follow the Money",
           "_link": "http://followthemoneyng.org/"
         },
         {
           "_type": "link",
           "title": "Transport for London",
-          "description": "Take me to Transport for London",
+          "description": "Nuoroda į Transport for London",
           "_link": "http://www.tfl.gov.uk/"
         },
         {
           "_type": "link",
           "title": "Thomson Reuters",
-          "description": "Take me to Thomson Reuters",
+          "description": "Nuoroda į Thomson Reuters",
           "_link": "http://site.thomsonreuters.com/site/data-identifiers/"
         },
         {
           "_type": "link",
           "title": "ODI annual report",
-          "description": "Take me to The ODI annual report",
+          "description": "Nuoroda į The ODI annual report",
           "_link": "http://theodi.org/odis-second-year-annual-report"
         },
         {
           "_type": "link",
-          "title": "United Nations news centre",
-          "description": "Take me to the United Nations news centre",
+          "title": "United Nations naujienų centrą",
+          "description": "Nuoroda į United Nations naujienų centrą",
           "_link": "http://www.un.org/apps/news/story.asp?NewsID=13077&Cr=natural&Cr1=disaster#.VVyWK_lVhBc"
         },
         {
           "_type": "link",
           "title": "Better Choices Better Deals report",
-          "description": "Take me to Better Choices Better Deals report",
+          "description": "Nuoroda į Better Choices Better Deals report",
           "_link": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf"
         }
       ]
     },
     {
-      "title": "Credits and attribution",
-      "description": "View attribution for licensed content",
+      "title": "Credits",
+      "description": "Licencijuoto turinio nuorodos",
       "_filterButtons": {
         "all": "All",
         "document": "PDF",
@@ -285,8 +285,8 @@
       ]
     },
     {
-      "title": "Open data",
-      "description": "Download and use module content",
+      "title": "Atviri duomenys",
+      "description": "Modulio turinys parsisiuntimui",
       "_filterButtons": {
         "all": "All",
         "document": "PDF",
@@ -298,25 +298,25 @@
           "_type": "link",
           "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download menu data</p></div>",
           "description": "",
-          "_link": "course/lt/components.json"
+          "_link": "course/en/components.json"
         },
         {
           "_type": "link",
           "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download sidebar data</p></div>",
           "description": "",
-          "_link": "course/lt/course.json"
+          "_link": "course/en/course.json"
         },
         {
           "_type": "link",
           "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download scorm object</p></div>",
           "description": "",
-          "_link": "course/lt/data/scorm.zip"
+          "_link": "course/en/data/scorm.zip"
         },
         {
           "_type": "link",
           "title": "<div align='center'><img class='download-image' src='adapt/css/assets/download.png'><p class='downloadp'>Download transcripts</p></div>",
           "description": "",
-          "_link": "course/lt/data/transcripts.zip"
+          "_link": "course/en/data/transcripts.zip"
         },
         {
           "_type": "link",
@@ -349,8 +349,8 @@
       ]
     },
     {
-      "title": "About",
-      "description": "Upptäck hur denna inlärning skapades",
+      "title": "Apie",
+      "description": "Kaip buvo sukurtas modulis",
       "_filterButtons": {
         "all": "All",
         "document": "PDF",
@@ -361,25 +361,25 @@
         {
           "_type": "link",
           "title": "ODI Training Team",
-          "description": "<div align='center'><img alt='ODI' style='border-width:0' src='adapt/css/assets/odi-logo.png' /></div><br />Expertkunskap, innehållsutveckling och lärandeplaner från utbildningsgrupp. <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> utbildningsgrupp.",
+          "description": "<div align='center'><img alt='ODI' style='border-width:0' src='adapt/css/assets/odi-logo.png' /></div><br />Expert knowledge, content development and learning plans provided by the by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> training team.",
           "_link": "http://theodi.org/training_team"
         },
         {
           "_type": "link",
           "title": "European Data Portal",
-          "description": "<div align='center'><img alt='EDP' style='border-width:0; max-height: 150px;' src='adapt/css/assets/edp.png' /></div><br />Finansiering för modulutveckling och genomförande från <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>European Data Portal</span>.",
+          "description": "<div align='center'><img alt='EDP' style='border-width:0; max-height: 150px;' src='adapt/css/assets/edp.png' /></div><br />Funding for module development and implementation provided by the <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>European Data Portal</span>.",
           "_link": "http://www.europeandataportal.eu/"
         },
         {
           "_type": "link",
           "title": "Sponge UK",
-          "description": "<div align='center'><img alt='Sponge UK' style='border-width:0' src='adapt/css/assets/sponge.png' /></div><br />Lärande lösningar, innehållsproduktion och eLearning-expertis från <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
+          "description": "<div align='center'><img alt='Sponge UK' style='border-width:0' src='adapt/css/assets/sponge.png' /></div><br />Learning solutions, content production and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
           "_link": "http://www.spongeuk.com"
         },
         {
           "_type": "link",
           "title": "Adapt learning",
-          "description": "<div align='center'><img alt='Adapt learning' style='border-width:0' src='adapt/css/assets/adapt.png' /></div><br />Open source learning platform utvecklad av <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Adapt learning</span>.",
+          "description": "<div align='center'><img alt='Adapt learning' style='border-width:0' src='adapt/css/assets/adapt.png' /></div><br />Open source learning platform developed by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Adapt learning</span>.",
           "_link": "https://community.adaptlearning.org/"
         }
       ]
@@ -388,9 +388,9 @@
   "_id": "course",
   "_type": "course",
   "_buttons": {
-    "submit": "Skicka",
-    "reset": "återställ",
-    "showCorrectAnswer": "modell svar",
-    "hideCorrectAnswer": "mitt svar"
+    "submit": "Submit",
+    "reset": "Reset",
+    "showCorrectAnswer": "Parodyti atsakymą",
+    "hideCorrectAnswer": "Mano atsakymas"
   }
 }

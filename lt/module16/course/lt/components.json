@@ -1,0 +1,734 @@
+[
+  {
+    "_id": "59400a14d084d5167a04fa58",
+    "_layout": "right",
+    "_parentId": "b-06",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/lt/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/lt/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59400a14d084d5167a04fa73",
+    "_layout": "left",
+    "_parentId": "b-09",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Socialinio poveikio indikatoriai atvirų duomenų poveikio Europoje yra..</strong></p>",
+    "displayTitle": "Kaip įvertinti poveikį?",
+    "title": "Kaip įvertinti poveikį?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Pasirink variantą ir spausk ‘submit’",
+    "_items": [
+      {
+        "text": "aplinkos darnumas ir įvairių skirtingų grupių įtraukimas;",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "atvirų duomenų rinkos vertės analizės;",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "viešojo sektoriaus efektyvumas ir skaidrumas.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>Teisingai! </strong></p><p>Yra du pagrindiniai faktoriai, kurie indikuoja socialinį poveikį: tai aplinkos darnumas ir įvairių skirtingų grupių įtraukimas.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Ar tikrai?</strong></p><p>Yra du pagrindiniai faktoriai, kurie indikuoja socialinį poveikį: tai aplinkos darnumas ir įvairių skirtingų grupių įtraukimas.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        }
+  },
+  {
+    "_id": "59400a14d084d5167a04fa74",
+    "_layout": "left",
+    "_parentId": "b-07",
+    "_type": "component",
+    "body": "<p><strong>Atvirų duomenų poveikis yra svarbus, nes..</strong></p>",
+    "displayTitle": "Kodėl atvirų duomenų poveikis yra svarbus?",
+    "title": "Kodėl atvirų duomenų poveikis yra svarbus?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Pasirink visus tinkamus variantus ir spausk ‘submit’",
+    "_items": [
+      {
+        "text": "jis apibrėžia, kodėl atvirų duomenų programa turėtų tęstis;",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "jis parodo, kur turėtumėte koncentruoti visas savo pastangas;",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "nes galite prieiti netikėtas išvadas.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>Teisingai!</strong></p><p>Atvirų duomenų poveikis yra svarbus, nes jis apibrėžia, kodėl atvirų duomenų programa turėtų tęstis parodant investicijų grąžą.</p><p>Poveikis taip pat yra svarbi dalis įvertinant atvirų duomenų politikos, programos ar iniciatyvos efektyvumą.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Ar tikrai?</strong></p><p>Atvirų duomenų poveikis yra svarbus, nes jis apibrėžia, kodėl atvirų duomenų programa turėtų tęstis parodant investicijų grąžą.</p><p>Poveikis taip pat yra svarbi dalis įvertinant atvirų duomenų politikos, programos ar iniciatyvos efektyvumą.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        }
+  },
+  {
+    "_id": "59400a14d084d5167a04fa75",
+    "_layout": "right",
+    "_parentId": "b-11",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-six",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/lt/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "small": "course/lt/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59400a14d084d5167a04fa76",
+    "_layout": "left",
+    "_parentId": "b-01",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Kiekvieno atvirų duomenų projekto ar iniciatyvos tikslas yra padaryti poveikį- tai gali būti tiek politinis, tiek socialinis, tiek ekonominis poveikis. Didžiausias iššūkis- sukurti ar surasti tikslingus atvirų duomenų iniciatyvų <a href=\"http://opendatabarometer.org/3rdEdition/report/#impact\" target=\"_blank\">pavyzdžius, kurie gerina mūsų kasdienybę.</a></p><p dir=\"ltr\">Šiame modulyje:</p><ul class='ticks'><li dir=\"ltr\">kodėl yra svarbu padaryti poveikį?</li><li dir=\"ltr\">kaip jį pasiekti?</li><li dir=\"ltr\">kaip išmatuoti poveikį?</li><li dir=\"ltr\">kliūčių įveikimas siekiant poveikio.</li></ul>",
+    "displayTitle": "Atvirų duomenų poveikis",
+    "title": "Atvirų duomenų poveikis",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59400a14d084d5167a04fa77",
+    "_layout": "right",
+    "_parentId": "b-02",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Poveikis yra esminis kriterijus įvertinant atvirų duomenų programos efektyvumą. Sunku palaikyti programą jeigu negalima įvertintinti jos investicijų grąžos (ROI).</p><p dir=\"ltr\">Investicijų grąža (ROI) nebūtinai yra finansinė, ji gali būti tiek politinio, tiek socialinio poveikio forma.</p><p dir=\"ltr\">Daugiau informacijos gali rasti <a href=\"https://www.europeandataportal.eu/elearning/lt/module2/#/id/co-01\" target=\"_blank\">antrame modulyje apie atvirų duomenų potencialą.</a></p>",
+    "displayTitle": "Kodėl yra svarbu padaryti poveikį?",
+    "title": "Kodėl yra svarbu padaryti poveikį?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59400a14d084d5167a04fa78",
+    "_layout": "left",
+    "_parentId": "b-02",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/lt/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "small": "course/lt/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791\" target=\"_blank\">tai11</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59400a14d084d5167a04fa79",
+    "_layout": "right",
+    "_parentId": "b-03",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/lt/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "small": "course/lt/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59400a14d084d5167a04fa7a",
+    "_layout": "full",
+    "_parentId": "b-05",
+    "_type": "component",
+    "body": "<p>Atviri duomenys yra pakankamai naujas konceptas, dėl to kyla įvairių kliučių siekiant duomenų atvėrimo iniciatyvų. Šiame skyriuje susipažinsime su pagrindinėmis kliūtimis siekiant atvirų duomenų poveikio ir kaip tas kliūtis įveikti.</p>",
+    "displayTitle": "Kliūčių įveikimas siekiant atvirų duomenų poveikio",
+    "title": "Kliūčių įveikimas siekiant atvirų duomenų poveikio",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Naudotojai nežino apie jūsų duomenis",
+        "body": "<p>Galite turėti puikus duomenis, su kuriais galima padaryti teigiamą pokytį, tačiau potencialūs duomenų naudotojai apie tokį poveikį nežino.</p><p>Vienas iš pagrindinių būdų viešinti duomenis- nustatyti specifinius su jais susijusius iššūkius.<a href=\"http://www.nesta.org.uk/project/open-data-challenge-series\" target=\"_blank\">Iššūkių serijos (chhallenge series)</a> yra puikus būdas suburti potencialius duomenų naudotojus. Pasiūlant prizą ir prstatant atvirų inovacijų procesą galima lengvai užmotyvuoti potencialius duomenų naudotojus ir pasiekti teigiamo poveikio rezultatų.</p><p>Taip pat duomenų naudojimui padeda gerųjų pavyzdžių komunikavimas.</p>",
+        "_graphic": {
+          "src": "course/lt/assets/44692b04753e36675bd12acf35820956832091e4.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Ghozt_Tramp_-_Business_Communication_Duplicat_model.jpg\" target=\"_blank\">Ghozt Tramp</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Duomenų viešinimas"
+      },
+      {
+        "title": "Duomenų apsaugos baimė",
+        "body": "<p dir=\"ltr\">Dar viena didelė kliūtis siekiant poveikio- kad duomenys nebus naudojami dėl duomenų apsaugos baimės. Kai kurios licencijos yra neaiškios, ypač jei duomenų rinkinyje yra trečiųjų šalių arba asmeninių duomenų. Dažnai jokių naudojimo sąlygų neturintys duomenys naudotojams kelia nepasitikėjimą.</p><p>Siekiant išvengti šios kliūties, duomenų atverėjai turi aiškiai apibrėžti teisinį duomenų pakartotinio panaudojimo pagrindą.</p><p>Tam padeda aiškiai apibrėžta licencija. Jei duomenys susiję su asmens duomenimis, naudotojai bus labiau linkę juos naudoti jei yra aiškiai apibrėžti privatumo kontroliavimo informacija.</p>",
+        "_graphic": {
+          "src": "course/lt/assets/eb7c7b7bfff664aef851578a795efa612ea1a806.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/132053576@N03/17765606909/\" target=\"_blank\">Owen Moore</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Duomenų apsaugos baimė"
+      },
+      {
+        "title": "Nerimas dėl duomenų kokybės ir panaudojamumo",
+        "body": "<p>Kitas atvirų duomenų pakartotinio panaudojimo barjeras yra abejojimas dėl duomenų kokybės.</p><p>Yra daugybė bendruomenės sukurtų standartų, kurie padeda tiek atverėjui, tiek naudotojui įvertinti atvirų duomenų kokybę ir panaudojamumą.</p><p>Užtikrinant, kad duomenys yra panaudojami iš teisinės, praktinės ir socialinės pusės skatins jų pakartotinį panaudojimą ir poveikio pasiekimą.</p><p>Daugiau informacijos apie <a href=\"https://www.europeandataportal.eu/elearning/lt/module5/#/id/co-01\">kas užtikrina atvirų duomenų kokybę</a>&#39;</p>",
+        "_graphic": {
+          "src": "course/lt/assets/b0a1356f5ad57eff61e6a22b69a2e1b6d9773220.jpg",
+          "alt": "",
+          "attribution": "<a href=\"robodread\" target=\"_blank\">robodread</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Duomenų kokybė ir panaudojamumas"
+      }
+    ]
+  },
+  {
+    "_id": "59400a14d084d5167a04fa7f",
+    "_layout": "left",
+    "_parentId": "b-06",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Ar jūs pasiruošę pasiekti atvirų duomenų poveikį?",
+    "title": "Ar jūs pasiruošę pasiekti atvirų duomenų poveikį?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59400a15d084d5167a04fa83",
+    "_layout": "left",
+    "_parentId": "b-03",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Vienas iš didžiausių iššūkių atvirų duomenų projektuose yra poveikio pasiekimas ir išmatavimas. Yra daugybė skirtingų būdų, kaip pasiekti poveikį.</p>",
+    "displayTitle": "Kaip pasiekti poveikį?",
+    "title": "Kaip pasiekti poveikį?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Bendrų tikslų identifikavimas",
+        "body": "<p>Pirmiausia reikia gerai pagalvoti, kokio poveikio siekiate. Koks yra galutinis tikslas atvėrus duomenis? Aiškiai apibrėžta vizija užtikrina atvirų duomenų iniciatyvos sėkmę.</p><p>Taip pat pagalvokite apie atvirų duomenų naudotojus. Kokie yra jų tikslai? Kaip jūsų duomenys padės jiems pasiekti tų tikslų?</p><p>Sėkmingiausios atvirų duomenų iniciatyvos savo tikslus suderina su duomenų naudotojų tikslais. Retais atvejais pradedama su bendrais tikslais, todėl turite ieškoti sričių, kuriose tikslai gali sutapti. Kuo labiau susiję tikslai, tuo sėkmingesnis duomenų atvėrimas.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Skatinkite naratyvus ir istorijas",
+        "body": "<p dir=\"ltr\">Geras metodas poveikio demonstravimui yra istorijų ir naratyvų skatinimas. Kartais istorijos gimsta pačios savaime, bet dažniausiai reikia skatinti jų kūrimą. </p><p dir=\"ltr\">Identifikuokite ir integruokite siekiamą atvirų duomenų poveikį į savo organizacijos atliekamas veiklas; taip galėsite lengvai ir aiškiai iškomunikuoti siekiamą savo veiklos poveikį.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pergalvokite, kartokite, pakartokite",
+        "body": "<p>Kartais yra sunku atsigręžti atgal į tai, kas jau tapo projekto rezultatu ir įvertinti, kodėl rezultatas nebūtinai buvo sėkmingas.</p><p>Duokite sau laiko apgalvoti rezultatus, taip tapsite lankstesniu tolimesniuose žingsniuose. Jei kažkas neveikia- nebijokite to pašalinti.</p><p>Kartodami ir pergalvodami metodus padedame atvirų duomenų projektui pasiekti poveikį.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59400a15d084d5167a04fa84",
+    "_layout": "right",
+    "_parentId": "b-08",
+    "_type": "component",
+    "body": "<p><strong>Poveikį pasiekti galima per..</strong></p>",
+    "displayTitle": "Kaip pasiekti poveikį?",
+    "title": "Kaip pasiekti poveikį?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Pasirink variantą ir spausk ‘submit’",
+    "_items": [
+      {
+        "text": "bendrų tikslų identifikavimą;",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "kai kurių duomenų neatvėrimą;",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "atliekant poveikio analizę;",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "pergalvojant vykdomą iniciatyvą;",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "dalinantis poveikio metodologija.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p><strong>Teisingai! </strong></p><p>Poveikis gali būti pasiektas per bendrų tikslų tarp duomenų ir atverėjų identifikavimą, skatinant istorijas ir naratyvus per duomenų poveikio analizę ir pergalvojant poveikio pasiekimo metodus procesui vykstant.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Ar tikrai?</strong></p><p>Poveikis gali būti pasiektas per bendrų tikslų tarp duomenų ir atverėjų identifikavimą, skatinant istorijas ir naratyvus per duomenų poveikio analizę ir pergalvojant poveikio pasiekimo metodus procesui vykstant.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        }
+  },
+  {
+    "_id": "59400a15d084d5167a04fa85",
+    "_layout": "right",
+    "_parentId": "b-10",
+    "_type": "component",
+    "body": "<p><strong>Viena iš pagrindinių kliūčių siekiant poveikio yra jūsų duomenų nenaudojimas. Kaip tai įveikti?</strong></p>",
+    "displayTitle": "Kliūčių įveikimas",
+    "title": "Kliūčių įveikimas",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Pasirink variantą ir spausk ‘submit’",
+    "_items": [
+      {
+        "text": "viešinant duomenis aiškiai pabrėžti, kaip duomenys gali būti panaudoti ir padarant duomenis naudojamais ir kokybiškais;",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "atveriant kaip įmanoma daugiau duomenų;",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "apmokestinant duomenis.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>Teisingai!</strong></p><p>Duomenų panaudojimą galima skatinti juos viešinant ir aiškiai pabrėžiant, kaip jie gali būti panaudoti bei padarant juos panaudojamais ir kokybiškais.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Ar tikrai?</strong></p><p dir=\"ltr\">Duomenų panaudojimą galima skatinti juos viešinant ir aiškiai pabrėžiant, kaip jie gali būti panaudoti bei padarant juos panaudojamais ir kokybiškais.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons":{
+            "submit":"",
+            "reset":"",
+            "showCorrectAnswer":"",
+            "hideCorrectAnswer":""
+        }
+  },
+  {
+    "_id": "59400a15d084d5167a04fa86",
+    "_layout": "right",
+    "_parentId": "b-07",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/lt/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "small": "course/lt/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791\" target=\"_blank\">tai11</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59400a15d084d5167a04fa87",
+    "_layout": "left",
+    "_parentId": "b-08",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/lt/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "small": "course/lt/assets/edd9adfa60a0dc2b857d5e90a86fdf58f3287e66.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59400a15d084d5167a04fa88",
+    "_layout": "right",
+    "_parentId": "b-09",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/lt/assets/0c4e44ae54cc60d53a31c2bcff4471570e961d9d.jpg",
+      "small": "course/lt/assets/0c4e44ae54cc60d53a31c2bcff4471570e961d9d.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-185008832\" target=\"_blank\">suarassawadee</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59400a15d084d5167a04fa89",
+    "_layout": "left",
+    "_parentId": "b-10",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/lt/assets/95974c301fcc4ee60b2f1f1019d3f1f21221dd13.jpg",
+      "small": "course/lt/assets/95974c301fcc4ee60b2f1f1019d3f1f21221dd13.jpg",
+      "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Ghozt_Tramp_-_Business_Communication_Duplicat_model.jpg\" target=\"_blank\">Ghozt Tramp</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59400a15d084d5167a04fa8a",
+    "_layout": "left",
+    "_parentId": "b-11",
+    "_type": "component",
+    "body": "<p>Poveikio užtikrinimas yra esminė atvirų duomenų iniciatyvų dalis siekiant užtikrinti jų tęstinumą. Didžiausias iššūkis- sukurti ar surasti <a href=\"http://opendatabarometer.org/3rdEdition/report/#impact\" target=\"_blank\">tikslingus atvirų duomenų iniciatyvų pavyzdžius, kurie gerina mūsų kasdienybę.</a></p><p>Yra daugybė įrankių, kurie padeda įvertinti organizacijos ar šalies atvirų duomenų politiką, programą ar iniciatyvą. Šiame modulyje mes naudojome <a href=\"https://www.europeandataportal.eu/lt/dashboard\" target=\"_blank\">Europos Duomenų Portalo metodologiją.</a></p><p>Taip pat siekiant poveikio yra kliūčių, bet yra ir būdai jas įveikti.</p><p><a class='course_link' href='../'>Pagrindinis puslapis</a></p>",
+    "displayTitle": "Poveikio pasiekimas",
+    "title": "Poveikio pasiekimas",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59400a15d084d5167a04fa8b",
+    "_layout": "right",
+    "_parentId": "b-01",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "",
+      "small": "",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59400a15d084d5167a04fa92",
+    "_layout": "full",
+    "_parentId": "b-04",
+    "_type": "component",
+    "body": "<p>Yra daugybė įrankių, kurie padeda įvertinti organizacijos ar šalies atvirų duomenų politiką, programą ar iniciatyvą. Kiekvienas toks įrankis turi kiek kitokią metodologiją ir vertinimus, todėl reikia ieškoti tinkamiausio jūsų kontekstui. Pagalvokite, kokie kriterijai yra svarbūs jūsų organizacijai.</p><p>Šiame modulyje detaliau susipažinsime su <a href=\"https://www.europeandataportal.eu/lt/dashboard\" target=\"_blank\">Europos Portalo atvirų duomenų įrankiu,</a> kuris lygina iniciatyvas skirtingose Europos Sąjungos šalyse. </p><p dir=\"ltr\">Taip pat galite susipažinti su <a href=\"https://index.okfn.org/\" target=\"_blank\">Global Open Data Index</a> ir <a href=\"http://opendatabarometer.org\" target=\"_blank\">Open Data Barometer</a>, kurie lygina šalis pasaulio mastu.  </p><p dir=\"ltr\">Atvirų dumenų Europoje metodas vertina tris poveikio sritis: politinę, ekonominę ir socialinę.</strong></p>",
+    "displayTitle": " Kaip įvertinti poveikį?",
+    "title": "Kaip įvertinti poveikį?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Politinis poveikis",
+        "body": "<p dir=\"ltr\">Politinio poveikio faktoriai: poveikis viešojo sektoriaus efektyvumui, skaidrumui ir atskaitomybei.</p><p dir=\"ltr\">2016 m. didžiausią politinį poveikį atvirais duomenimis padarė Slovakija, Airija, Bulgarija, Prancūzija ir Graikija.</p><p dir=\"ltr\"><a href=\"https://www.europeandataportal.eu/lt/dashboard\">Daugiau informacijos</a></p><p dir=\"ltr\">Bulgarijoje viešasis sektorius nebeturi gaišti laiko duomenų užklausoms iš kitų institucijų, todėl sutaupo daug laiko ir finansinių resursų.</p><p dir=\"ltr\">Airijoje<a href=\"https://www.google.com/url?q=http://myplan.ie&amp;sa=D&amp;ust=1496165737909000&amp;usg=AFQjCNGEgrOgEEPPmZOGBCpte6ZzCrutug\" target=\"_blank\">myplan.ie</a> padeda vietinėms savivaldoms standartizuoti planavimo duomenis. Tai padeda duomenų atverėjams koordinuoti savo veiklą ir kelia duomenų kokybės lygį.</p>",
+        "_graphic": {
+          "src": "course/lt/assets/3f1d65f956a8899071b4f3584b4a88d3851863df.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://pixabay.com/lt/hands-hand-raised-hands-raised-220163/\" target=\"_blank\">Kaz</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Politinis poveikis"
+      },
+      {
+        "title": "Ekonominis poveikis",
+        "body": "<p dir=\"ltr\">Ekonominio poveikio kriterijai priklauso nuo makroekonomikos analizių, kurios įvertina atvirų duomenų rinkos vertę.</p><p dir=\"ltr\">2016 m. ekonominio poveikio aspektu labiausiai pažengė Slovakija ir Ispanija.</p><p dir=\"ltr\"><a href=\"https://www.europeandataportal.eu/lt/dashboard\">Daugiau informacijos</a></p><p dir=\"ltr\">Ispanų studija parodė, kad pakartotinis metodologinių duomenų panaudojimas energetikos sektoriuje <a href=\"http:// http://www.ontsi.red.es/ontsi/es/estudios-informes/an%C3%A1lisis-coste-beneficio-de-la-reutilizaci%C3%B3n-de-la-informaci%C3%B3n-meteorol%C3%B3gica-en-el\">sumažina kaštus iki 1000 mln. eurų.</a></p><p dir=\"ltr\">2015 m. atlikta studija apie JK įmones parodė, kad metinė atvirų duomenų investicijų grąža siekia <a href=\"https://theodi.org/open-data-means-business\" target=\"_blank\">daugiau nei 92 mlrd. svarų</a> ir sukuriama daugiau nei 500 tūkst. darbo vietų.</p><p>Daugiau informacijos <a href=\"https://www.europeandataportal.eu/lt/highlights/creating-value-through-open-data\" target=\"_blank\">apie atvirų duomenų ekonominį poveikį Europoje</a>.</p><p dir=\"ltr\">&nbsp;</p>",
+        "_graphic": {
+          "src": "course/lt/assets/e7980bbe7f0e8916f118a2bf24193c8f88211ba2.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/cloud-business-process-management-concept-blue-259560827\" target=\"_blank\">JeKh</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Ekonominis poveikis"
+      },
+      {
+        "title": "Socialinis poveikis",
+        "body": "<p dir=\"ltr\">Socialinio poveikio kriterijai apima aplinkos tvarumo poveikį ir įvarių skirtingų grupių įtraukimą į viešąją politiką ir viešų paslaugų gavimą.</p><p dir=\"ltr\">2016 m. daugiausiai šioje srityje pasiekė Ispanija ir JK.</p><p><a href=\"https://www.europeandataportal.eu/lt/dashboard\" target=\"_blank\">Daugiau informacijos</a></p><p>Ispanijoje buvo sukurtas įrankis <a href=\"http://www.sinbarrera.es/\">Sin Barrera</a>, palengvinantis neįgaliųjų kasdienybę padedant jiems surasti parkavimo vietas, pritaikytas jų poreikiams.</p>",
+        "_graphic": {
+          "src": "course/lt/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-185008832\" target=\"_blank\">suarassawadee</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Socialinis poveikis"
+      }
+    ]
+  },
+  {
+       "_id":"c-95",
+       "_parentId":"b-11",
+       "_type":"component",
+       "_component":"text",
+       "_classes":"separator",
+       "_layout":"full"
+    },
+    {
+       "_id":"c-96",
+       "_parentId":"b-11",
+       "_type":"component",
+       "_component":"text",
+       "_classes": "attribution",
+       "body":"&copy; <a href='https://theodi.org' target='_blank'>Open Data Institute</a>",
+       "_layout":"full"
+    },
+    {
+        "_id":"c-100",
+        "_parentId":"b-11",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"footer-logo",
+        "_layout":"left",
+        "_graphic": {
+            "alt": "Open data institute logo",
+            "title": "Open data institute logo",
+            "large": "course/lt/images/logo-small.png",
+            "medium": "course/lt/images/logo-small.png",
+            "small": "course/lt/images/logo-small.png",
+            "*source":"http://theodi.org",
+            "*credit":"The Open Data Institute",
+            "*license":"All rights reserved"  
+        }
+    },
+    {
+        "_id":"c-104",
+        "_parentId":"b-11",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"attribution not-eu not-default",
+        "_layout":"right",
+        "body":"Content created by <a href='http://theodi.org' target='_blank'>The Open Data Institute</a>"
+    },
+    {
+        "_id":"c-105",
+        "_parentId":"b-11",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"social-buttons not-dlab",
+        "_layout":"right",
+        "body":"<a class='social' target='_blank' href='https://twitter.com/ODIHQ'><img src='course/lt/images/social/twitter.png'></a><a class='social' target='_blank' href='https://soundcloud.com/theodi'><img src='course/lt/images/social/sound.png'></a><a class='social' target='_blank' href='https://www.scribd.com/OpenDataInstitute'><img src='course/lt/images/social/scribd.png'></a><a class='social' target='_blank' href='https://github.com/theodi'><img src='course/lt/images/social/github.png'></a><a class='social' target='_blank' href='https://vimeo.com/theodiuk'><img src='course/lt/images/social/vimeo.png'></a><a class='social' target='_blank' href='https://www.youtube.com/user/OpenDataInstituteUK'><img src='course/lt/images/social/youtube.png'></a><a class='social' target='_blank' href='https://www.flickr.com/photos/ukodi/'><img src='course/lt/images/social/flickr.png'></a>"
+    }
+]
