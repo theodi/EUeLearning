@@ -44,7 +44,7 @@
         "_layout":"full",
         "title":"Duomenų ruošimas per 2 minutes",
         "displayTitle": "Duomenų ruošimas per 2 minutes",
-        "body": "Instruktorius iš Atvirųjų duomenų instituto (angl. „Open Data Institute“, ODI) Davidas Tarrantas paaiškina, kodėl išvalyti atviri duomenys yra svarbu, kaip tai padaryti ir kokiais pagalbiniais įrankiais galima pasinaudoti.",
+        "body": "Dr. Davidas Tarrantas (ODI) paaiškina, kodėl išvalyti atviri duomenys yra svarbu, kaip tai padaryti ir kokiais pagalbiniais įrankiais galima pasinaudoti.",
         "instruction": "Norint įjungti subtitrus, paskausk 'cc' mygtuką video apačioje, dešinėje pusėje.",
         "_setCompletionOn":"ended",
         "_source": "https://player.vimeo.com/video/129197207",
@@ -85,7 +85,7 @@
         "_layout":"right",
         "title":"Kodėl svarbu teisingai paruošti ir valyti duomenis?",
         "displayTitle":"Kodėl svarbu teisingai paruošti ir valyti duomenis?",
-        "body":"<p>Jeigu esate tikri, kad duomenys išvalyti, nepamirškite įsitikinti, ar dirbdami su jais turėsite patikimą atspirties tašką ir sukursite naujos vertės.</p><p>Išvalyti duomenys yra nuoseklūs, nesikartojantys ir paruošti naudoti mašinoms.</p><p>Jei duomenys išvalyti, juos lengviau derinti su skirtingais duomenų rinkiniais ir taip daryti gilesnes įžvalgas.<p>"
+        "body":"<p>Jeigu esate tikri, kad duomenys išvalyti, nepamirškite įsitikinti, ar dirbdami su sukursite naują prdėtinę vertę.</p><p>Išvalyti duomenys yra nuoseklūs, nesikartojantys ir paruošti naudoti mašininio nuskaitymo būdu.</p><p>Jei duomenys išvalyti, juos lengviau derinti su skirtingais duomenų rinkiniais ir taip daryti gilesnes įžvalgas.<p>"
         },
      {
         "_id":"c-32",
@@ -118,9 +118,9 @@
       "instruction": "<em>Paspausk ant antraštės, jei nori pamatyti daugiau.</em>",
       "_items": [
         {
-          "alt": "Netinkamo formato pasirinkimas.",
-          "title": "Netinkamo formato pasirinkimas.",
-          "body": "<p>Nenuoseklus datos rašymas. Paprastai lengva pastebėti netinkamą datos formatą:<br><br>8-rugs-2013 vietoje 8/9/2013<br><br>,tačiau kartais klaida nėra tokia akivaizdi:<br><br>8/9/2013 vietoje 9/8/2013.<br><br>Su dar vienu iššūkiu susiduriama, kai tam tikros taikomosios programos (pavyzdžiui, „Excel“) „spėja“ formatą. Kai tik atidarysite duomenų rinkinį su tokia programa, nebežinosite, kaip data buvo parašyta faile.</p><p>Dažniausiai pasitaikanti klaida – nenuoseklus amerikiečių (MM/DD/YYYY) ir europiečių (DD/MM/YYYY) datos formatų naudojimas.</p>"
+          "alt": "Netinkamo formato pasirinkimas",
+          "title": "Netinkamo formato pasirinkimas",
+          "body": "<p>Nenuoseklus datos rašymas. Paprastai lengva pastebėti netinkamą datos formatą:<br><br>8-rugs-2013 vietoje 8/9/2013<br><br>Tačiau kartais klaida nėra tokia akivaizdi:<br><br>8/9/2013 vietoje 9/8/2013.<br><br>Su dar vienu iššūkiu susiduriama, kai tam tikros taikomosios programos (pavyzdžiui, „Excel“) „spėja“ formatą. Kai tik atidarysite duomenų rinkinį su tokia programa, nebežinosite, kaip data buvo parašyta faile.</p><p>Dažniausiai pasitaikanti klaida – nenuoseklus amerikiečių (MM/DD/YYYY) ir europiečių (DD/MM/YYYY) datos formatų naudojimas.</p>"
         },
         {
           "alt": "Įvairios atvaizdavimo galimybės",
@@ -130,7 +130,7 @@
         {
           "alt": "Pasikartojantys įrašai",
           "title": "Pasikartojantys įrašai",
-          "body": "<p>Pasikartojančiais įrašais laikomi tokie įrašai, kai ta pati duomenų dalis yra įvedama daugiau nei vieną kartą.Pasikartojančių įrašų dažnai atsiranda sujungus duomenų rinkinius arba nežinant, kad įrašas jau buvo įvestas.</p>"
+          "body": "<p>Pasikartojančiais įrašais laikomi tokie įrašai, kai ta pati duomenų dalis yra įvedama daugiau nei vieną kartą. Pasikartojančių įrašų dažnai atsiranda sujungus duomenų rinkinius arba nežinant, kad įrašas jau buvo įvestas.</p>"
         },
         {
           "alt": "Pertekliniai duomenys",
@@ -222,12 +222,12 @@
         "_component": "narrative",
         "title": "Kokia duomenų valymo nauda?",
         "displayTitle": "Kokia duomenų valymo nauda?",
-        "body": "Kalbant apie įrankius, naudojamus atviriesiems duomenims valyti, taip pat svarbu suvokti ir paties duomenų valymo nešamą naudą.",
+        "body": "Kalbant apie įrankius, naudojamus atviriesiems duomenims valyti, svarbu suvokti duomenų valymo naudos potencialą.",
         "instruction": "<em>Paspausk rodyklę, jei nori pamatyti daugiau</em>",
         "_items": [
             {
                 "title": "Pirmenybė duomenų valymui",
-                "body": "<p>Jei duomenys nėra išvalyti, jais remiantis padaryti sprendimai gali būti klaidingi. Dėl to gali kisti pagal duomenis sukuriami produktai arba įžvalgos, o tai kartais gali paveikti tūkstančius ar netgi milijonus žmonių.</p><p>A <a class='' href='http://www.ercim.eu/publication/ws-proceedings/12th-EDRG/EDRG12_JeDiRe.pdf' target='_blank'>Neseniai atliktus tyrimą </a>paaiškėjo, kad analizei skirtų duomenų rengimo procesas gali trukti nuo 60 % iki 80 % duomenimis grindžiamo projekto laiko.</p>",
+                "body": "<p>Jei duomenys nėra išvalyti, jais remiantis padaryti sprendimai gali būti klaidingi. Dėl to gali kisti pagal duomenis sukuriami produktai arba įžvalgos, o tai kartais gali paveikti tūkstančius ar netgi milijonus žmonių.</p><p><a class='' href='http://www.ercim.eu/publication/ws-proceedings/12th-EDRG/EDRG12_JeDiRe.pdf' target='_blank'>Neseniai atliktus tyrimą </a>paaiškėjo, kad analizei skirtų duomenų rengimo procesas gali trukti nuo 60% iki 80% duomenimis grindžiamo projekto laiko.</p>",
                 "_graphic": {
                     "src": "course/lt/images/odi-006.jpg",
                     "alt": "Pirmenybė duomenų valymui",
